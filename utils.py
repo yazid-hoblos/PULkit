@@ -77,8 +77,37 @@ def extract_pul_features(puls):
         
     return pul_features_db
 
-puls = parse_dbcan_pul_data('../dbCAN-PUL_v5.csv', '../dbCAN-PUL.substrate.mapping.csv')
-pul_features = extract_pul_features(puls)
 
-print(f"\nTotal PULs processed: {len(pul_features)}")
-print(f"Unique substrates: {pul_features['Substrate'].nunique()}")
+def group_puls_by_substrate(pul_features, min_group_size=5):
+    """Group PULs by substrate"""
+    substrate_groups = {}
+    pul_features['Substrate_Clean'] = pul_features['Substrate'].str.lower().str.strip()
+    
+    substrate_counts = pul_features['Substrate_Clean'].value_counts()
+    
+    # Only consider substrates with enough examples
+    valid_substrates = substrate_counts[substrate_counts >= min_group_size].index
+    
+    for substrate in valid_substrates:
+        group = pul_features[pul_features['Substrate_Clean'] == substrate]
+        
+        # Get common CAZyme families associated with the substrate
+        all_cazymes = []
+        for cazyme_list in group['CAZymes']:
+            all_cazymes.extend(cazyme_list)
+        
+        common_cazymes = Counter(all_cazymes).most_common() 
+        
+        # Store group information
+        substrate_groups[substrate] = {
+            'count': len(group),
+            'pul_ids': group['PUL_ID'].tolist(),
+            'common_cazymes': common_cazymes
+        }
+        
+        print(f"Substrate: {substrate}, Count: {len(group)}, PUL IDs: {', '.join(group['PUL_ID'].tolist())}") 
+        print(f"Common CAZymes: {common_cazymes[:5]}")
+        print("-" * 50)
+    
+    return substrate_groups
+

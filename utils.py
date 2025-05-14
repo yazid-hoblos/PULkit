@@ -28,27 +28,23 @@ def extract_pul_features(puls):
         organism = pul['organism_name']
         substrate = pul['substrate']
         
-        if pd.notnull(pul['cazymes_predicted_dbcan']):
-            cazymes_str = pul['cazymes_predicted_dbcan']
-        else:
-            cazymes_str = pul['cazymes_predicted_dbCAN2'] if pd.notnull(pul['cazymes_predicted_dbCAN2']) else ""
-        
+        cazymes_str = pul['cazymes_predicted_dbcan'] if pd.notnull(pul['cazymes_predicted_dbcan']) else ""
+
         # Parse CAZymes
         cazymes = []
         if cazymes_str and isinstance(cazymes_str, str):
             for caz in cazymes_str.split(','):
                 if '|' in caz:
                     # For cases like "GH30|GH30_8", take the first part
-                    caz = caz.split('|')[0].strip()
-                
+                    caz = caz.split('|')[0].strip() 
                 if '_' in caz:
                     caz = caz.split('_')[0].strip()
                 
-                if caz.startswith(('GH', 'GT', 'CE', 'PL', 'AA', 'CBM')):
+                if caz.startswith(('GH', 'GT', 'CE', 'PL', 'CBM')):
                     cazymes.append(caz)
         
-        gene_count = pul['num_genes'] if pd.notnull(pul['num_genes']) else 0
-        cazyme_count = pul['num_cazymes'] if pd.notnull(pul['num_cazymes']) else 0
+        gene_count = int(pul['num_genes']) if pd.notnull(pul['num_genes']) else 0
+        cazyme_count = int(pul['num_cazymes']) if pd.notnull(pul['num_cazymes']) else 0
         
         # Extract genomic range to calculate PUL size
         size = 0
@@ -75,10 +71,13 @@ def extract_pul_features(puls):
             feature_dict[f'CAZyme_{family}'] = count
         
         pul_features.append(feature_dict)
-    
-    return pd.DataFrame(pul_features)
+        pul_features_db = pd.DataFrame(pul_features)
+        
+        # pul_features_db.to_csv('pul_features.csv', index=True)
+        
+    return pul_features_db
 
-puls = parse_dbcan_pul_data('dbCAN-PUL_v5.csv', 'dbCAN-PUL.substrate.mapping.csv')
+puls = parse_dbcan_pul_data('../dbCAN-PUL_v5.csv', '../dbCAN-PUL.substrate.mapping.csv')
 pul_features = extract_pul_features(puls)
 
 print(f"\nTotal PULs processed: {len(pul_features)}")

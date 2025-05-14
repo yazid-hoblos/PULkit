@@ -60,3 +60,27 @@ def prepare_ml_classifier(pul_features, substrate_groups):
     
     return clf, le, family_to_idx, X_test, y_test
 
+
+def predict_pul_type_with_rf(clf, le, family_to_idx, pul_features):
+    """Predict PUL type using the trained Random Forest classifier"""
+    
+    all_cazyme_families = set(family_to_idx.keys())
+    X = np.zeros((len(pul_features), len(all_cazyme_families)))
+    
+    for i, cazyme_list in enumerate(pul_features['CAZymes']):
+        for family in cazyme_list:
+            if family in family_to_idx:
+                X[i, family_to_idx[family]] = 1
+    
+    # Add other features
+    if 'CAZyme_Count' in pul_features and 'Gene_Count' in pul_features:
+        additional_features = np.array(pul_features[['CAZyme_Count', 'Gene_Count']])
+        X = np.hstack((X, additional_features))
+    
+    # Predict
+    y_pred = clf.predict(X)
+    
+    # Decode predictions
+    pul_features['Predicted_Type'] = le.inverse_transform(y_pred)
+    
+    return pul_features

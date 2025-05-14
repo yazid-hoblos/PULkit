@@ -111,3 +111,47 @@ def group_puls_by_substrate(pul_features, min_group_size=5):
     
     return substrate_groups
 
+
+def identify_pul_signatures(pul_features, substrate_groups, t=0.5):
+    """Identify signature patterns for each substrate group"""
+    '''t: threshold for min percentage of occurence of CAZymes in a substrate group'''
+    signatures = {}
+    
+    for substrate, group_info in substrate_groups.items():
+        pul_ids = group_info['pul_ids']
+        substrate_puls = pul_features[pul_features['PUL_ID'].isin(pul_ids)]
+        
+        cazyme_combinations = []
+        for _, pul in substrate_puls.iterrows():
+            cazymes = pul['CAZymes']
+
+            if len(cazymes) < 2:
+                continue
+                
+            for i in range(len(cazymes)):
+                for j in range(i+1, len(cazymes)):
+                    combination = f"{cazymes[i]}+{cazymes[j]}"
+                    cazyme_combinations.append(combination)
+        
+        common_combinations = Counter(cazyme_combinations)
+        
+        threshold = len(substrate_puls) * t
+        
+        # Filter combinations that meet the threshold
+        significant_combinations = [combo for combo, count in common_combinations.items() 
+                                  if count >= threshold]
+        
+        # Get individual significant CAZymes
+        significant_cazymes = [caz for caz, count in group_info['common_cazymes'] if count >= threshold]
+        
+        signatures[substrate] = {
+            'cazyme_signatures': significant_cazymes,
+            'combination_signatures': significant_combinations}
+        
+        print(f"Substrate: {substrate}")
+        print(f"Signature CAZymes: {', '.join(significant_cazymes[:5])}")
+        print(f"Signature Combinations: {', '.join(significant_combinations[:5])}")
+        print("-" * 50)
+    
+    return signatures
+

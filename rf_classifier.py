@@ -3,7 +3,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.model_selection import train_test_split
 from sklearn.preprocessing import LabelEncoder
 from sklearn.metrics import classification_report
-
+import pandas as pd
 
 def prepare_ml_classifier(pul_features, substrate_groups):
     """Prepare and train a machine learning classifier for PUL substrate prediction"""
@@ -82,5 +82,49 @@ def predict_pul_type_with_rf(clf, le, family_to_idx, pul_features):
     
     # Decode predictions
     pul_features['Predicted_Type'] = le.inverse_transform(y_pred)
+    pul_features['True_Type'] = pul_features['Substrate_Clean'].apply(lambda x: x if x in le.classes_ else 'Unknown')
     
     return pul_features
+
+
+def evaluate_classification(predictions):
+    """Evaluate the classification performance"""
+    # Filter out unknowns 
+    valid_predictions = predictions[(predictions['Predicted_Type'] != 'Unknown') & 
+                                   (predictions['True_Type'] != 'Unknown')] 
+    
+    # overall accuracy
+    correct = (valid_predictions['Predicted_Type'] == valid_predictions['True_Type']).sum()
+    total = len(valid_predictions)
+    accuracy = correct / total if total > 0 else 0
+    
+    print(f"Overall accuracy: {accuracy:.4f} ({correct}/{total})")
+    
+    # per-substrate metrics
+    results = {}
+    for substrate in valid_predictions['True_Type'].unique():
+        substrate_puls = valid_predictions[valid_predictions['True_Type'] == substrate]
+        substrate_correct = (substrate_puls['Predicted_Type'] == substrate_puls['True_Type']).sum()
+        substrate_total = len(substrate_puls)
+        substrate_accuracy = substrate_correct / substrate_total if substrate_total > 0 else 0
+        
+        results[substrate] = {
+            'accuracy': substrate_accuracy,
+            'correct': substrate_correct,
+            'total': substrate_total
+        }
+        
+        print(f"Substrate {substrate}: {substrate_accuracy:.4f} ({substrate_correct}/{substrate_total})")
+    
+    # confusion matrix
+    confusion = pd.crosstab(
+        valid_predictions['True_Type'], 
+        valid_predictions['Predicted_Type'], 
+        rownames=['True'], 
+        colnames=['Predicted']
+    )
+    
+    print("\nConfusion Matrix:")
+    print(confusion)
+    
+    return results, confusion

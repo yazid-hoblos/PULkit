@@ -18,12 +18,19 @@ print("\nTraining machine learning classifier...")
 clf, le, family_to_idx, X_test, y_test = prepare_ml_classifier(pul_features, substrate_groups)
 
 rf_predictions = predict_pul_type_with_rf(clf, le, family_to_idx, pul_features)
-# print(rf_predictions)
+print(rf_predictions)
+
 
 print("\nPredicting PUL types using rule-based approach...")
 rule_predictions = predict_pul_type_with_rules(pul_features, rule_sets)
-# print(rule_predictions)
+print(rule_predictions)
 
+
+print("\nEvaluating rule-based classifications...")
+rule_results, rule_confusion = evaluate_classification(rule_predictions)
+print("\nEvaluating Random Forest classifications...")
+rf_results, rf_confusion = evaluate_classification(rf_predictions)
+    
 
 
 

@@ -30,6 +30,10 @@ print("\nEvaluating rule-based classifications...")
 rule_results, rule_confusion = evaluate_classification(rule_predictions)
 print("\nEvaluating Random Forest classifications...")
 rf_results, rf_confusion = evaluate_classification(rf_predictions)
+
+
+compare_predictions(rf_results, rule_results)
+compare_confusion_matrices(rf_results, rule_results)
     
 
 

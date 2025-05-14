@@ -17,5 +17,10 @@ rule_sets = create_pul_rule_sets(signatures, pul_features, substrate_groups)
 print("\nTraining machine learning classifier...")
 clf, le, family_to_idx, X_test, y_test = prepare_ml_classifier(pul_features, substrate_groups)
 
+print("\nPredicting PUL types using rule-based approach...")
+rule_predictions = predict_pul_type_with_rules(pul_features, rule_sets)
+print(rule_predictions)
+
+
 
     

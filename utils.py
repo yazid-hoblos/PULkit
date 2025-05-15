@@ -40,7 +40,7 @@ def extract_pul_features(puls):
                 if '_' in caz:
                     caz = caz.split('_')[0].strip()
                 
-                if caz.startswith(('GH', 'GT', 'CE', 'PL', 'CBM')):
+                if caz.startswith(('GH', 'GT', 'CE', 'PL', 'CBM')): #AA
                     cazymes.append(caz)
         
         gene_count = int(pul['num_genes']) if pd.notnull(pul['num_genes']) else 0

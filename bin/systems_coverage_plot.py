@@ -91,6 +91,40 @@ def load_data_with_genome_ids(args):
     
     return data
 
+
+def compute_system_overlap(df1, df2):
+    """Compute system overlap between two datasets."""
+    overlap_data = []
+    df2_by_contig = {contig: group for contig, group in df2.groupby('contig')}
+    
+    for sys1, group1 in tqdm(df1.groupby('system_number')):
+        total_genes1 = len(group1)
+        matched_genes = set()
+        
+        for _, gene1 in group1.iterrows():
+            contig = gene1['contig']
+            if contig not in df2_by_contig:
+                continue
+                
+            group2 = df2_by_contig[contig]
+            for _, gene2 in group2.iterrows():
+                if genes_overlap(gene1, gene2):
+                    matched_genes.add(gene2['system_number'])
+                    
+        for sys2 in matched_genes:
+            overlap_data.append({
+                'system1': sys1,
+                'system2': sys2,
+                'matched_genes': sum(1 for _, gene1 in group1.iterrows()
+                                   if any(genes_overlap(gene1, gene2) 
+                                        for _, gene2 in df2[df2['system_number'] == sys2].iterrows())),
+                'total_genes1': total_genes1,
+                'total_genes2': len(df2[df2['system_number'] == sys2])
+            })
+    
+    return pd.DataFrame(overlap_data)
+
+
 def compute_system_overlap_by_genome(df1, df2, tool1, tool2):
     """Compute system overlap between two datasets, separated by genome."""
     overlap_data = []
@@ -148,40 +182,6 @@ def compute_system_overlap_by_genome(df1, df2, tool1, tool2):
     
     return pd.DataFrame(overlap_data)
 
-
-
-def compute_system_overlap(df1, df2):
-    """Compute system overlap between two datasets."""
-    overlap_data = []
-    df2_by_contig = {contig: group for contig, group in df2.groupby('contig')}
-    
-    for sys1, group1 in tqdm(df1.groupby('system_number')):
-        total_genes1 = len(group1)
-        matched_genes = set()
-        
-        for _, gene1 in group1.iterrows():
-            contig = gene1['contig']
-            if contig not in df2_by_contig:
-                continue
-                
-            group2 = df2_by_contig[contig]
-            for _, gene2 in group2.iterrows():
-                if genes_overlap(gene1, gene2):
-                    matched_genes.add(gene2['system_number'])
-                    
-        for sys2 in matched_genes:
-            overlap_data.append({
-                'system1': sys1,
-                'system2': sys2,
-                'matched_genes': sum(1 for _, gene1 in group1.iterrows()
-                                   if any(genes_overlap(gene1, gene2) 
-                                        for _, gene2 in df2[df2['system_number'] == sys2].iterrows())),
-                'total_genes1': total_genes1,
-                'total_genes2': len(df2[df2['system_number'] == sys2])
-            })
-    
-    return pd.DataFrame(overlap_data)
-
 # def compute_system_overlap_by_genome(df1, df2, tool1, tool2):
 #     """Compute system overlap between two datasets, separated by genome."""
 #     overlap_data = []
@@ -231,14 +231,15 @@ def generate_coverage_plots_by_genome(overlap_df, tool1, tool2, output_dir):
     thresholds = np.arange(0, 1.01, 0.05)
     overlap_df['coverage'] = overlap_df['matched_genes'] / overlap_df['total_genes2']
     
-    # Create per-genome directory
-    # genome_dir = os.path.join(output_dir, "per_genome")
-    # os.makedirs(genome_dir, exist_ok=True)
-    
-    # Per-genome plots
     genomes = overlap_df['genome'].unique()
     coverage_counts = pd.DataFrame(index=thresholds, columns=genomes)
     
+    #seperate plot per genome 
+    
+    # Create per-genome directory
+    # genome_dir = os.path.join(output_dir, "per_genome")
+    # os.makedirs(genome_dir, exist_ok=True)
+
     # for genome in genomes:
     #     genome_df = overlap_df[overlap_df['genome'] == genome]
     #     for thresh in thresholds:
@@ -274,6 +275,26 @@ def generate_coverage_plots_by_genome(overlap_df, tool1, tool2, output_dir):
     plt.tight_layout()
     plt.savefig(os.path.join(output_dir, f"per_genome_coverage_combined.png"), dpi=300, bbox_inches='tight')
     plt.close()
+    
+    #aggregate all genomes for a single plot
+    
+    # all_genomes_covered = []
+    # for thresh in thresholds:
+    #     passing = overlap_df[overlap_df['coverage'] >= thresh]
+    #     all_genomes_covered.append(len(passing['system2'].unique()))
+    
+    # plt.plot(thresholds, all_genomes_covered, 
+    #         marker='o', label='All Genomes', 
+    #         color='red', linewidth=2, alpha=1.0)
+    
+    # plt.xlabel(f"Coverage Threshold of {tool2} System")
+    # plt.ylabel(f"Number of {tool2} Systems Covered by {tool1}")
+    # plt.title(f"Coverage of {tool2} Systems by {tool1} Predictions")
+    # plt.legend(title="Genome", bbox_to_anchor=(1.05, 1), loc='upper left')
+    # plt.grid(True)
+    # plt.tight_layout()
+    # plt.savefig(os.path.join(output_dir, f"coverage_all.png"), dpi=300, bbox_inches='tight')
+    # plt.close()
 
 
 def generate_coverage_plot(overlap_df, tool1, tool2, output_path):
@@ -327,6 +348,10 @@ def main():
             os.makedirs(tool_dir, exist_ok=True)
             
             overlap_df_by_genome = compute_system_overlap_by_genome(data[tool1], data[tool2], tool1, tool2)
+            if not overlap_df_by_genome.empty:
+                generate_coverage_plots_by_genome(overlap_df_by_genome, tool1, tool2, tool_dir)
+                print(f"Generated plots in: {tool_dir}")
+                
             overlap_df = compute_system_overlap(data[tool1], data[tool2])
             
             if not overlap_df.empty:
@@ -334,9 +359,6 @@ def main():
                 generate_coverage_plot(overlap_df, tool1, tool2, output_path)
                 print(f"Generated plot: {output_path}")   
                          
-            if not overlap_df_by_genome.empty:
-                generate_coverage_plots_by_genome(overlap_df_by_genome, tool1, tool2, tool_dir)
-                print(f"Generated plots in: {tool_dir}")
 
 if __name__ == "__main__":
     main()

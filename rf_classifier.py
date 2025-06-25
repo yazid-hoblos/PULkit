@@ -90,8 +90,13 @@ def predict_pul_type_with_rf(clf, le, family_to_idx, pul_features):
 def evaluate_classification(predictions):
     """Evaluate the classification performance"""
     # Filter out unknowns 
-    valid_predictions = predictions[(predictions['Predicted_Type'] != 'Unknown') & 
-                                   (predictions['True_Type'] != 'Unknown')] 
+    valid_predictions = predictions
+    #predictions[(predictions['Predicted_Type'] != 'Unknown') & 
+    #                              (predictions['True_Type'] != 'Unknown')] 
+    
+    # print the count of unknowns
+    unknown_count = len(predictions[predictions['Predicted_Type'] == 'Unknown'])
+    print(f"Number of unknown predictions: {unknown_count}")
     
     # overall accuracy
     correct = (valid_predictions['Predicted_Type'] == valid_predictions['True_Type']).sum()

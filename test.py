@@ -2,7 +2,7 @@ from utils import *
 from PUL_rules import *
 from rf_classifier import *
 
-puls = parse_dbcan_pul_data('../dbCAN-PUL_v5.csv', '../dbCAN-PUL.substrate.mapping.csv')
+puls = parse_dbcan_pul_data('../data/dbCAN-PUL_v5.csv', '../data/dbCAN-PUL.substrate.mapping.csv') #../pul_components.csv
 pul_features = extract_pul_features(puls)
 
 print(f"\nTotal PULs processed: {len(pul_features)}")

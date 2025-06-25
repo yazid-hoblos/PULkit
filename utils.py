@@ -257,7 +257,8 @@ def compare_predictions(rf_results, rule_results):
     
     plt.tight_layout()
     plt.subplots_adjust(hspace=0.4)
-    plt.savefig('classifiers_comparison.png', dpi=500)
+    plt.show()
+    # plt.savefig('classifiers_comparison.png', dpi=500)
     
 
 def compare_confusion_matrices(rf_results, rule_results):
@@ -313,4 +314,5 @@ def compare_confusion_matrices(rf_results, rule_results):
         table[(0, i)].set_text_props(weight='bold')
     
     plt.axis('off')
-    plt.savefig('confusion_matrices_comparison.png', dpi=900)
+    plt.show()
+    # plt.savefig('confusion_matrices_comparison.png', dpi=900)

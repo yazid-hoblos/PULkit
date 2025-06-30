@@ -1,0 +1,121 @@
+# dbCAN Testing
+## ncbi API accession
+curl -o datasets 'https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/LATEST/linux-amd64/datasets'
+curl -o dataformat 'https://ftp.ncbi.nlm.nih.gov/pub/datasets/command-line/LATEST/linux-amd64/dataformat'
+chmod +x datasets dataformat
+
+## Extracting a Bacteroides fragilis genome instance
+./datasets download genome accession GCF_000025985.1 --include gff3,rna,cds,protein,genome,seq-report
+
+## dbCAN annotation
+jobify -t 20:0:00 -b "run_dbcan --db_dir /env/cns/proj/agc/scratch_microscope/Data/DBCAN/899 GCF_000025985.1/protein.faa protein --out_dir dbcan-output"
+## with CGC-Finder
+jobify -t 20:0:00 -b "run_dbcan --db_dir /env/cns/proj/agc/scratch_microscope/Data/DBCAN/899 GCF_000025985.1/protein.faa protein -c GCF_000025985.1/genomic.gff --out_dir dbcan-cgc-output"
+
+
+# Setup HMMs for annotation
+## Access dbCAN CAZymes HMMs Database
+curl -o dbcanHMM-v13 https://bcb.unl.edu/dbCAN2/download/Databases/V13/dbCAN-HMMdb-V13.txt
+panorama utils --hmm dbcanHMM-v13 -o CAZyme-HMM
+
+curl -o dbcanHMM-v12 https://bcb.unl.edu/dbCAN2/download/Databases/V12/dbCAN-HMMdb-V12.txt
+diff /env/cns/proj/agc/scratch_microscope/Data/DBCAN/899/dbCAN.txt dbcanHMM-v12
+panorama utils --hmm dbcanHMM-v12 -o older-CAZymes-HMM
+
+## STP qnd TF HMMs
+curl -o stpHMM https://bcb.unl.edu/dbCAN2/download/Databases/stp.hmm
+curl -o tfHMM https://bcb.unl.edu/dbCAN2/download/Databases/tf-1.hmm
+curl -o tfHMM2 https://bcb.unl.edu/dbCAN2/download/Databases/tf-2.hmm
+
+panorama utils --hmm tfHMM -o TF-HMM
+panorama utils --hmm tfHMM2 -o TF-HMM2
+
+
+# Formulate dbCAN CGC-Finder as a rule-based model
+cut -f1 HMM-Databases/CAZyme-HMM/hmm_list.tsv | sed "s/.hmm//g" | tail -n +2 > models/HMMdb-CAZymes
+cat HMMdb-CAZymes | tr '\n' ',' | sed 's/,/","/g' | sed 's/^/["/' > HMMdb-CAZymes-formatted
+
+panorama utils --models rules.json -o rules-dir 
+
+
+# Extracting PUL data
+curl -o dbCAN-PUL_v5 https://aca.unl.edu/static/DBCAN-PUL/dbCAN-PUL_v5_05-10-2023.xlsx
+
+for PUL in /env/cns/proj/agc/scratch_microscope/Data/DBCAN/899/dbCAN-PUL/*;do echo -n "$(basename $PUL)"$','; cut -f3,9 $PUL/cgc.gff | cut -d ';' -f1 | tr '\n' ',';echo;done > dbcanPUL-components-formatted.csv
+sed -i 's/\t/;/g' dbcanPUL-components-formatted.csv
+
+
+# Systems annotation on Bacteroides_thetaiotaomicron
+cp -r /env/cns/proj/pangbank/collection/GTDB_RS220_refseq/pangbank_results/pangenomes/s__Bacteroides_thetaiotaomicron/ .
+
+jobify -b "panorama systems -p s__Bacteroides_thetaiotaomicron/pangenome.tsv -m rules-dir/models_list.tsv -s dbcan"
+jobify --mem 35GB -t 10:00:00 -b "panorama write_systems -p s__Bacteroides_thetaiotaomicron/pangenome.tsv -m rules-dir/models_list.tsv -s dbcan -o systems-t1 --projection"
+
+
+# dbCAN CGC predictions for all genomes of the B. thetaiotaomicron
+## Access all genomes from ncbi
+datasets download genome accession --inputfile panorama_systems/s__Bacteroides_thetaiotaomicron/genomes_list.txt --filename genomes.zip  --include protein,gff3
+unzip genomes.zip
+mv ncbi_dataset/data/* Bt_genomes
+rm -r ncbi_dataset
+
+## Run dbcan CGC-Finder for each genome
+sbatch scripts/cgc-script.bash
+
+grep -P "\tCDS\t" panorama-systtems/s__Bacteroigenomic.gff" | awk '{match($0, /locus_tag=([^;]+)/, a);match($0, /protein_id=([^;]+)/, b);if (a[1] && b[1]) print a[1] "\t" b[1];}' > ids_mapping
+
+module load diamond
+diamond blastp -q panorama-systems/s__Bacteroides_thetaiotaomicron/all_protein_families.faa -d /env/cns/proj/agc/scratch_microscope/Data/DBCAN/899/tcdb.dmnd -o tp_results.txt -e 1e-5 -k 1 --id 30 --query-cover 0.5 --subject-cover 0.5
+awk '{split($2, a, "|"); fam=a[4]; printf "%s\t%s\tdiamond\t1\tEC#=-;HMMER=-;dbCAN_sub=-;DIAMOND=%s;#ofTools=1\n", $1, fam, fam}' tp_results.txt
+awk -F'\t' 'BEGIN{OFS=FS} {$2="TC"; print}' tp_results.txt | awk '{split($2, a, "|"); fam=a[4]; printf "%s\t%s\tdiamond\t1\tEC#=-;HMMER=-;dbCAN_sub=-;DIAMOND=%s;#ofTools=1\n", $1, fam, fam}'
+awk -F'\t' 'BEGIN{OFS=FS} {$2="TC"; print}' tp_results.txt | awk -F '\t' '{split($2, a, "|"); fam=a[4]; printf "%s\t%s\tdiamond\t1\tEC#=-;HMMER=-;dbCAN_sub=-;DIAMOND=%s;#ofTools=1\n", $1, fam, fam}'
+awk '{split($2, a, "|"); fam=a[4]; printf "%s\t%s\tdiamond\t1\tEC#=-;HMMER=-;dbCAN_sub=-;DIAMOND=%s;#ofTools=1\n", $1, fam, fam}' tp_results.txt >> tps
+
+
+
+cut -f1 dbcan-results/*/overview.txt | grep -v -F "==>" | sort | uniq > caz
+grep -Ff caz mapping_ids/family_protein | cut -f1 > all_caz
+
+awk -v OFS='\t' '{print $0, "TF", 0}' all_tfs > all_annotations
+awk -v OFS='\t' '{print $0, "CAZyme", 0}' all_caz >> all_annotations 
+awk -v OFS='\t' '{print $0, "STP", 0}' all_stps >> all_annotations
+awk -v OFS='\t' '{print $0, "TC", 0}' all_tcs >> all_annotations
+
+
+tail -n +2 dbcan-results/*/overview.txt | cut -f1 | grep -v -F "==>" alpha | sort | uniq > all_dbcan_proteins
+grep -f all_dbcan_proteins mapping_ids/family_protein > all_dbcan_family-protein
+
+
+ppanggolin write_pangenome -p panorama-systems/s__Bacteroides_thetaiotaomicron/pangenome.h5 --families_tsv -o ppanggolin_fams
+
+
+cut -f1,9 Bt_metadata/families_metadata_from_CAZ-TF-STP.tsv > all_annotations
+tail -n +2 tps | cut -f1-2 >> all_annotations
+awk 'BEGIN{FS=OFS="\t"} {print $0, 0}' all_annotations > caz_tf_tc_stp_metadata
+
+
+awk 'FNR==NR {ids[$1]; next} $3 == "gene" {
+    old = ""; locus = "";
+    if (match($9, /old_locus_tag=([^;]+)/, a)) old = a[1];
+    if (match($9, /locus_tag=([^;]+)/, b)) locus = b[1];
+    if (old in ids) print $1, $4, $5, $7, locus, old;
+}' OFS='\t' cazy_predictions systems_detection/Pd_systems/s__Prevotella_denticola/Pd_genomes/*/*gff > mappings.tsv
+
+
+
+xargs -n1 -I{} scripts/tools/datasets summary genome accession {} --as-json-lines < genomes > all_metadata.jsonl
+
+
+jq -r '[.accession, .organism.organism_name, (.organism.infraspecific_names.strain // "NA"), .organism.tax_id] | @tsv' all_metadata.jsonl > genome_metadata.tsv
+
+xlsx2csv dbCAN-PUL.xlsx -d '!' | tr ',' ';' | tr '!' '\t' > dbCAN-PUL.tsv
+
+ppanggolin write_genomes -p systems_detection/Pd_systems/s__Prevotella_denticola/reconstructed_pangenome/pangenome.h5 --proksee -o output
+
+ppanggolin write_pangenome -p pangenome.h5 --families_tsv
+
+for g in alpha/Prevotella_denticola/dbcan-merged/projection/*;do echo -e "$(basename $g);$(cut -f1 $g | grep , | sort | uniq | tr '\n' ';')" >> reduce;done
+sed -i "s/.tsv//g" reduce
+
+
+ppanggolin write_genomes -p Prev_pan/s__Prevotella_denticola/pangenome.h5 --gff -o test # write gff files from pangenome for dbcan use

@@ -1,0 +1,34 @@
+{
+    "name": "tp-only",
+    "func_units": [
+      {
+        "name": "PUL",
+        "presence": "mandatory",
+        "same_strand": false,
+        "parameters": {
+          "min_mandatory": 2,
+          "min_total": 2,
+          "transitivity": 0
+        },
+        "families": [
+          {
+            "name": "CAZyme",
+            "presence": "mandatory"
+          },
+	  {
+	    "name": "TF",
+	    "presence": "accessory"
+          },
+          {"name": "TC",
+           "presence": "mandatory"
+          }
+        ]
+      }
+    ],
+    "parameters": {
+      "min_mandatory": 1,
+      "min_total": 1,
+      "transitivity": 0
+    }
+}
+

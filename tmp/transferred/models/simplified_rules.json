@@ -1,0 +1,37 @@
+{
+    "name": "CGC-Finder Model",
+    "func_units": [
+      {
+        "name": "PUL",
+        "presence": "mandatory",
+        "same_strand": false,
+        "parameters": {
+          "min_mandatory": 3,
+          "min_total": 3,
+          "transitivity": 1
+        },
+        "families": [
+          {
+            "name": "CAZyme",
+            "presence": "mandatory"
+          },
+	  {
+	    "name": "TF",
+	    "presence": "mandatory"
+          },
+          {"name": "TC",
+           "presence": "mandatory"
+          },
+          {"name":"STP",
+	   "presence": "accessory"
+          }         
+        ]
+      }
+    ],
+    "parameters": {
+      "min_mandatory": 1,
+      "min_total": 1,
+      "transitivity": 0
+    }
+}
+

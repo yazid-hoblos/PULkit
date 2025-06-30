@@ -1,0 +1,2 @@
+[console_scripts]
+panorama = panorama.main:main

@@ -1,0 +1,563 @@
+system number	system name	functional unit name	subsystem number	gene family	partition	annotation	secondary_names	gene.ID	gene.name	contig	start	stop	strand	is_fragment	genomic organization	product
+1, 2, 4, 5, 8	tp-only	PUL	3, 3, 5, 5, 5	J5A64_RS05550	persistent			KZO69_RS02495		NZ_JAHXCL010000003.1	189551	190054	-	False	split, split, split, split, split	4'-phosphopantetheinyl transferase superfamily protein, 4'-phosphopantetheinyl transferase superfamily protein, 4'-phosphopantetheinyl transferase superfamily protein, 4'-phosphopantetheinyl transferase superfamily protein, 4'-phosphopantetheinyl transferase superfamily protein
+1, 2, 4, 5, 8	tp-only	PUL	3, 3, 5, 5, 5	J5A64_RS05545	persistent	STP, STP, STP, STP, STP		KZO69_RS02500		NZ_JAHXCL010000003.1	190038	191357	-	False	split, split, split, split, split	gliding motility-associated protein GldE, gliding motility-associated protein GldE, gliding motility-associated protein GldE, gliding motility-associated protein GldE, gliding motility-associated protein GldE
+1, 2, 4, 5, 8	tp-only	PUL	3, 3, 5, 5, 5	J5A64_RS05540	persistent			KZO69_RS02505		NZ_JAHXCL010000003.1	191357	191764	-	False	split, split, split, split, split	single-stranded DNA-binding protein, single-stranded DNA-binding protein, single-stranded DNA-binding protein, single-stranded DNA-binding protein, single-stranded DNA-binding protein
+1, 2, 4, 5, 8	tp-only	PUL	3, 3, 3, 4, 4	J5A64_RS05535	persistent			KZO69_RS02510		NZ_JAHXCL010000003.1	191796	192335	-	False	split, split, split, split, split	hypothetical protein, hypothetical protein, hypothetical protein, hypothetical protein, hypothetical protein
+1, 2, 4, 5, 6, 8	tp-only	PUL	3, 3, 3, 3, 4, 4	J5A64_RS05505	persistent	STP, STP, STP, STP, STP, STP		KZO69_RS02540		NZ_JAHXCL010000003.1	193549	194739	-	False	split, split, split, split, split, split	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+1, 2, 4, 5, 6, 8	tp-only	PUL	3, 3, 3, 3, 4, 4	J5A64_RS05500	persistent			KZO69_RS02545		NZ_JAHXCL010000003.1	194936	195967	+	False	split, split, split, split, split, split	diacylglycerol kinase family lipid kinase, diacylglycerol kinase family lipid kinase, diacylglycerol kinase family lipid kinase, diacylglycerol kinase family lipid kinase, diacylglycerol kinase family lipid kinase, diacylglycerol kinase family lipid kinase
+1, 2, 4, 5, 6, 8	tp-only	PUL	1, 1, 1, 1, 1, 1	PGY10_RS01495	persistent			KZO69_RS02550		NZ_JAHXCL010000003.1	195969	196667	+	False	split, split, split, split, split, split	methyltransferase, methyltransferase, methyltransferase, methyltransferase, methyltransferase, methyltransferase
+1, 2, 4, 5, 6, 8	tp-only	PUL	1, 1, 1, 1, 1, 1	J5A64_RS05490	persistent	STP, STP, STP, STP, STP, STP		KZO69_RS02555		NZ_JAHXCL010000003.1	196798	199266	+	False	split, split, split, split, split, split	endopeptidase La, endopeptidase La, endopeptidase La, endopeptidase La, endopeptidase La, endopeptidase La
+1, 2, 4, 5, 6, 8	tp-only	PUL	1, 1, 1, 1, 1, 1	J5A64_RS05485	persistent			KZO69_RS02560		NZ_JAHXCL010000003.1	199263	200390	+	False	split, split, split, split, split, split	tRNA guanosine(34) transglycosylase Tgt, tRNA guanosine(34) transglycosylase Tgt, tRNA guanosine(34) transglycosylase Tgt, tRNA guanosine(34) transglycosylase Tgt, tRNA guanosine(34) transglycosylase Tgt, tRNA guanosine(34) transglycosylase Tgt
+1, 2, 4, 5, 6, 8	tp-only	PUL	4, 4, 4, 4, 5, 5	J5A64_RS05480	persistent			KZO69_RS02565		NZ_JAHXCL010000003.1	200402	201619	+	False	split, split, split, split, split, split	LptF/LptG family permease, LptF/LptG family permease, LptF/LptG family permease, LptF/LptG family permease, LptF/LptG family permease, LptF/LptG family permease
+1, 2, 4, 5, 6, 8	tp-only	PUL	4, 4, 4, 4, 5, 5	J5A64_RS05475	persistent	TC, TC, TC, TC, TC, TC		KZO69_RS02570		NZ_JAHXCL010000003.1	201683	203401	+	False	split, split, split, split, split, split	DEAD/DEAH box helicase, DEAD/DEAH box helicase, DEAD/DEAH box helicase, DEAD/DEAH box helicase, DEAD/DEAH box helicase, DEAD/DEAH box helicase
+1, 2, 4, 5, 6, 8	tp-only	PUL	4, 4, 4, 4, 5, 5	PGY10_RS01470	persistent	CAZyme, CAZyme, CAZyme, CAZyme, CAZyme, CAZyme		KZO69_RS02575		NZ_JAHXCL010000003.1	203715	205049	+	False	split, split, split, split, split, split	NADP-specific glutamate dehydrogenase, NADP-specific glutamate dehydrogenase, NADP-specific glutamate dehydrogenase, NADP-specific glutamate dehydrogenase, NADP-specific glutamate dehydrogenase, NADP-specific glutamate dehydrogenase
+1, 2, 4, 5, 6, 8	tp-only	PUL	4, 4, 4, 4, 5, 5	J5A64_RS05465	persistent			KZO69_RS02580		NZ_JAHXCL010000003.1	205302	207050	+	False	split, split, split, split, split, split	bifunctional metallophosphatase/5'-nucleotidase, bifunctional metallophosphatase/5'-nucleotidase, bifunctional metallophosphatase/5'-nucleotidase, bifunctional metallophosphatase/5'-nucleotidase, bifunctional metallophosphatase/5'-nucleotidase, bifunctional metallophosphatase/5'-nucleotidase
+1, 2, 4, 5, 6, 8	tp-only	PUL	4, 4, 4, 4, 5, 5	J5A64_RS05460	persistent	STP, STP, STP, STP, STP, STP		KZO69_RS02585		NZ_JAHXCL010000003.1	207383	208159	+	False	split, split, split, split, split, split	NAD(+) diphosphatase, NAD(+) diphosphatase, NAD(+) diphosphatase, NAD(+) diphosphatase, NAD(+) diphosphatase, NAD(+) diphosphatase
+1, 2, 4, 5, 6, 8	tp-only	PUL	4, 4, 4, 4, 5, 5	J5A64_RS05455	persistent	TC, TC, TC, TC, TC, TC		KZO69_RS02590		NZ_JAHXCL010000003.1	208188	209489	+	False	split, split, split, split, split, split	NCS2 family permease, NCS2 family permease, NCS2 family permease, NCS2 family permease, NCS2 family permease, NCS2 family permease
+1, 2, 34, 4, 5, 6, 8	tp-only	PUL	1, 2, 2, 2, 2, 2, 2	J5A64_RS05435	persistent	CAZyme, CAZyme, CAZyme, CAZyme, CAZyme, CAZyme, CAZyme		KZO69_RS11840		NZ_JAHXCL010000054.1	2139	3092	-	False	extended, split, split, split, split, split, split	glucosaminidase domain-containing protein, glucosaminidase domain-containing protein, glucosaminidase domain-containing protein, glucosaminidase domain-containing protein, glucosaminidase domain-containing protein, glucosaminidase domain-containing protein, glucosaminidase domain-containing protein
+1, 2, 34, 4, 5, 6, 8	tp-only	PUL	1, 2, 2, 2, 2, 2, 2	J5A64_RS05430	persistent			KZO69_RS11845		NZ_JAHXCL010000054.1	3211	3555	+	False	extended, split, split, split, split, split, split	2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase, 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase, 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase, 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase, 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase, 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase, 2-amino-4-hydroxy-6- hydroxymethyldihydropteridine diphosphokinase
+1, 2, 34, 4, 5, 6, 8	tp-only	PUL	1, 2, 2, 2, 2, 2, 2	PGY10_RS01425	persistent	STP, STP, STP, STP, STP, STP, STP		KZO69_RS11850		NZ_JAHXCL010000054.1	3528	4310	+	False	extended, split, split, split, split, split, split	hypothetical protein, hypothetical protein, hypothetical protein, hypothetical protein, hypothetical protein, hypothetical protein, hypothetical protein
+1, 2, 34, 8	tp-only	PUL	1, 2, 2, 2	RDR26_RS01050	shell			KZO69_RS11855		NZ_JAHXCL010000054.1	4622	5983	-	False	extended, split, split, split	aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme, aminotransferase class I/II-fold pyridoxal phosphate-dependent enzyme
+1, 2, 34, 8	tp-only	PUL	1, 2, 2, 2	PGY10_RS01415	shell	TC, TC, TC, TC		KZO69_RS11860		NZ_JAHXCL010000054.1	5992	6627	-	False	extended, split, split, split	sugar transferase, sugar transferase, sugar transferase, sugar transferase
+1, 2, 34, 4, 5, 6, 8	tp-only	PUL	1, 2, 2, 2, 2, 2, 2	J5A64_RS05440	persistent	TC, TC, TC, TC, TC, TC, TC		KZO69_RS11835		NZ_JAHXCL010000054.1	815	2023	+	False	extended, split, split, split, split, split, split	GTP-binding protein, GTP-binding protein, GTP-binding protein, GTP-binding protein, GTP-binding protein, GTP-binding protein, GTP-binding protein
+1, 2, 34, 8	tp-only	PUL	1, 2, 6, 6	PGY10_RS01390	shell	CAZyme, CAZyme, CAZyme, CAZyme		KZO69_RS11875		NZ_JAHXCL010000054.1	8468	9571	-	False	extended, split, split, split	glycosyltransferase family 4 protein, glycosyltransferase family 4 protein, glycosyltransferase family 4 protein, glycosyltransferase family 4 protein
+2, 34	tp-only	PUL	1, 2	RDR26_RS01060	shell			KZO69_RS11865		NZ_JAHXCL010000054.1	6672	7313	-	False	extended, split	transcriptional regulator, transcriptional regulator
+2, 34	tp-only	PUL	1, 2	KZO69_RS11870	shell	CAZyme, CAZyme		KZO69_RS11870		NZ_JAHXCL010000054.1	7303	8427	-	False	extended, split	glycosyltransferase family 4 protein, glycosyltransferase family 4 protein
+3	tp-only	PUL	1	J5A64_RS11675	persistent	STP		KZO69_RS03350		NZ_JAHXCL010000005.1	10491	11015	+	False	split	RNA polymerase sigma-70 factor
+3	tp-only	PUL	3	KZY62_RS01645	persistent	TC		KZO69_RS06120		NZ_JAHXCL010000013.1	10501	11427	+	False	split	calcium/sodium antiporter
+3	tp-only	PUL	5	J5A64_RS07980	persistent			KZO69_RS09360		NZ_JAHXCL010000029.1	1092	1481	+	False	split	hypothetical protein
+3	tp-only	PUL	1	KZY62_RS05980	persistent	STP		KZO69_RS03355		NZ_JAHXCL010000005.1	11406	12383	+	False	split	FecR family protein
+3	tp-only	PUL	1	J5A64_RS11665	persistent	CAZyme		KZO69_RS03360		NZ_JAHXCL010000005.1	12455	15514	+	False	split	glycoside hydrolase family 2 TIM barrel-domain containing protein
+3	tp-only	PUL	2	J5A64_RS05700	persistent			KZO69_RS02350		NZ_JAHXCL010000003.1	153137	153943	-	False	split	nucleotidyltransferase family protein
+3	tp-only	PUL	2	J5A64_RS05695	persistent	STP		KZO69_RS02355		NZ_JAHXCL010000003.1	154655	155266	-	False	split	response regulator transcription factor
+3	tp-only	PUL	2	J5A64_RS05690	persistent	STP		KZO69_RS02360		NZ_JAHXCL010000003.1	155334	156290	-	False	split	LuxR C-terminal-related transcriptional regulator
+3	tp-only	PUL	1	PGY10_RS02010	persistent			KZO69_RS03365		NZ_JAHXCL010000005.1	16217	17290	+	False	split	histidine kinase
+3	tp-only	PUL	1	J5A64_RS11655	persistent	STP		KZO69_RS03370		NZ_JAHXCL010000005.1	17265	17975	+	False	split	LytTR family DNA-binding domain-containing protein
+3	tp-only	PUL	1	J5A64_RS11650	persistent			KZO69_RS03375		NZ_JAHXCL010000005.1	18137	18754	-	False	split	riboflavin synthase
+3	tp-only	PUL	1	J5A64_RS11645	persistent	STP		KZO69_RS03380		NZ_JAHXCL010000005.1	19564	20928	-	False	split	dihydrolipoyl dehydrogenase
+3	tp-only	PUL	5	J5A64_RS07985	shell	TC		KZO69_RS09365		NZ_JAHXCL010000029.1	2033	3463	-	False	split	TolC family protein
+3	tp-only	PUL	1	J5A64_RS11640	persistent			KZO69_RS03385		NZ_JAHXCL010000005.1	20991	22481	-	False	split	aminomethyl-transferring glycine dehydrogenase subunit GcvPB
+3	tp-only	PUL	4	KZY62_RS05885	persistent	TC		KZO69_RS06985		NZ_JAHXCL010000016.1	23370	26678	+	False	split	SusC/RagA family TonB-linked outer membrane protein
+3	tp-only	PUL	4	J5A64_RS07850	persistent			KZO69_RS06990		NZ_JAHXCL010000016.1	26700	28385	+	False	split	RagB/SusD family nutrient uptake outer membrane protein
+3	tp-only	PUL	5	J5A64_RS07990	shell	TC		KZO69_RS09370		NZ_JAHXCL010000029.1	3441	6635	-	False	split	efflux RND transporter permease subunit
+3	tp-only	PUL	1	J5A64_RS11690	persistent	STP		KZO69_RS03335		NZ_JAHXCL010000005.1	4455	4985	+	False	split	FHA domain-containing protein
+3	tp-only	PUL	1	J5A64_RS11685	persistent	TC		KZO69_RS03340		NZ_JAHXCL010000005.1	5386	6918	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+3	tp-only	PUL	5	PGY10_RS04985	shell	TC		KZO69_RS09375		NZ_JAHXCL010000029.1	6636	7715	-	False	split	efflux RND transporter periplasmic adaptor subunit
+3	tp-only	PUL	1	HMPREF9303_RS08295	persistent	TC		KZO69_RS03345		NZ_JAHXCL010000005.1	6922	10245	-	False	split	SusC/RagA family TonB-linked outer membrane protein
+3	tp-only	PUL	3	J5A64_RS06670	persistent			KZO69_RS06105		NZ_JAHXCL010000013.1	8691	9029	-	False	split	DUF488 domain-containing protein
+3	tp-only	PUL	3	J5A64_RS06665	persistent	STP		KZO69_RS06110		NZ_JAHXCL010000013.1	9034	9558	-	False	split	hemerythrin domain-containing protein
+3	tp-only	PUL	3	J5A64_RS06660	persistent	TF		KZO69_RS06115		NZ_JAHXCL010000013.1	9683	10354	+	False	split	Crp/Fnr family transcriptional regulator
+7	tp-only	PUL	3	J5A64_RS03455	persistent			KZO69_RS03770		NZ_JAHXCL010000006.1	12226	14781	+	False	split	C10 family peptidase
+7	tp-only	PUL	2	PGY10_RS09750	persistent			KZO69_RS03740		NZ_JAHXCL010000006.1	1296	2390	-	False	split	glycosyltransferase family 1 protein
+7	tp-only	PUL	3	J5A64_RS03465	persistent	STP		KZO69_RS03780		NZ_JAHXCL010000006.1	15465	16091	+	False	split	sigma-70 family RNA polymerase sigma factor
+7	tp-only	PUL	3	J5A64_RS03470	persistent	CAZyme		KZO69_RS03785		NZ_JAHXCL010000006.1	16470	17810	-	False	split	trehalase family glycosidase
+7	tp-only	PUL	3	J5A64_RS03475	persistent			KZO69_RS03790		NZ_JAHXCL010000006.1	17823	18656	-	False	split	DUF4886 domain-containing protein
+7	tp-only	PUL	3	J5A64_RS03480	persistent	CAZyme		KZO69_RS03795		NZ_JAHXCL010000006.1	18732	20114	-	False	split	alpha-L-fucosidase
+7	tp-only	PUL	3	PGY10_RS09810	persistent	CAZyme		KZO69_RS03800		NZ_JAHXCL010000006.1	20156	22687	-	False	split	glycoside hydrolase family 97 catalytic domain-containing protein
+7	tp-only	PUL	3	J5A64_RS03490	persistent			KZO69_RS03805		NZ_JAHXCL010000006.1	22744	24156	-	False	split	DUF4832 domain-containing protein
+7	tp-only	PUL	2	J5A64_RS03430	persistent	CAZyme		KZO69_RS03745		NZ_JAHXCL010000006.1	2414	3406	-	False	split	glycosyltransferase family 2 protein
+7	tp-only	PUL	6	PGY10_RS09820	persistent			KZO69_RS03810		NZ_JAHXCL010000006.1	24303	25640	-	False	split	BspA family leucine-rich repeat surface protein
+7	tp-only	PUL	6	K335_RS0106255	persistent	TC		KZO69_RS03815		NZ_JAHXCL010000006.1	25690	27417	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+7	tp-only	PUL	6	J5A64_RS03505	persistent	TC		KZO69_RS03820		NZ_JAHXCL010000006.1	27516	30788	-	False	split	TonB-dependent receptor
+7	tp-only	PUL	6	PGY10_RS09835	persistent	STP		KZO69_RS03825		NZ_JAHXCL010000006.1	31058	32275	-	False	split	FecR domain-containing protein
+7	tp-only	PUL	6	PGY10_RS09840	persistent	CAZyme		KZO69_RS03830		NZ_JAHXCL010000006.1	33113	34837	-	False	split	alpha-amylase family glycosyl hydrolase
+7	tp-only	PUL	2	PGY10_RS09760	persistent	CAZyme		KZO69_RS03750		NZ_JAHXCL010000006.1	3355	4251	-	False	split	glycosyltransferase family 2 protein
+7	tp-only	PUL	6	J5A64_RS03520	persistent			KZO69_RS03835		NZ_JAHXCL010000006.1	35449	36009	+	False	split	hypothetical protein
+7	tp-only	PUL	6	PGY10_RS09850	persistent	CAZyme		KZO69_RS03840		NZ_JAHXCL010000006.1	36145	38856	+	False	split	 PMCA-type, calcium-translocating P-type ATPase
+7	tp-only	PUL	1	PGY10_RS09860	persistent			KZO69_RS03850		NZ_JAHXCL010000006.1	39859	40941	-	False	split	tRNA 2-thiouridine(34) synthase MnmA
+7	tp-only	PUL	1	J5A64_RS03540	persistent	TC		KZO69_RS03855		NZ_JAHXCL010000006.1	40967	41884	-	False	split	YitT family protein
+7	tp-only	PUL	1	J5A64_RS03545	persistent	TC		KZO69_RS03860		NZ_JAHXCL010000006.1	42026	43450	+	False	split	alanine/glycine:cation symporter family protein
+7	tp-only	PUL	2	J5A64_RS03440	persistent			KZO69_RS03755		NZ_JAHXCL010000006.1	4309	5814	+	False	split	oligosaccharide flippase family protein
+7	tp-only	PUL	1	DYJ25_RS07185	persistent			KZO69_RS03865		NZ_JAHXCL010000006.1	43467	43898	-	False	split	DoxX family protein
+7	tp-only	PUL	1	J5A64_RS03555	persistent	STP		KZO69_RS03870		NZ_JAHXCL010000006.1	44158	45696	+	False	split	DUF438 domain-containing protein
+7	tp-only	PUL	1	J5A64_RS03560	persistent			KZO69_RS03875		NZ_JAHXCL010000006.1	45850	46455	+	False	split	DUF4738 domain-containing protein
+7	tp-only	PUL	5	PGY10_RS09890	persistent			KZO69_RS03880		NZ_JAHXCL010000006.1	46899	47876	+	False	split	6-phosphofructokinase
+7	tp-only	PUL	5	J5A64_RS03570	persistent	CAZyme		KZO69_RS03885		NZ_JAHXCL010000006.1	47945	49468	+	False	split	F0F1 ATP synthase subunit beta
+7	tp-only	PUL	5	J5A64_RS03575	persistent			KZO69_RS03890		NZ_JAHXCL010000006.1	49508	49747	+	False	split	ATP synthase F1 subunit epsilon
+7	tp-only	PUL	4	J5A64_RS03580	persistent			KZO69_RS03895		NZ_JAHXCL010000006.1	49774	50187	+	False	split	hypothetical protein
+7	tp-only	PUL	4	PGY10_RS09910	persistent	TC		KZO69_RS03900		NZ_JAHXCL010000006.1	50184	51281	+	False	split	F0F1 ATP synthase subunit A
+7	tp-only	PUL	4	J5A64_RS03590	persistent			KZO69_RS03905		NZ_JAHXCL010000006.1	51474	51713	+	False	split	ATP synthase F0 subunit C
+7	tp-only	PUL	2	PGY10_RS09770	persistent	CAZyme		KZO69_RS03760		NZ_JAHXCL010000006.1	5801	6793	+	False	split	glycosyltransferase family 2 protein
+7	tp-only	PUL	2	J5A64_RS03450	persistent			KZO69_RS03765		NZ_JAHXCL010000006.1	7709	12040	+	False	split	choice-of-anchor J domain-containing protein
+9	tp-only	PUL	2	J5A64_RS03600	persistent			KZO69_RS03915		NZ_JAHXCL010000006.1	52288	52824	+	False	split	F0F1 ATP synthase subunit delta
+9	tp-only	PUL	2	J5A64_RS03605	persistent	TC		KZO69_RS03920		NZ_JAHXCL010000006.1	52837	54420	+	False	split	F0F1 ATP synthase subunit alpha
+9	tp-only	PUL	2	J5A64_RS03610	persistent	TC		KZO69_RS03925		NZ_JAHXCL010000006.1	54433	55410	+	False	split	F0F1 ATP synthase subunit gamma
+9	tp-only	PUL	2	J5A64_RS03615	persistent	TC		KZO69_RS03930		NZ_JAHXCL010000006.1	56220	58607	-	False	split	TonB-dependent receptor
+9	tp-only	PUL	2	K335_RS0106135	persistent			KZO69_RS03935		NZ_JAHXCL010000006.1	58803	60056	+	False	split	S41 family peptidase
+9	tp-only	PUL	2	J5A64_RS03625	persistent	STP		KZO69_RS03940		NZ_JAHXCL010000006.1	60239	61111	-	False	split	RNA polymerase sigma factor RpoD/SigA
+9	tp-only	PUL	2	PGY10_RS09955	persistent			KZO69_RS03945		NZ_JAHXCL010000006.1	61388	62323	-	False	split	hypothetical protein
+9	tp-only	PUL	2	J5A64_RS03635	persistent	CAZyme		KZO69_RS03950		NZ_JAHXCL010000006.1	62400	63881	-	False	split	proline--tRNA ligase
+9	tp-only	PUL	2	J5A64_RS03640	persistent	TC		KZO69_RS03955		NZ_JAHXCL010000006.1	64187	64864	+	False	split	OmpA family protein
+9	tp-only	PUL	2	KZY62_RS09375	persistent	CAZyme		KZO69_RS03965		NZ_JAHXCL010000006.1	65503	68013	+	False	split	glycoside hydrolase family 95 protein
+9	tp-only	PUL	2	J5A64_RS03655	persistent			KZO69_RS03970		NZ_JAHXCL010000006.1	68279	70291	-	False	split	6-bisphosphatase, fructose-1
+9	tp-only	PUL	2	PGY10_RS09980	persistent	CAZyme		KZO69_RS03975		NZ_JAHXCL010000006.1	70295	71452	-	False	split	glycosyltransferase
+9	tp-only	PUL	2	J5A64_RS03665	persistent	CAZyme		KZO69_RS03980		NZ_JAHXCL010000006.1	71453	72667	-	False	split	glycosyl transferase family 2
+9	tp-only	PUL	2	J5A64_RS03670	persistent			KZO69_RS03985		NZ_JAHXCL010000006.1	72689	73846	-	False	split	diaminopimelate decarboxylase
+9	tp-only	PUL	3	J5A64_RS03675	persistent			KZO69_RS03990		NZ_JAHXCL010000006.1	74003	75319	-	False	split	aspartate kinase
+9	tp-only	PUL	3	J5A64_RS03680	persistent	TC		KZO69_RS03995		NZ_JAHXCL010000006.1	75367	76113	-	False	split	ATP-binding cassette domain-containing protein
+9	tp-only	PUL	1	J5A64_RS03745	persistent			KZO69_RS04010		NZ_JAHXCL010000006.1	78846	80009	-	False	split	DUF1735 and LamG domain-containing protein
+9	tp-only	PUL	1	J5A64_RS03750	persistent	CAZyme		KZO69_RS04015		NZ_JAHXCL010000006.1	80023	81114	-	False	split	glycoside hydrolase family 18
+9	tp-only	PUL	1	J5A64_RS03755	persistent	TC		KZO69_RS04020		NZ_JAHXCL010000006.1	81147	82703	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+9	tp-only	PUL	1	J5A64_RS03760	persistent	TC		KZO69_RS04025		NZ_JAHXCL010000006.1	82731	85832	-	False	split	SusC/RagA family TonB-linked outer membrane protein
+9	tp-only	PUL	1	J5A64_RS03765	persistent			KZO69_RS04030		NZ_JAHXCL010000006.1	86358	88427	-	False	split	TonB-dependent receptor
+9	tp-only	PUL	1	J5A64_RS03770	persistent	STP		KZO69_RS04035		NZ_JAHXCL010000006.1	88649	89221	+	False	split	xanthine phosphoribosyltransferase
+9	tp-only	PUL	1	J5A64_RS03775	persistent	TC		KZO69_RS04040		NZ_JAHXCL010000006.1	89405	90748	+	False	split	nucleobase:cation symporter-2 family protein
+9	tp-only	PUL	1	PGY10_RS10860	persistent			KZO69_RS04045		NZ_JAHXCL010000006.1	91210	91668	+	False	split	hypothetical protein
+10	tp-only	PUL	4	J5A64_RS01880	persistent	CAZyme		KZO69_RS10250		NZ_JAHXCL010000035.1	1081	3219	+	False	split	glycoside hydrolase family 97 protein
+10	tp-only	PUL	2	PGY10_RS05870	persistent			KZO69_RS10290		NZ_JAHXCL010000035.1	11048	14647	-	False	split	type IX secretion system sortase PorU
+10	tp-only	PUL	1	J5A64_RS01840	persistent	STP		KZO69_RS00045		NZ_JAHXCL010000001.1	13287	15437	-	False	split	substrate-binding domain-containing protein
+10	tp-only	PUL	1	J4860_RS00015	shell	CAZyme		KZO69_RS00050		NZ_JAHXCL010000001.1	15624	17852	-	False	split	LamG-like jellyroll fold domain-containing protein
+10	tp-only	PUL	3	J5A64_RS01870	persistent	TC		KZO69_RS00015		NZ_JAHXCL010000001.1	1630	2787	-	False	split	MFS transporter
+10	tp-only	PUL	1	KZY62_RS00665	shell			KZO69_RS00055		NZ_JAHXCL010000001.1	18195	19379	-	False	split	DUF4960 domain-containing protein
+10	tp-only	PUL	1	KZY62_RS00670	shell	TC		KZO69_RS00060		NZ_JAHXCL010000001.1	19556	21211	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+10	tp-only	PUL	1	KZY62_RS00675	shell	CAZyme		KZO69_RS00065		NZ_JAHXCL010000001.1	21235	24288	-	False	split	TonB-dependent receptor
+10	tp-only	PUL	1	KZY62_RS00680	persistent	STP		KZO69_RS00070		NZ_JAHXCL010000001.1	24488	27118	-	False	split	substrate-binding domain-containing protein
+10	tp-only	PUL	1	PGY10_RS05780	persistent			KZO69_RS00075		NZ_JAHXCL010000001.1	28025	29122	-	False	split	lactonase family protein
+10	tp-only	PUL	3	KZY62_RS00630	persistent	CAZyme		KZO69_RS00020		NZ_JAHXCL010000001.1	3017	4705	-	False	split	DUF4980 domain-containing protein
+10	tp-only	PUL	1	J5A64_RS01825	persistent	TC		KZO69_RS00080		NZ_JAHXCL010000001.1	30457	32343	+	False	split	DEAD/DEAH box helicase
+10	tp-only	PUL	1	PGY10_RS05770	persistent			KZO69_RS00085		NZ_JAHXCL010000001.1	32462	34813	-	False	split	outer membrane beta-barrel family protein
+10	tp-only	PUL	4	PGY10_RS05835	persistent			KZO69_RS10255		NZ_JAHXCL010000035.1	3374	3877	-	False	split	TIGR00730 family Rossman fold protein
+10	tp-only	PUL	2	J5A64_RS01890	persistent			KZO69_RS10260		NZ_JAHXCL010000035.1	3874	5070	-	False	split	FprA family A-type flavoprotein
+10	tp-only	PUL	3	PGY10_RS05810	persistent	CAZyme		KZO69_RS00025		NZ_JAHXCL010000001.1	5019	6614	-	False	split	glycoside hydrolase family 32 protein
+10	tp-only	PUL	2	PGY10_RS05845	persistent	STP		KZO69_RS10265		NZ_JAHXCL010000035.1	5219	6148	-	False	split	carbohydrate kinase
+10	tp-only	PUL	2	PGY10_RS05850	persistent			KZO69_RS10270		NZ_JAHXCL010000035.1	6289	7530	+	False	split	pitrilysin family protein
+10	tp-only	PUL	3	J5A64_RS01855	persistent			KZO69_RS00030		NZ_JAHXCL010000001.1	6632	8026	-	False	split	DUF4960 domain-containing protein
+10	tp-only	PUL	3	J5A64_RS01875	persistent	STP		KZO69_RS00010		NZ_JAHXCL010000001.1	741	1622	-	False	split	carbohydrate kinase
+10	tp-only	PUL	2	J5A64_RS01905	persistent	STP		KZO69_RS10275		NZ_JAHXCL010000035.1	7730	9004	+	False	split	NAD(P)/FAD-dependent oxidoreductase
+10	tp-only	PUL	1	J5A64_RS01850	persistent			KZO69_RS00035		NZ_JAHXCL010000001.1	8020	9753	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+10	tp-only	PUL	2	J5A64_RS01910	persistent			KZO69_RS10280		NZ_JAHXCL010000035.1	9185	9691	-	False	split	2-C-methyl-D-erythritol 2, 4-cyclodiphosphate synthase
+10	tp-only	PUL	2	PGY10_RS05865	persistent	TC		KZO69_RS10285		NZ_JAHXCL010000035.1	9756	10922	-	False	split	type IX secretion system outer membrane channel protein PorV
+10	tp-only	PUL	1	J5A64_RS01845	persistent	TC		KZO69_RS00040		NZ_JAHXCL010000001.1	9962	13063	-	False	split	TonB-dependent receptor
+11, 13, 21, 22, 29	tp-only	PUL	2, 2, 2, 3, 4	J5A64_RS09870	persistent			KZO69_RS01055		NZ_JAHXCL010000002.1	31680	32045	-	False	split, split, split, split, split	50S ribosomal protein L19, 50S ribosomal protein L19, 50S ribosomal protein L19, 50S ribosomal protein L19, 50S ribosomal protein L19
+11, 13, 21, 22, 29	tp-only	PUL	2, 2, 2, 3, 4	J5A64_RS09875	persistent	TC, TC, TC, TC, TC		KZO69_RS01060		NZ_JAHXCL010000002.1	32237	32965	-	False	split, split, split, split, split	phosphatase PAP2 family protein, phosphatase PAP2 family protein, phosphatase PAP2 family protein, phosphatase PAP2 family protein, phosphatase PAP2 family protein
+11, 13, 21, 22, 29	tp-only	PUL	2, 2, 2, 3, 4	PGY10_RS03455	persistent			KZO69_RS01065		NZ_JAHXCL010000002.1	33366	34130	+	False	split, split, split, split, split	5'-nucleotidase, 5'-nucleotidase, 5'-nucleotidase, 5'-nucleotidase, 5'-nucleotidase
+11, 13, 21, 22, 29	tp-only	PUL	1, 1, 1, 2, 2	J5A64_RS09900	persistent			KZO69_RS01070		NZ_JAHXCL010000002.1	34150	34989	+	False	split, split, split, split, split	metallophosphatase, metallophosphatase, metallophosphatase, metallophosphatase, metallophosphatase
+11, 13, 21, 22, 29	tp-only	PUL	1, 1, 1, 2, 2	J5A64_RS09905	persistent	TC, TC, TC, TC, TC		KZO69_RS01075		NZ_JAHXCL010000002.1	35341	36087	-	False	split, split, split, split, split	porin family protein, porin family protein, porin family protein, porin family protein, porin family protein
+11, 13, 21, 22, 29	tp-only	PUL	1, 1, 1, 2, 2	J5A64_RS09910	persistent			KZO69_RS01080		NZ_JAHXCL010000002.1	36293	37888	+	False	split, split, split, split, split	capsule assembly Wzi family protein, capsule assembly Wzi family protein, capsule assembly Wzi family protein, capsule assembly Wzi family protein, capsule assembly Wzi family protein
+11, 13, 21, 22, 29	tp-only	PUL	1, 3, 3, 3, 3	J5A64_RS09915	persistent			KZO69_RS01085		NZ_JAHXCL010000002.1	37922	38371	+	False	split, split, split, split, split	lipocalin-like domain-containing protein, lipocalin-like domain-containing protein, lipocalin-like domain-containing protein, lipocalin-like domain-containing protein, lipocalin-like domain-containing protein
+11, 13, 21, 22, 29	tp-only	PUL	1, 3, 3, 3, 3	J5A64_RS09920	persistent	TC, TC, TC, TC, TC		KZO69_RS01090		NZ_JAHXCL010000002.1	39073	40206	-	False	split, split, split, split, split	MraY family glycosyltransferase, MraY family glycosyltransferase, MraY family glycosyltransferase, MraY family glycosyltransferase, MraY family glycosyltransferase
+11, 13, 21, 22, 29	tp-only	PUL	1, 3, 3, 3, 3	J5A64_RS09925	persistent			KZO69_RS01095		NZ_JAHXCL010000002.1	40381	40584	+	False	split, split, split, split, split	hypothetical protein, hypothetical protein, hypothetical protein, hypothetical protein, hypothetical protein
+11, 13, 21, 22, 29	tp-only	PUL	1, 3, 3, 3, 3	J5A64_RS09930	persistent	CAZyme, CAZyme, CAZyme, CAZyme, CAZyme		KZO69_RS01100		NZ_JAHXCL010000002.1	40622	41380	+	False	split, split, split, split, split	glycosyltransferase family 2 protein, glycosyltransferase family 2 protein, glycosyltransferase family 2 protein, glycosyltransferase family 2 protein, glycosyltransferase family 2 protein
+11, 29	tp-only	PUL	1, 1	J5A64_RS09950	cloud	CAZyme, CAZyme		KZO69_RS01110		NZ_JAHXCL010000002.1	42972	43763	-	False	split, split	polysaccharide deacetylase family protein, polysaccharide deacetylase family protein
+12, 17	tp-only	PUL	1, 1	J5A64_RS01560	persistent	TC, TC		KZO69_RS00340		NZ_JAHXCL010000001.1	103109	104902	+	False	extended, split	RagB/SusD family nutrient uptake outer membrane protein, RagB/SusD family nutrient uptake outer membrane protein
+12, 17	tp-only	PUL	1, 1	J5A64_RS01555	persistent			KZO69_RS00345		NZ_JAHXCL010000001.1	104957	106054	+	False	extended, split	DUF5017 domain-containing protein, DUF5017 domain-containing protein
+12, 17	tp-only	PUL	1, 1	J5A64_RS01550	persistent	STP, STP		KZO69_RS00350		NZ_JAHXCL010000001.1	106200	110342	+	False	extended, split	hybrid sensor histidine kinase/response regulator transcription factor, hybrid sensor histidine kinase/response regulator transcription factor
+12, 17	tp-only	PUL	1, 1	J5A64_RS01545	persistent	CAZyme, CAZyme		KZO69_RS00355		NZ_JAHXCL010000001.1	110398	111999	+	False	extended, split	glycoside hydrolase family 31 protein, glycoside hydrolase family 31 protein
+12, 17	tp-only	PUL	1, 1	KZY62_RS01070	persistent			KZO69_RS00360		NZ_JAHXCL010000001.1	112024	113457	+	False	extended, split	DUF4832 domain-containing protein, DUF4832 domain-containing protein
+12, 17	tp-only	PUL	1, 1	J5A64_RS01535	persistent	CAZyme, CAZyme		KZO69_RS00365		NZ_JAHXCL010000001.1	113745	116336	-	False	extended, split	beta-N-acetylglucosaminidase domain-containing protein, beta-N-acetylglucosaminidase domain-containing protein
+12	tp-only	PUL	1	J5A64_RS01600	persistent			KZO69_RS00300		NZ_JAHXCL010000001.1	88284	89039	-	False	extended	4-hydroxy-tetrahydrodipicolinate reductase
+12, 17	tp-only	PUL	1, 1	PGY10_RS05550	persistent	STP, STP		KZO69_RS00305		NZ_JAHXCL010000001.1	89882	91078	-	False	extended, split	serine/threonine-protein kinase, serine/threonine-protein kinase
+12, 17	tp-only	PUL	1, 1	J5A64_RS01590	persistent			KZO69_RS00310		NZ_JAHXCL010000001.1	91658	92518	+	False	extended, split	GLPGLI family protein, GLPGLI family protein
+12, 17	tp-only	PUL	1, 1	PGY10_RS05540	persistent	TC, TC		KZO69_RS00315		NZ_JAHXCL010000001.1	92523	95102	+	False	extended, split	hypothetical protein, hypothetical protein
+12, 17	tp-only	PUL	1, 1	PGY10_RS05530	persistent	TC, TC		KZO69_RS00320		NZ_JAHXCL010000001.1	95655	96413	-	False	extended, split	succinate dehydrogenase/fumarate reductase iron-sulfur subunit, succinate dehydrogenase/fumarate reductase iron-sulfur subunit
+12, 17	tp-only	PUL	1, 1	J5A64_RS01575	persistent	STP, STP		KZO69_RS00325		NZ_JAHXCL010000001.1	96548	98530	-	False	extended, split	fumarate reductase/succinate dehydrogenase flavoprotein subunit, fumarate reductase/succinate dehydrogenase flavoprotein subunit
+12, 17	tp-only	PUL	1, 1	J5A64_RS01570	persistent			KZO69_RS00330		NZ_JAHXCL010000001.1	98569	99258	-	False	extended, split	succinate dehydrogenase/fumarate reductase cytochrome b subunit, succinate dehydrogenase/fumarate reductase cytochrome b subunit
+12, 17	tp-only	PUL	1, 1	PGY10_RS05510	persistent	TC, TC		KZO69_RS00335		NZ_JAHXCL010000001.1	99998	103069	+	False	extended, split	TonB-dependent receptor, TonB-dependent receptor
+14	tp-only	PUL	3	PGY10_RS04155	persistent			KZO69_RS05880		NZ_JAHXCL010000012.1	25017	26213	-	False	split	metallophosphoesterase
+14	tp-only	PUL	3	PGY10_RS04150	persistent	TC		KZO69_RS05885		NZ_JAHXCL010000012.1	26222	27856	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+14	tp-only	PUL	3	RDR26_RS03850	persistent	TC		KZO69_RS05890		NZ_JAHXCL010000012.1	27889	30624	-	False	split	SusC/RagA family TonB-linked outer membrane protein
+14	tp-only	PUL	3	J5A64_RS06985	persistent	CAZyme		KZO69_RS05895		NZ_JAHXCL010000012.1	30797	33964	+	False	split	glycoside hydrolase family 2 TIM barrel-domain containing protein
+14	tp-only	PUL	3	RDR26_RS03860	persistent			KZO69_RS05900		NZ_JAHXCL010000012.1	34380	35858	+	False	split	AAA family ATPase
+14	tp-only	PUL	5	PGY10_RS04130	persistent			KZO69_RS05905		NZ_JAHXCL010000012.1	36165	37925	+	False	split	1-deoxy-D-xylulose-5-phosphate synthase
+14	tp-only	PUL	5	J5A64_RS07000	persistent	TC		KZO69_RS05910		NZ_JAHXCL010000012.1	38000	38908	+	False	split	ABC transporter ATP-binding protein
+14	tp-only	PUL	5	PGY10_RS04120	persistent			KZO69_RS05915		NZ_JAHXCL010000012.1	38915	39691	+	False	split	hypothetical protein
+14	tp-only	PUL	2	HXN27_RS04555	persistent			KZO69_RS05920		NZ_JAHXCL010000012.1	39788	40702	+	False	split	15'-monooxygenase, beta-carotene 15
+14	tp-only	PUL	2	QDH26_RS09695	persistent	TC		KZO69_RS05925		NZ_JAHXCL010000012.1	40699	41367	+	False	split	ABC transporter ATP-binding protein
+14	tp-only	PUL	2	PGY10_RS04105	persistent	STP		KZO69_RS05930		NZ_JAHXCL010000012.1	41982	44276	-	False	split	RelA/SpoT family protein
+14	tp-only	PUL	2	J5A64_RS07050	persistent			KZO69_RS05935		NZ_JAHXCL010000012.1	44334	44576	-	False	split	hypothetical protein
+14	tp-only	PUL	1	PGY10_RS04095	persistent			KZO69_RS05940		NZ_JAHXCL010000012.1	44617	45396	-	False	split	DUF5683 domain-containing protein
+14	tp-only	PUL	1	J5A64_RS07060	persistent	TF		KZO69_RS05945		NZ_JAHXCL010000012.1	45615	46520	-	False	split	ParB/RepB/Spo0J family partition protein
+14	tp-only	PUL	1	J5A64_RS07065	persistent	STP		KZO69_RS05950		NZ_JAHXCL010000012.1	46670	47437	-	False	split	AAA family ATPase
+14	tp-only	PUL	1	J5A64_RS07070	persistent			KZO69_RS05955		NZ_JAHXCL010000012.1	47552	48325	+	False	split	5'/3'-nucleotidase SurE
+14	tp-only	PUL	1	J5A64_RS07075	persistent	CAZyme		KZO69_RS05960		NZ_JAHXCL010000012.1	48338	49498	+	False	split	lipid-A-disaccharide synthase
+14	tp-only	PUL	1	J5A64_RS07080	persistent	TC		KZO69_RS05965		NZ_JAHXCL010000012.1	50379	51200	+	False	split	ABC transporter ATP-binding protein
+14	tp-only	PUL	1	J5A64_RS07085	persistent			KZO69_RS05970		NZ_JAHXCL010000012.1	51245	51973	+	False	split	DUF2807 domain-containing protein
+14	tp-only	PUL	4	J5A64_RS07090	persistent			KZO69_RS05975		NZ_JAHXCL010000012.1	51993	52796	+	False	split	hypothetical protein
+14	tp-only	PUL	4	J5A64_RS07095	persistent	STP		KZO69_RS05980		NZ_JAHXCL010000012.1	52802	53164	+	False	split	GntR family transcriptional regulator
+14	tp-only	PUL	4	KZY62_RS02015	persistent			KZO69_RS05985		NZ_JAHXCL010000012.1	53300	57322	-	False	split	DEAD/DEAH box helicase
+15	tp-only	PUL	1	J5A64_RS11340	persistent	CAZyme		KZO69_RS03670		NZ_JAHXCL010000005.1	101960	104059	-	False	split	family 20 glycosylhydrolase
+15	tp-only	PUL	1	J5A64_RS11335	persistent	CAZyme		KZO69_RS03675		NZ_JAHXCL010000005.1	104112	106367	-	False	split	GH92 family glycosyl hydrolase
+15	tp-only	PUL	1	J5A64_RS11330	persistent	CAZyme		KZO69_RS03680		NZ_JAHXCL010000005.1	106521	107495	-	False	split	glycoside hydrolase family 130 protein
+15	tp-only	PUL	1	J5A64_RS11325	persistent			KZO69_RS03685		NZ_JAHXCL010000005.1	107717	108484	-	False	split	thiamine diphosphokinase
+15	tp-only	PUL	1	KZO69_RS03690	persistent	TC		KZO69_RS03690		NZ_JAHXCL010000005.1	108591	109190	-	False	split	nicotinamide riboside transporter PnuC
+15	tp-only	PUL	1	J5A64_RS11315	persistent	TC		KZO69_RS03695		NZ_JAHXCL010000005.1	109289	111673	-	False	split	TonB-dependent receptor plug domain-containing protein
+15	tp-only	PUL	1	J5A64_RS11310	persistent			KZO69_RS03700		NZ_JAHXCL010000005.1	112468	112641	-	False	split	hypothetical protein
+15	tp-only	PUL	3	J5A64_RS11305	persistent			KZO69_RS03705		NZ_JAHXCL010000005.1	112673	114109	-	False	split	23S rRNA (uracil(1939)-C(5))-methyltransferase RlmD
+15	tp-only	PUL	3	J5A64_RS11300	persistent	CAZyme		KZO69_RS03710		NZ_JAHXCL010000005.1	114316	117036	+	False	split	 phosphate dikinase, pyruvate
+15	tp-only	PUL	3	PGY10_RS02375	persistent			KZO69_RS03715		NZ_JAHXCL010000005.1	117702	121976	+	False	split	HNH endonuclease domain-containing protein
+15	tp-only	PUL	4	J5A64_RS11395	persistent			KZO69_RS03615		NZ_JAHXCL010000005.1	87870	88259	-	False	split	PTS cellobiose transporter subunit IIC
+15	tp-only	PUL	4	J5A64_RS11390	persistent	STP		KZO69_RS03620		NZ_JAHXCL010000005.1	88256	88738	-	False	split	RNA polymerase sigma factor
+15	tp-only	PUL	4	J5A64_RS11385	persistent			KZO69_RS03625		NZ_JAHXCL010000005.1	88745	89194	-	False	split	hypothetical protein
+15	tp-only	PUL	2	J5A64_RS11380	persistent			KZO69_RS03630		NZ_JAHXCL010000005.1	90082	92562	-	False	split	bifunctional UDP-N-acetylmuramoyl-tripeptide:D-alanyl-D-alanine ligase/alanine racemase
+15	tp-only	PUL	2	J5A64_RS11375	persistent	TF		KZO69_RS03635		NZ_JAHXCL010000005.1	92841	93275	-	False	split	transcriptional repressor
+15	tp-only	PUL	2	J5A64_RS11370	persistent			KZO69_RS03640		NZ_JAHXCL010000005.1	93287	94138	-	False	split	GSCFA domain-containing protein
+15	tp-only	PUL	2	J5A64_RS11365	persistent	STP		KZO69_RS03645		NZ_JAHXCL010000005.1	94356	94808	+	False	split	NUDIX hydrolase
+15	tp-only	PUL	2	J5A64_RS11360	persistent	TC		KZO69_RS03650		NZ_JAHXCL010000005.1	95232	97439	-	False	split	sodium-translocating pyrophosphatase
+15	tp-only	PUL	2	J5A64_RS11355	persistent			KZO69_RS03655		NZ_JAHXCL010000005.1	97736	98389	-	False	split	carbohydrate-binding family 9-like protein
+15	tp-only	PUL	1	J5A64_RS11350	persistent			KZO69_RS03660		NZ_JAHXCL010000005.1	98386	99477	-	False	split	aminoglycoside phosphotransferase family protein
+15	tp-only	PUL	1	PGY10_RS02325	persistent	CAZyme		KZO69_RS03665		NZ_JAHXCL010000005.1	99577	101727	-	False	split	GH92 family glycosyl hydrolase
+16, 24	tp-only	PUL	1, 1	J5A64_RS08300	persistent			KZO69_RS04485		NZ_JAHXCL010000007.1	101442	102446	+	False	split, split	hypothetical protein, hypothetical protein
+16, 24	tp-only	PUL	1, 1	PGY10_RS04685	persistent	STP, STP		KZO69_RS04490		NZ_JAHXCL010000007.1	102580	106533	+	False	split, split	two-component regulator propeller domain-containing protein, two-component regulator propeller domain-containing protein
+16, 50	tp-only	PUL	1, 3	J5A64_RS08370	persistent	TC, TC		KZO69_RS04400		NZ_JAHXCL010000007.1	70380	72197	-	False	split, strict	SusD/RagB family nutrient-binding outer membrane lipoprotein, SusD/RagB family nutrient-binding outer membrane lipoprotein
+16, 50	tp-only	PUL	1, 3	J5A64_RS08365	persistent	TC, TC		KZO69_RS04405		NZ_JAHXCL010000007.1	72223	75549	-	False	split, strict	SusC/RagA family TonB-linked outer membrane protein, SusC/RagA family TonB-linked outer membrane protein
+16	tp-only	PUL	4	KZY62_RS03400	persistent			KZO69_RS04435		NZ_JAHXCL010000007.1	82740	85028	+	False	split	outer membrane beta-barrel family protein
+16, 24	tp-only	PUL	3, 4	KZY62_RS08845	shell	TC, TC		KZO69_RS04440		NZ_JAHXCL010000007.1	85049	87259	+	False	split, split	peptidase domain-containing ABC transporter, peptidase domain-containing ABC transporter
+16, 24	tp-only	PUL	3, 4	KZY62_RS03365	shell			KZO69_RS04445		NZ_JAHXCL010000007.1	87261	87740	+	False	split, split	hypothetical protein, hypothetical protein
+16, 24	tp-only	PUL	2, 2	J5A64_RS08330	persistent	CAZyme, CAZyme		KZO69_RS04455		NZ_JAHXCL010000007.1	88617	90620	+	False	split, split	hypothetical protein, hypothetical protein
+16, 24	tp-only	PUL	2, 2	J5A64_RS08325	persistent	CAZyme, CAZyme		KZO69_RS04460		NZ_JAHXCL010000007.1	90661	92733	+	False	split, split	galactose-1-epimerase, galactose-1-epimerase
+16, 24	tp-only	PUL	2, 2	PGY10_RS04660	persistent	CAZyme, CAZyme		KZO69_RS04465		NZ_JAHXCL010000007.1	92918	95338	+	False	split, split	glycoside hydrolase family 3 C-terminal domain-containing protein, glycoside hydrolase family 3 C-terminal domain-containing protein
+16, 24	tp-only	PUL	2, 2	J5A64_RS08315	persistent	CAZyme, CAZyme		KZO69_RS04470		NZ_JAHXCL010000007.1	95362	96390	+	False	split, split	family 43 glycosylhydrolase, family 43 glycosylhydrolase
+16, 24	tp-only	PUL	2, 2	PGY10_RS04670	persistent	TC, TC		KZO69_RS04475		NZ_JAHXCL010000007.1	96399	99488	+	False	split, split	TonB-dependent receptor, TonB-dependent receptor
+16, 24	tp-only	PUL	2, 2	J5A64_RS08305	persistent			KZO69_RS04480		NZ_JAHXCL010000007.1	99503	101422	+	False	split, split	RagB/SusD family nutrient uptake outer membrane protein, RagB/SusD family nutrient uptake outer membrane protein
+17	tp-only	PUL	1	KZY62_RS01080	shell	TC		KZO69_RS00370		NZ_JAHXCL010000001.1	117472	120045	+	False	split	TonB-dependent receptor
+17	tp-only	PUL	2	KZY62_RS01090	shell	TC		KZO69_RS00380		NZ_JAHXCL010000001.1	121435	122640	-	False	split	MFS transporter
+20	tp-only	PUL	1	J5A64_RS02090	persistent			KZO69_RS05055		NZ_JAHXCL010000009.1	34024	35772	-	False	split	phosphoethanolamine transferase
+20	tp-only	PUL	1	J5A64_RS02095	persistent	CAZyme		KZO69_RS05060		NZ_JAHXCL010000009.1	37265	39091	-	False	split	glycoside hydrolase family 13 protein
+20	tp-only	PUL	1	J5A64_RS02100	persistent	CAZyme		KZO69_RS05065		NZ_JAHXCL010000009.1	39220	41133	-	False	split	type I pullulanase
+20	tp-only	PUL	1	KZY62_RS12705	persistent			KZO69_RS13060		NZ_JAHXCL010000009.1	41130	41255	-	False	split	hypothetical protein
+20	tp-only	PUL	1	J5A64_RS02105	persistent	CAZyme		KZO69_RS05070		NZ_JAHXCL010000009.1	41282	43975	-	False	split	4-alpha-glucanotransferase
+20	tp-only	PUL	1	J5A64_RS02110	persistent	CAZyme		KZO69_RS05075		NZ_JAHXCL010000009.1	44440	46914	+	False	split	alpha-amylase family glycosyl hydrolase
+20	tp-only	PUL	1	J5A64_RS02115	persistent			KZO69_RS05080		NZ_JAHXCL010000009.1	46925	47101	+	False	split	hypothetical protein
+20	tp-only	PUL	1	J5A64_RS02120	persistent	TC		KZO69_RS05085		NZ_JAHXCL010000009.1	47969	49297	-	False	split	MFS transporter
+20	tp-only	PUL	1	J5A64_RS02125	persistent	STP		KZO69_RS05090		NZ_JAHXCL010000009.1	49475	50500	-	False	split	LacI family DNA-binding transcriptional regulator
+20	tp-only	PUL	1	J5A64_RS02130	persistent	TC		KZO69_RS05095		NZ_JAHXCL010000009.1	50779	53844	+	False	split	TonB-dependent receptor
+20	tp-only	PUL	1	KZY62_RS00360	persistent	TC		KZO69_RS05100		NZ_JAHXCL010000009.1	53866	55500	+	False	split	RagB/SusD family nutrient uptake outer membrane protein
+20	tp-only	PUL	1	J5A64_RS02140	persistent			KZO69_RS05105		NZ_JAHXCL010000009.1	55546	56727	+	False	split	SusF/SusE family outer membrane protein
+20	tp-only	PUL	2	J5A64_RS02145	persistent			KZO69_RS05110		NZ_JAHXCL010000009.1	56810	57817	+	False	split	DUF5115 domain-containing protein
+20	tp-only	PUL	2	J5A64_RS02150	persistent	CAZyme		KZO69_RS05115		NZ_JAHXCL010000009.1	58164	60179	+	False	split	alpha-amylase family glycosyl hydrolase
+20	tp-only	PUL	2	J5A64_RS02155	persistent	TC		KZO69_RS05120		NZ_JAHXCL010000009.1	60695	62014	+	False	split	anaerobic C4-dicarboxylate transporter
+20	tp-only	PUL	2	J5A64_RS02165	persistent			KZO69_RS05130		NZ_JAHXCL010000009.1	62712	63917	+	False	split	porin
+23	tp-only	PUL	1	J5A64_RS10365	persistent			KZO69_RS01475		NZ_JAHXCL010000002.1	154671	155552	-	False	split	nucleoside triphosphate pyrophosphohydrolase
+23	tp-only	PUL	1	PGY10_RS02990	persistent	CAZyme		KZO69_RS01480		NZ_JAHXCL010000002.1	155699	158392	+	False	split	valine--tRNA ligase
+23	tp-only	PUL	1	PGY10_RS02985	persistent			KZO69_RS01485		NZ_JAHXCL010000002.1	158489	159199	-	False	split	DUF2461 domain-containing protein
+23	tp-only	PUL	1	J5A64_RS10380	persistent	STP		KZO69_RS01490		NZ_JAHXCL010000002.1	159231	159878	-	False	split	endonuclease III
+23	tp-only	PUL	6	PGY10_RS02960	persistent			KZO69_RS01510		NZ_JAHXCL010000002.1	163870	164946	+	False	split	cyclically-permuted mutarotase family protein
+23	tp-only	PUL	6	J5A64_RS10405	persistent	TC		KZO69_RS01515		NZ_JAHXCL010000002.1	165035	166261	+	False	split	MFS transporter
+23	tp-only	PUL	6	J5A64_RS10410	persistent			KZO69_RS01520		NZ_JAHXCL010000002.1	166334	167251	+	False	split	dihydrodipicolinate synthase family protein
+23, 39	tp-only	PUL	5, 5	J5A64_RS10510	persistent			KZO69_RS01600		NZ_JAHXCL010000002.1	188459	188746	-	False	split, split	winged helix-turn-helix domain-containing protein, winged helix-turn-helix domain-containing protein
+23, 39	tp-only	PUL	5, 5	J5A64_RS10515	persistent	CAZyme, CAZyme		KZO69_RS01605		NZ_JAHXCL010000002.1	188922	190679	-	False	split, split	aspartate--tRNA ligase, aspartate--tRNA ligase
+23, 39	tp-only	PUL	5, 5	J5A64_RS10520	persistent			KZO69_RS01610		NZ_JAHXCL010000002.1	191053	191439	+	False	split, split	DUF1573 domain-containing protein, DUF1573 domain-containing protein
+23, 39	tp-only	PUL	2, 3	J5A64_RS10525	persistent			KZO69_RS01615		NZ_JAHXCL010000002.1	191598	191948	-	False	split, split	DUF4491 family protein, DUF4491 family protein
+23, 39	tp-only	PUL	2, 3	J5A64_RS10530	persistent	CAZyme, CAZyme		KZO69_RS01620		NZ_JAHXCL010000002.1	192136	193881	+	False	split, split	phospho-sugar mutase, phospho-sugar mutase
+23, 39	tp-only	PUL	2, 3	KZY62_RS04705	persistent	CAZyme, STP		KZO69_RS01625		NZ_JAHXCL010000002.1	194038	196611	-	False	split, split	ATP-dependent Clp protease ATP-binding subunit, ATP-dependent Clp protease ATP-binding subunit
+23, 39	tp-only	PUL	2, 3	J5A64_RS10540	persistent			KZO69_RS01630		NZ_JAHXCL010000002.1	196754	196885	-	False	split, split	hypothetical protein, hypothetical protein
+23, 39	tp-only	PUL	3, 4	J5A64_RS10545	persistent			KZO69_RS01635		NZ_JAHXCL010000002.1	196875	198320	-	False	split, split	DUF4270 domain-containing protein, DUF4270 domain-containing protein
+23, 39	tp-only	PUL	3, 4	J5A64_RS10550	persistent	CAZyme, CAZyme		KZO69_RS01640		NZ_JAHXCL010000002.1	198406	199215	-	False	split, split	glycogen/starch synthase, glycogen/starch synthase
+23, 39	tp-only	PUL	3, 4	J5A64_RS10555	persistent			KZO69_RS01645		NZ_JAHXCL010000002.1	199385	200242	+	False	split, split	pantoate--beta-alanine ligase, pantoate--beta-alanine ligase
+23, 39	tp-only	PUL	1, 2	J5A64_RS10560	persistent			KZO69_RS01650		NZ_JAHXCL010000002.1	200244	200588	+	False	split, split	aspartate 1-decarboxylase, aspartate 1-decarboxylase
+23, 39	tp-only	PUL	1, 2	J5A64_RS10565	persistent	CAZyme, CAZyme		KZO69_RS01655		NZ_JAHXCL010000002.1	200853	202802	-	False	split, split	threonine--tRNA ligase, threonine--tRNA ligase
+24	tp-only	PUL	1	KZO69_RS04495	shell	STP		KZO69_RS04495		NZ_JAHXCL010000007.1	106910	108616	+	False	split	sigma-70 family RNA polymerase sigma factor
+24	tp-only	PUL	1	J5A64_RS08285	persistent			KZO69_RS04500		NZ_JAHXCL010000007.1	108715	109782	+	False	split	SPASM domain-containing protein
+26	tp-only	PUL	1	J5A64_RS08515	persistent	STP		KZO69_RS04250		NZ_JAHXCL010000007.1	20571	21224	-	False	split	master DNA invertase Mpi family serine-type recombinase
+26	tp-only	PUL	1	J5A64_RS08510	persistent	STP		KZO69_RS04255		NZ_JAHXCL010000007.1	21670	25251	+	False	split	DUF5112 domain-containing protein
+26	tp-only	PUL	1	J5A64_RS08505	persistent	STP		KZO69_RS04260		NZ_JAHXCL010000007.1	25238	25963	+	False	split	DUF5932 domain-containing protein
+26	tp-only	PUL	1	J5A64_RS08500	persistent			KZO69_RS04265		NZ_JAHXCL010000007.1	25953	26594	+	False	split	ABC transporter permease
+26	tp-only	PUL	2	PGY10_RS08535	persistent			KZO69_RS04275		NZ_JAHXCL010000007.1	30056	30871	-	False	split	hypothetical protein
+26	tp-only	PUL	2	PGY10_RS08540	persistent	TC		KZO69_RS04280		NZ_JAHXCL010000007.1	30975	32258	-	False	split	Na+/H+ antiporter NhaC family protein
+26	tp-only	PUL	2	J5A64_RS08480	persistent			KZO69_RS04285		NZ_JAHXCL010000007.1	32361	33050	-	False	split	(d)CMP kinase
+26	tp-only	PUL	3	KZY62_RS03545	persistent			KZO69_RS04290		NZ_JAHXCL010000007.1	33089	34444	-	False	split	zinc ribbon domain-containing protein
+26	tp-only	PUL	3	J5A64_RS08470	persistent	CAZyme		KZO69_RS04295		NZ_JAHXCL010000007.1	34510	35217	-	False	split	GH25 family lysozyme
+26	tp-only	PUL	3	PGY10_RS08560	persistent	CAZyme		KZO69_RS04300		NZ_JAHXCL010000007.1	35383	37113	-	False	split	GH25 family lysozyme
+26, 62	tp-only	PUL	1, 3	PGY10_RS08565	persistent	STP, STP		KZO69_RS04305		NZ_JAHXCL010000007.1	37772	40252	+	False	split, split	ferrous iron transport protein B, ferrous iron transport protein B
+26, 62	tp-only	PUL	1, 3	J5A64_RS08455	persistent	TC, TC		KZO69_RS04310		NZ_JAHXCL010000007.1	40582	43890	+	False	split, split	SusC/RagA family TonB-linked outer membrane protein, SusC/RagA family TonB-linked outer membrane protein
+26, 62	tp-only	PUL	1, 3	J5A64_RS08450	persistent			KZO69_RS04315		NZ_JAHXCL010000007.1	43922	45484	+	False	split, split	RagB/SusD family nutrient uptake outer membrane protein, RagB/SusD family nutrient uptake outer membrane protein
+27	tp-only	PUL	2	J5A64_RS07875	persistent	TC		KZO69_RS07010		NZ_JAHXCL010000016.1	33694	35316	-	False	split	MFS transporter
+27	tp-only	PUL	2	PGY10_RS05360	persistent	CAZyme		KZO69_RS07015		NZ_JAHXCL010000016.1	35476	37632	-	False	split	S9 family peptidase
+27	tp-only	PUL	2	PGY10_RS05355	persistent	TC		KZO69_RS07020		NZ_JAHXCL010000016.1	37635	39563	-	False	split	membrane protein insertase YidC
+27	tp-only	PUL	2	J5A64_RS07890	persistent			KZO69_RS07025		NZ_JAHXCL010000016.1	39564	41174	-	False	split	CTP synthase
+27	tp-only	PUL	3	J5A64_RS07900	persistent			KZO69_RS07030		NZ_JAHXCL010000016.1	41622	43160	-	False	split	ATP-binding protein
+27, 62	tp-only	PUL	1, 2	J5A64_RS07955	persistent	CAZyme, CAZyme		KZO69_RS12045		NZ_JAHXCL010000057.1	4304	5650	-	False	split, split	sialidase family protein, sialidase family protein
+27	tp-only	PUL	3	KZY62_RS11180	persistent	CAZyme		KZO69_RS07035		NZ_JAHXCL010000016.1	43480	45015	+	False	split	alpha-L-fucosidase
+27	tp-only	PUL	3	J5A64_RS07910	persistent	CAZyme		KZO69_RS07040		NZ_JAHXCL010000016.1	45417	47582	-	False	split	alpha-amylase family glycosyl hydrolase
+27	tp-only	PUL	3	J5A64_RS07915	persistent			KZO69_RS07045		NZ_JAHXCL010000016.1	47743	48630	-	False	split	ACP S-malonyltransferase
+27	tp-only	PUL	4	J5A64_RS07920	persistent			KZO69_RS07050		NZ_JAHXCL010000016.1	48742	50466	-	False	split	DUF4153 domain-containing protein
+27	tp-only	PUL	4	PGY10_RS05055	persistent	CAZyme		KZO69_RS07055		NZ_JAHXCL010000016.1	51109	52656	+	False	split	Gfo/Idh/MocA family oxidoreductase
+27, 62	tp-only	PUL	1, 2	J5A64_RS07960	persistent	STP, STP		KZO69_RS12050		NZ_JAHXCL010000057.1	5674	7662	-	False	split, split	glucosamine-6-phosphate deaminase, glucosamine-6-phosphate deaminase
+27, 62	tp-only	PUL	1, 2	J5A64_RS07965	persistent			KZO69_RS12055		NZ_JAHXCL010000057.1	7662	8450	-	False	split, split	glucosamine-6-phosphate deaminase, glucosamine-6-phosphate deaminase
+29	tp-only	PUL	1	KZO55_RS01975	cloud	CAZyme		KZO69_RS01105		NZ_JAHXCL010000002.1	41459	42685	-	False	split	glycosyltransferase
+29	tp-only	PUL	1	KZO55_RS01985	cloud	CAZyme		KZO69_RS01115		NZ_JAHXCL010000002.1	43815	44948	-	False	split	glycosyltransferase
+29	tp-only	PUL	1	KZO55_RS01990	cloud	CAZyme		KZO69_RS01120		NZ_JAHXCL010000002.1	44938	46287	-	False	split	hypothetical protein
+29	tp-only	PUL	1	KZO55_RS01995	cloud			KZO69_RS01125		NZ_JAHXCL010000002.1	46284	47567	-	False	split	oligosaccharide flippase family protein
+31	tp-only	PUL	1	J5A64_RS01005	persistent	STP		KZO69_RS00750		NZ_JAHXCL010000001.1	222500	223333	-	False	split	LytTR family DNA-binding domain-containing protein
+31	tp-only	PUL	1	J5A64_RS01010	persistent	CAZyme		KZO69_RS00755		NZ_JAHXCL010000001.1	223635	225671	+	False	split	Sec-dependent nitrous-oxide reductase
+31	tp-only	PUL	1	J5A64_RS01015	persistent			KZO69_RS00760		NZ_JAHXCL010000001.1	225774	226391	+	False	split	hypothetical protein
+31	tp-only	PUL	2	J5A64_RS00925	persistent	TF		KZO69_RS12435		NZ_JAHXCL010000066.1	2528	3082	-	False	split	XRE family transcriptional regulator
+31	tp-only	PUL	3	J5A64_RS01000	persistent			KZO69_RS00895		NZ_JAHXCL010000001.1	256609	257250	+	False	split	hypothetical protein
+31	tp-only	PUL	3	PGY10_RS07010	persistent	STP		KZO69_RS00900		NZ_JAHXCL010000001.1	257267	257926	-	False	split	uracil phosphoribosyltransferase
+31	tp-only	PUL	3	J5A64_RS00990	persistent			KZO69_RS00905		NZ_JAHXCL010000001.1	258204	259817	+	False	split	phosphoenolpyruvate carboxykinase (ATP)
+31	tp-only	PUL	2	J5A64_RS00930	persistent	TF		KZO69_RS12440		NZ_JAHXCL010000066.1	3359	3559	-	False	split	PspC domain-containing protein
+31	tp-only	PUL	2	J5A64_RS00935	persistent	STP		KZO69_RS12445		NZ_JAHXCL010000066.1	3611	4087	-	False	split	arginine repressor
+31	tp-only	PUL	2	J4860_RS06560	persistent			KZO69_RS12450		NZ_JAHXCL010000066.1	4703	6877	+	False	split	outer membrane beta-barrel family protein
+31	tp-only	PUL	2	J5A64_RS00920	persistent	TC		KZO69_RS12430		NZ_JAHXCL010000066.1	707	2380	-	False	split	AMP-binding protein
+33	tp-only	PUL	2	J5A64_RS06460	shell	STP		KZO69_RS11270		NZ_JAHXCL010000045.1	1494	2108	+	False	split	TetR/AcrR family transcriptional regulator
+33	tp-only	PUL	2	J5A64_RS06455	shell	TC		KZO69_RS11275		NZ_JAHXCL010000045.1	2136	3890	+	False	split	ABC transporter ATP-binding protein
+33	tp-only	PUL	2	RDR26_RS00070	shell	TC		KZO69_RS11280		NZ_JAHXCL010000045.1	3912	5645	+	False	split	ABC transporter ATP-binding protein
+33	tp-only	PUL	2	HMPREF2139_RS08850	shell	TC		KZO69_RS11285		NZ_JAHXCL010000045.1	5652	8012	+	False	split	MMPL family transporter
+33	tp-only	PUL	3	J5A64_RS02185	persistent			KZO69_RS05150		NZ_JAHXCL010000009.1	67695	69038	-	False	split	Fe-S cluster assembly protein SufD
+33	tp-only	PUL	3	J5A64_RS02190	persistent	TC		KZO69_RS05155		NZ_JAHXCL010000009.1	69148	69906	-	False	split	Fe-S cluster assembly ATPase SufC
+33	tp-only	PUL	3	J5A64_RS02195	persistent			KZO69_RS05160		NZ_JAHXCL010000009.1	69919	70323	-	False	split	hypothetical protein
+33	tp-only	PUL	4	J5A64_RS02200	persistent			KZO69_RS05165		NZ_JAHXCL010000009.1	70342	71787	-	False	split	Fe-S cluster assembly protein SufB
+33	tp-only	PUL	4	J5A64_RS02205	persistent	CAZyme		KZO69_RS05170		NZ_JAHXCL010000009.1	71920	74766	-	False	split	translation initiation factor IF-2
+33	tp-only	PUL	4	J5A64_RS02210	persistent			KZO69_RS05175		NZ_JAHXCL010000009.1	74902	76167	-	False	split	transcription termination factor NusA
+33	tp-only	PUL	1	J5A64_RS02215	persistent			KZO69_RS05180		NZ_JAHXCL010000009.1	76172	76639	-	False	split	ribosome assembly cofactor RimP
+33	tp-only	PUL	1	J5A64_RS02220	persistent	TC		KZO69_RS05185		NZ_JAHXCL010000009.1	77171	78919	-	False	split	S41 family peptidase
+33	tp-only	PUL	2	J5A64_RS06465	shell			KZO69_RS11265		NZ_JAHXCL010000045.1	932	1423	+	False	split	outer membrane beta-barrel protein
+34	tp-only	PUL	1	KZO69_RS11885	cloud	CAZyme		KZO69_RS11885		NZ_JAHXCL010000054.1	10909	11802	-	False	extended	glycosyltransferase family 8 protein
+34	tp-only	PUL	1	KZO69_RS01690	cloud			KZO69_RS11890		NZ_JAHXCL010000054.1	12029	12478	-	False	extended	transposase
+34	tp-only	PUL	1	KZO55_RS08140	cloud			KZO69_RS11830		NZ_JAHXCL010000054.1	2	610	+	False	extended	group II intron maturase-specific domain-containing protein
+34	tp-only	PUL	1	KZO55_RS11740	cloud			KZO69_RS11880		NZ_JAHXCL010000054.1	9760	10821	-	False	extended	glycosyltransferase family 1 protein
+35	tp-only	PUL	2	J5A64_RS00740	persistent			KZO69_RS05295		NZ_JAHXCL010000010.1	18704	19522	+	False	split	bifunctional hydroxymethylpyrimidine kinase/phosphomethylpyrimidine kinase
+35	tp-only	PUL	2	J5A64_RS00735	persistent	STP		KZO69_RS05300		NZ_JAHXCL010000010.1	19594	21255	+	False	split	putative transporter
+35	tp-only	PUL	2	PGY10_RS07925	persistent	TC		KZO69_RS05305		NZ_JAHXCL010000010.1	21275	21985	+	False	split	ABC transporter ATP-binding protein
+35	tp-only	PUL	2	J5A64_RS00725	persistent			KZO69_RS05310		NZ_JAHXCL010000010.1	22148	22693	+	False	split	hypothetical protein
+35	tp-only	PUL	1	J5A64_RS00720	persistent			KZO69_RS05315		NZ_JAHXCL010000010.1	22995	23561	+	False	split	alkyl hydroperoxide reductase subunit C
+35	tp-only	PUL	1	PGY10_RS07910	persistent	STP		KZO69_RS05320		NZ_JAHXCL010000010.1	23668	25227	+	False	split	alkyl hydroperoxide reductase subunit F
+35	tp-only	PUL	1	J5A64_RS00665	persistent	CAZyme		KZO69_RS05325		NZ_JAHXCL010000010.1	25773	27518	-	False	split	alpha-amylase family glycosyl hydrolase
+35	tp-only	PUL	1	J5A64_RS00660	persistent	TC		KZO69_RS05330		NZ_JAHXCL010000010.1	27700	29424	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+35	tp-only	PUL	1	J5A64_RS00655	persistent	TC		KZO69_RS05335		NZ_JAHXCL010000010.1	29455	32442	-	False	split	TonB-dependent receptor
+35	tp-only	PUL	1	QDH51_RS08660	persistent			KZO69_RS05340		NZ_JAHXCL010000010.1	32981	33568	-	False	split	hypothetical protein
+35	tp-only	PUL	3	J5A64_RS00645	persistent			KZO69_RS05345		NZ_JAHXCL010000010.1	34185	37001	+	False	split	M16 family metallopeptidase
+35	tp-only	PUL	3	J5A64_RS00635	persistent	CAZyme		KZO69_RS05355		NZ_JAHXCL010000010.1	37577	38890	-	False	split	UDP-N-acetylmuramoyl-tripeptide--D-alanyl-D- alanine ligase
+35	tp-only	PUL	3	J5A64_RS00630	persistent			KZO69_RS05360		NZ_JAHXCL010000010.1	39164	41239	+	False	split	outer membrane beta-barrel protein
+39	tp-only	PUL	4	J5A64_RS10620	persistent			KZO69_RS07865		NZ_JAHXCL010000020.1	42368	43042	-	False	split	3'-5' exonuclease
+39	tp-only	PUL	4	J5A64_RS10615	persistent	TC		KZO69_RS07870		NZ_JAHXCL010000020.1	43148	45610	+	False	split	DNA translocase FtsK
+39	tp-only	PUL	4	J5A64_RS10610	persistent			KZO69_RS07875		NZ_JAHXCL010000020.1	45725	46339	+	False	split	LolA-like putative outer membrane lipoprotein chaperone
+41	tp-only	PUL	3	J5A64_RS06095	persistent			KZO69_RS01975		NZ_JAHXCL010000003.1	64333	66312	-	False	split	TonB-dependent receptor
+41	tp-only	PUL	3	J5A64_RS06090	persistent	STP		KZO69_RS01980		NZ_JAHXCL010000003.1	66753	68033	-	False	split	serine hydroxymethyltransferase
+41	tp-only	PUL	3	J5A64_RS06085	persistent			KZO69_RS01985		NZ_JAHXCL010000003.1	68261	68644	+	False	split	hypothetical protein
+41	tp-only	PUL	1	PGY10_RS11180	persistent			KZO69_RS01990		NZ_JAHXCL010000003.1	69064	70149	-	False	split	ABC transporter permease
+41	tp-only	PUL	1	J5A64_RS06075	persistent	TC		KZO69_RS01995		NZ_JAHXCL010000003.1	70157	71215	-	False	split	ABC transporter permease
+41	tp-only	PUL	1	J5A64_RS06070	persistent	TC		KZO69_RS02000		NZ_JAHXCL010000003.1	71238	72698	-	False	split	ATP-binding cassette domain-containing protein
+41	tp-only	PUL	1	J5A64_RS06065	persistent			KZO69_RS02005		NZ_JAHXCL010000003.1	72708	73724	-	False	split	HlyD family efflux transporter periplasmic adaptor subunit
+41	tp-only	PUL	2	J5A64_RS06060	persistent			KZO69_RS02010		NZ_JAHXCL010000003.1	73742	75010	-	False	split	TolC family protein
+41	tp-only	PUL	2	J5A64_RS06055	persistent	STP		KZO69_RS02015		NZ_JAHXCL010000003.1	75192	76064	+	False	split	helix-turn-helix domain-containing protein
+41	tp-only	PUL	2	J5A64_RS06050	persistent	CAZyme		KZO69_RS02020		NZ_JAHXCL010000003.1	76521	80096	-	False	split	pyruvate:ferredoxin (flavodoxin) oxidoreductase
+41	tp-only	PUL	2	J5A64_RS06045	persistent	TF		KZO69_RS02025		NZ_JAHXCL010000003.1	80143	81327	-	False	split	AAA family ATPase
+41	tp-only	PUL	2	RDR26_RS00475	persistent			KZO69_RS02030		NZ_JAHXCL010000003.1	81483	82565	+	False	split	hypothetical protein
+42	tp-only	PUL	1	J5A64_RS02720	persistent			KZO69_RS06825		NZ_JAHXCL010000015.1	36551	37951	+	False	split	RIP metalloprotease RseP
+42	tp-only	PUL	1	J5A64_RS02715	persistent	TC		KZO69_RS06830		NZ_JAHXCL010000015.1	38543	39118	-	False	split	chromate transporter
+42	tp-only	PUL	1	J5A64_RS02710	persistent			KZO69_RS06835		NZ_JAHXCL010000015.1	39236	39814	-	False	split	chromate transporter
+42	tp-only	PUL	2	KZY62_RS09620	persistent			KZO69_RS06845		NZ_JAHXCL010000015.1	44665	47247	+	False	split	thiol protease/hemagglutinin PrtT
+42	tp-only	PUL	2	J5A64_RS02635	persistent	STP		KZO69_RS06850		NZ_JAHXCL010000015.1	48091	49278	-	False	split	glycine C-acetyltransferase
+42	tp-only	PUL	2	J5A64_RS02630	persistent			KZO69_RS06855		NZ_JAHXCL010000015.1	49461	50414	+	False	split	NAD-dependent epimerase/dehydratase family protein
+42	tp-only	PUL	4	KZY62_RS12830	shell			KZO69_RS13075		NZ_JAHXCL010000015.1	50574	50711	-	False	split	hypothetical protein
+42, 51	tp-only	PUL	2, 4	KZY62_RS09640	persistent	CAZyme, CAZyme		KZO69_RS06865		NZ_JAHXCL010000015.1	50971	52176	+	False	split, split	esterase, esterase
+42, 51	tp-only	PUL	1, 3	J5A64_RS02800	persistent			KZO69_RS06885		NZ_JAHXCL010000015.1	55221	56267	-	False	split, split	Rid family hydrolase, Rid family hydrolase
+42, 51	tp-only	PUL	1, 3	J5A64_RS02805	persistent	TC, TC		KZO69_RS06890		NZ_JAHXCL010000015.1	56770	57498	-	False	split, split	Bax inhibitor-1/YccA family protein, Bax inhibitor-1/YccA family protein
+42, 51	tp-only	PUL	1, 3	PGY10_RS11800	persistent	CAZyme, CAZyme		KZO69_RS06895		NZ_JAHXCL010000015.1	57620	58600	-	False	split, split	Gfo/Idh/MocA family oxidoreductase, Gfo/Idh/MocA family oxidoreductase
+42, 51	tp-only	PUL	1, 3	J5A64_RS02815	persistent			KZO69_RS06900		NZ_JAHXCL010000015.1	58764	59666	+	False	split, split	DUF3298 and DUF4163 domain-containing protein, DUF3298 and DUF4163 domain-containing protein
+43	tp-only	PUL	2	J5A64_RS09295	persistent			KZO69_RS05675		NZ_JAHXCL010000011.1	41792	42154	+	False	split	hypothetical protein
+43	tp-only	PUL	2	J5A64_RS09300	persistent	TC		KZO69_RS05680		NZ_JAHXCL010000011.1	42503	45862	+	False	split	preprotein translocase subunit SecA
+43	tp-only	PUL	2	PGY10_RS06565	persistent	TC		KZO69_RS05685		NZ_JAHXCL010000011.1	45843	46595	+	False	split	ABC transporter ATP-binding protein
+43	tp-only	PUL	2	J5A64_RS09310	persistent	TC		KZO69_RS05690		NZ_JAHXCL010000011.1	46728	48515	-	False	split	ABC-F family ATP-binding cassette domain-containing protein
+43	tp-only	PUL	2	J5A64_RS09315	persistent			KZO69_RS05695		NZ_JAHXCL010000011.1	48520	49119	-	False	split	ribosome biogenesis GTP-binding protein YihA/YsxC
+43	tp-only	PUL	2	J5A64_RS09320	persistent	CAZyme		KZO69_RS05700		NZ_JAHXCL010000011.1	49294	50277	+	False	split	Gfo/Idh/MocA family oxidoreductase
+43	tp-only	PUL	2	PGY10_RS06585	persistent			KZO69_RS05705		NZ_JAHXCL010000011.1	50321	51520	+	False	split	DUF4421 domain-containing protein
+43	tp-only	PUL	1	PGY10_RS06590	persistent			KZO69_RS05710		NZ_JAHXCL010000011.1	51611	52585	+	False	split	DUF1460 domain-containing protein
+43	tp-only	PUL	1	J5A64_RS09335	persistent	STP		KZO69_RS05715		NZ_JAHXCL010000011.1	52833	53426	+	False	split	TetR/AcrR family transcriptional regulator
+43	tp-only	PUL	1	J5A64_RS09340	persistent			KZO69_RS05720		NZ_JAHXCL010000011.1	53552	54298	+	False	split	3-oxoacyl-[acyl-carrier-protein] reductase
+44	tp-only	PUL	3	KZO48_RS01710	persistent	CAZyme		KZO69_RS07735		NZ_JAHXCL010000020.1	10638	11468	-	False	split	GH25 family lysozyme
+44	tp-only	PUL	2	PGY10_RS01880	persistent			KZO69_RS02175		NZ_JAHXCL010000003.1	113273	113824	-	False	split	sugar O-acetyltransferase
+44	tp-only	PUL	2	J5A64_RS05880	persistent	TC		KZO69_RS02180		NZ_JAHXCL010000003.1	113996	114670	+	False	split	MgtC/SapB family protein
+44	tp-only	PUL	2	J5A64_RS05875	persistent			KZO69_RS02185		NZ_JAHXCL010000003.1	114705	114845	+	False	split	hypothetical protein
+44	tp-only	PUL	2	KZY62_RS11695	persistent	TC		KZO69_RS02190		NZ_JAHXCL010000003.1	114861	116207	+	False	split	MATE family efflux transporter
+44	tp-only	PUL	2	J5A64_RS05865	persistent			KZO69_RS02195		NZ_JAHXCL010000003.1	116225	117328	+	False	split	metallophosphoesterase
+44	tp-only	PUL	3	J5A64_RS10745	persistent	CAZyme		KZO69_RS07740		NZ_JAHXCL010000020.1	11974	13617	-	False	split	diphosphate--fructose-6-phosphate 1-phosphotransferase
+44	tp-only	PUL	3	J5A64_RS10740	persistent			KZO69_RS07745		NZ_JAHXCL010000020.1	13953	14225	+	False	split	hypothetical protein
+44	tp-only	PUL	1	PGY10_RS02630	persistent	TC		KZO69_RS07720		NZ_JAHXCL010000020.1	6925	8583	-	False	split	hemin receptor
+44	tp-only	PUL	1	QDH26_RS02050	persistent			KZO69_RS07725		NZ_JAHXCL010000020.1	8622	9683	-	False	split	hypothetical protein
+44	tp-only	PUL	3	J5A64_RS10755	persistent			KZO69_RS07730		NZ_JAHXCL010000020.1	9863	10729	+	False	split	50S ribosomal protein L11 methyltransferase
+46	tp-only	PUL	3	J5A64_RS05080	persistent			KZO69_RS03110		NZ_JAHXCL010000004.1	133077	134075	+	False	split	4-hydroxy-3-methylbut-2-enyl diphosphate reductase
+46	tp-only	PUL	3	J5A64_RS05085	persistent	STP		KZO69_RS03115		NZ_JAHXCL010000004.1	134190	136244	+	False	split	molecular chaperone HtpG
+46	tp-only	PUL	3	J5A64_RS05090	persistent			KZO69_RS03120		NZ_JAHXCL010000004.1	136521	137228	-	False	split	DNA alkylation repair protein
+46	tp-only	PUL	2	J5A64_RS05095	persistent			KZO69_RS03125		NZ_JAHXCL010000004.1	137674	137943	+	False	split	co-chaperone GroES
+46	tp-only	PUL	2	J5A64_RS05100	persistent	CAZyme		KZO69_RS03130		NZ_JAHXCL010000004.1	138066	139694	+	False	split	chaperonin GroEL
+46	tp-only	PUL	2	J5A64_RS05105	persistent	CAZyme		KZO69_RS03135		NZ_JAHXCL010000004.1	139794	141362	-	False	split	peptide chain release factor 3
+46	tp-only	PUL	2	J5A64_RS05110	persistent			KZO69_RS03140		NZ_JAHXCL010000004.1	141506	142387	-	False	split	dTDP-4-dehydrorhamnose reductase
+46	tp-only	PUL	1	J5A64_RS05115	persistent			KZO69_RS03145		NZ_JAHXCL010000004.1	142400	143008	-	False	split	DUF4924 family protein
+46	tp-only	PUL	1	J5A64_RS05120	persistent	TC		KZO69_RS03150		NZ_JAHXCL010000004.1	143064	143738	-	False	split	LysE family transporter
+46	tp-only	PUL	1	J5A64_RS05125	persistent	STP		KZO69_RS03155		NZ_JAHXCL010000004.1	143869	144870	+	False	split	ROK family protein
+46	tp-only	PUL	1	J5A64_RS05135	persistent			KZO69_RS03165		NZ_JAHXCL010000004.1	145955	147214	-	False	split	HU family DNA-binding protein
+47, 49	tp-only	PUL	1, 1	J5A64_RS07715	persistent			KZO69_RS06405		NZ_JAHXCL010000014.1	11022	12782	+	False	split, split	RagB/SusD family nutrient uptake outer membrane protein, RagB/SusD family nutrient uptake outer membrane protein
+47, 49	tp-only	PUL	1, 1	J4860_RS10760	persistent	CAZyme, CAZyme		KZO69_RS06385		NZ_JAHXCL010000014.1	1790	4411	+	False	split, split	GH92 family glycosyl hydrolase, GH92 family glycosyl hydrolase
+47, 49	tp-only	PUL	1, 1	J5A64_RS07700	persistent	CAZyme, CAZyme		KZO69_RS06390		NZ_JAHXCL010000014.1	4446	5216	+	False	split, split	discoidin domain-containing protein, discoidin domain-containing protein
+47, 49	tp-only	PUL	1, 1	PGY10_RS11660	persistent			KZO69_RS06380		NZ_JAHXCL010000014.1	465	1457	+	False	split, split	hypothetical protein, hypothetical protein
+47, 49	tp-only	PUL	1, 1	J5A64_RS07705	persistent	CAZyme, CAZyme		KZO69_RS06395		NZ_JAHXCL010000014.1	5257	7521	+	False	split, split	GH92 family glycosyl hydrolase, GH92 family glycosyl hydrolase
+47	tp-only	PUL	2	PGY10_RS09675	persistent			KZO69_RS12250		NZ_JAHXCL010000061.1	7484	7753	+	False	split	DUF4834 family protein
+47, 49	tp-only	PUL	1, 1	J5A64_RS07710	persistent	TC, TC		KZO69_RS06400		NZ_JAHXCL010000014.1	7809	11003	+	False	split, split	TonB-dependent receptor, TonB-dependent receptor
+47	tp-only	PUL	2	PGY10_RS09680	persistent	STP		KZO69_RS12255		NZ_JAHXCL010000061.1	8275	8442	-	False	split	4Fe-4S binding protein
+48	tp-only	PUL	2	PGY10_RS04895	persistent	CAZyme		KZO69_RS09440		NZ_JAHXCL010000029.1	23155	24948	+	False	split	glycoside hydrolase family 26 protein
+48	tp-only	PUL	2	QDH26_RS08230	persistent			KZO69_RS09445		NZ_JAHXCL010000029.1	24924	25739	-	False	split	AAA family ATPase
+48	tp-only	PUL	1	PGY10_RS04870	persistent	CAZyme		KZO69_RS09460		NZ_JAHXCL010000029.1	28767	29888	+	False	split	glycosyl hydrolase
+48	tp-only	PUL	1	PGY10_RS04865	persistent	CAZyme		KZO69_RS09465		NZ_JAHXCL010000029.1	29899	31062	+	False	split	glycosidase
+48	tp-only	PUL	1	J5A64_RS08115	persistent	TC		KZO69_RS09470		NZ_JAHXCL010000029.1	31059	32477	+	False	split	MFS transporter
+48	tp-only	PUL	1	QDH26_RS08260	persistent			KZO69_RS09475		NZ_JAHXCL010000029.1	32560	33762	+	False	split	AGE family epimerase/isomerase
+48	tp-only	PUL	1	J5A64_RS08125	persistent	STP		KZO69_RS09480		NZ_JAHXCL010000029.1	33884	34774	+	False	split	AraC family transcriptional regulator
+49	tp-only	PUL	2	J5A64_RS07655	persistent	STP		KZO69_RS07070		NZ_JAHXCL010000017.1	2884	4068	+	False	split	HAMP domain-containing sensor histidine kinase
+49	tp-only	PUL	2	J5A64_RS07650	shell			KZO69_RS07075		NZ_JAHXCL010000017.1	4137	4532	-	False	split	hypothetical protein
+49	tp-only	PUL	2	PGY10_RS03515	persistent			KZO69_RS07065		NZ_JAHXCL010000017.1	573	2705	-	False	split	TonB-dependent receptor
+50	tp-only	PUL	1	KZY62_RS03445	shell			KZO69_RS04385		NZ_JAHXCL010000007.1	63083	63256	+	False	strict	hypothetical protein
+50	tp-only	PUL	1	KZO69_RS04390	shell	CAZyme		KZO69_RS04390		NZ_JAHXCL010000007.1	63825	66998	-	False	strict	GEVED domain-containing protein
+50	tp-only	PUL	1	KZO69_RS04395	shell	CAZyme		KZO69_RS04395		NZ_JAHXCL010000007.1	67174	70287	-	False	strict	glycosyl hydrolase family 85
+51	tp-only	PUL	3	KZO55_RS07095	persistent	STP		KZO69_RS06780		NZ_JAHXCL010000015.1	28440	29405	+	False	split	helix-turn-helix domain-containing protein
+51	tp-only	PUL	3	J5A64_RS02760	persistent			KZO69_RS06785		NZ_JAHXCL010000015.1	29617	30180	-	False	split	nicotinate (nicotinamide) nucleotide adenylyltransferase
+52	tp-only	PUL	1	J5A64_RS00175	persistent			KZO69_RS04705		NZ_JAHXCL010000008.1	43615	44601	-	False	extended	hypothetical protein
+52	tp-only	PUL	1	J5A64_RS00180	persistent	CAZyme		KZO69_RS04710		NZ_JAHXCL010000008.1	44622	45980	-	False	extended	DUF1735 domain-containing protein
+52	tp-only	PUL	1	J5A64_RS00185	persistent			KZO69_RS04715		NZ_JAHXCL010000008.1	46012	47157	-	False	extended	DUF1735 and LamG domain-containing protein
+52	tp-only	PUL	1	J5A64_RS00190	persistent	CAZyme		KZO69_RS04720		NZ_JAHXCL010000008.1	47164	48201	-	False	extended	glycoside hydrolase family 18
+52	tp-only	PUL	1	J5A64_RS00195	persistent	TC		KZO69_RS04725		NZ_JAHXCL010000008.1	48228	49787	-	False	extended	RagB/SusD family nutrient uptake outer membrane protein
+52	tp-only	PUL	1	J5A64_RS00200	persistent	TC		KZO69_RS04730		NZ_JAHXCL010000008.1	49797	52988	-	False	extended	SusC/RagA family TonB-linked outer membrane protein
+52	tp-only	PUL	1	J5A64_RS00205	persistent	STP		KZO69_RS04735		NZ_JAHXCL010000008.1	53508	54215	-	False	extended	ComF family protein
+52	tp-only	PUL	1	J5A64_RS00210	persistent			KZO69_RS04740		NZ_JAHXCL010000008.1	54199	54720	-	False	extended	regulatory protein RecX
+53	tp-only	PUL	3	PGY10_RS00055	persistent	TC		KZO69_RS10360		NZ_JAHXCL010000036.1	1002	2288	-	False	split	exopolysaccharide biosynthesis polyprenyl glycosylphosphotransferase
+53, 64	tp-only	PUL	1, 1	J5A64_RS04025	persistent	STP, STP		KZO69_RS11485		NZ_JAHXCL010000048.1	10102	12624	-	False	split, split	polysaccharide biosynthesis tyrosine autokinase, polysaccharide biosynthesis tyrosine autokinase
+53, 64	tp-only	PUL	1, 1	J5A64_RS04030	persistent	CAZyme, CAZyme		KZO69_RS11490		NZ_JAHXCL010000048.1	12676	13557	-	False	split, split	glucose-1-phosphate thymidylyltransferase RfbA, glucose-1-phosphate thymidylyltransferase RfbA
+53	tp-only	PUL	3	J5A64_RS04040	persistent			KZO69_RS10365		NZ_JAHXCL010000036.1	2455	3087	+	False	split	hypothetical protein
+53, 64	tp-only	PUL	2, 2	J5A64_RS04005	persistent			KZO69_RS11465		NZ_JAHXCL010000048.1	4519	5907	+	False	split, split	hypothetical protein, hypothetical protein
+53, 64	tp-only	PUL	2, 2	J5A64_RS04010	persistent	TC, TC		KZO69_RS11470		NZ_JAHXCL010000048.1	6076	8004	+	False	split, split	nucleoside-diphosphate sugar epimerase/dehydratase, nucleoside-diphosphate sugar epimerase/dehydratase
+53, 64	tp-only	PUL	2, 2	J5A64_RS04015	persistent			KZO69_RS11475		NZ_JAHXCL010000048.1	8036	9163	+	False	split, split	nucleotidyltransferase family protein, nucleotidyltransferase family protein
+53, 64	tp-only	PUL	1, 1	J5A64_RS04020	persistent			KZO69_RS11480		NZ_JAHXCL010000048.1	9660	10085	-	False	split, split	hypothetical protein, hypothetical protein
+54	tp-only	PUL	1	J5A64_RS01450	persistent	CAZyme		KZO69_RS00430		NZ_JAHXCL010000001.1	135400	138321	+	False	extended	class I tRNA ligase family protein
+54	tp-only	PUL	1	J5A64_RS01445	persistent	TC		KZO69_RS00435		NZ_JAHXCL010000001.1	138417	139403	+	False	extended	YitT family protein
+54	tp-only	PUL	1	J5A64_RS01440	persistent			KZO69_RS00440		NZ_JAHXCL010000001.1	139573	140157	+	False	extended	non-canonical purine NTP diphosphatase
+54	tp-only	PUL	1	PGY10_RS07450	persistent	CAZyme		KZO69_RS00445		NZ_JAHXCL010000001.1	140533	141420	+	False	extended	glycosyltransferase family 2 protein
+54	tp-only	PUL	1	J5A64_RS01430	persistent	STP		KZO69_RS00450		NZ_JAHXCL010000001.1	141417	143441	+	False	extended	Por secretion system protein
+54	tp-only	PUL	1	PGY10_RS07440	persistent			KZO69_RS00455		NZ_JAHXCL010000001.1	143450	144844	+	False	extended	hypothetical protein
+55	tp-only	PUL	1	KZO69_RS05575	persistent			KZO69_RS05575		NZ_JAHXCL010000011.1	15773	16645	+	False	split	endonuclease/exonuclease/phosphatase family protein
+55	tp-only	PUL	1	J5A64_RS09200	persistent	CAZyme		KZO69_RS05580		NZ_JAHXCL010000011.1	17024	18640	+	False	split	beta-N-acetylhexosaminidase
+55	tp-only	PUL	1	J5A64_RS09205	persistent			KZO69_RS05585		NZ_JAHXCL010000011.1	18797	19663	-	False	split	carboxylating nicotinate-nucleotide diphosphorylase
+55	tp-only	PUL	2	J5A64_RS09210	persistent			KZO69_RS05590		NZ_JAHXCL010000011.1	19683	20675	-	False	split	quinolinate synthase NadA
+55	tp-only	PUL	2	J5A64_RS09215	persistent	TC		KZO69_RS05595		NZ_JAHXCL010000011.1	20834	22426	-	False	split	L-aspartate oxidase
+55	tp-only	PUL	2	J5A64_RS09220	persistent	STP		KZO69_RS05600		NZ_JAHXCL010000011.1	22619	23326	-	False	split	response regulator transcription factor
+55	tp-only	PUL	2	J5A64_RS09225	persistent	STP		KZO69_RS05605		NZ_JAHXCL010000011.1	23360	24916	-	False	split	HAMP domain-containing sensor histidine kinase
+55	tp-only	PUL	2	J5A64_RS09230	persistent			KZO69_RS05610		NZ_JAHXCL010000011.1	25872	27443	-	False	split	Rne/Rng family ribonuclease
+57	tp-only	PUL	2	J5A64_RS05855	persistent			KZO69_RS02205		NZ_JAHXCL010000003.1	119156	119356	-	False	split	hypothetical protein
+57	tp-only	PUL	2	J5A64_RS05850	persistent	CAZyme		KZO69_RS02210		NZ_JAHXCL010000003.1	119944	121389	-	False	split	glycoside hydrolase family 57 protein
+57	tp-only	PUL	2	J5A64_RS05845	persistent	CAZyme		KZO69_RS02215		NZ_JAHXCL010000003.1	121441	122709	-	False	split	glycosyltransferase family 4 protein
+57	tp-only	PUL	2	KZY62_RS05505	persistent	CAZyme		KZO69_RS02220		NZ_JAHXCL010000003.1	122725	124668	-	False	split	6-glucosidase, amylo-alpha-1
+57	tp-only	PUL	2	J5A64_RS05835	persistent			KZO69_RS02225		NZ_JAHXCL010000003.1	125199	126137	-	False	split	diacylglycerol kinase family protein
+57	tp-only	PUL	1	J5A64_RS05825	persistent			KZO69_RS02235		NZ_JAHXCL010000003.1	127211	128239	-	False	split	type I glyceraldehyde-3-phosphate dehydrogenase
+57	tp-only	PUL	1	J5A64_RS05820	persistent	TC		KZO69_RS02240		NZ_JAHXCL010000003.1	128515	128940	+	False	split	large-conductance mechanosensitive channel protein MscL
+57	tp-only	PUL	1	J5A64_RS05815	persistent			KZO69_RS02245		NZ_JAHXCL010000003.1	129152	130129	-	False	split	endonuclease/exonuclease/phosphatase family protein
+58	tp-only	PUL	1	PGY10_RS00970	persistent			KZO69_RS02955		NZ_JAHXCL010000004.1	86570	87193	-	False	extended	cytidylate kinase-like family protein
+58	tp-only	PUL	1	J5A64_RS04930	persistent	TC		KZO69_RS02960		NZ_JAHXCL010000004.1	87210	88583	-	False	extended	MATE family efflux transporter
+58	tp-only	PUL	1	J5A64_RS04935	persistent			KZO69_RS02965		NZ_JAHXCL010000004.1	89077	90750	+	False	extended	AMP-binding protein
+58	tp-only	PUL	1	J5A64_RS04940	persistent	TC		KZO69_RS02970		NZ_JAHXCL010000004.1	90944	92608	+	False	extended	AMP-binding protein
+58	tp-only	PUL	1	J5A64_RS04945	persistent	STP		KZO69_RS02975		NZ_JAHXCL010000004.1	93009	93608	-	False	extended	Crp/Fnr family transcriptional regulator
+58	tp-only	PUL	1	PGY10_RS00995	persistent	CAZyme		KZO69_RS02980		NZ_JAHXCL010000004.1	93641	95422	-	False	extended	translation elongation factor 4
+58	tp-only	PUL	1	J5A64_RS04955	persistent			KZO69_RS02985		NZ_JAHXCL010000004.1	95595	95999	+	False	extended	hypothetical protein
+59	tp-only	PUL	1	J5A64_RS04525	persistent			KZO69_RS09130		NZ_JAHXCL010000027.1	14429	15049	+	False	split	deoxynucleoside kinase
+59	tp-only	PUL	1	J5A64_RS04520	persistent	STP		KZO69_RS09135		NZ_JAHXCL010000027.1	15347	16279	+	False	split	thioredoxin-disulfide reductase
+59	tp-only	PUL	1	J5A64_RS04515	persistent			KZO69_RS09140		NZ_JAHXCL010000027.1	16480	17580	+	False	split	bifunctional methionine sulfoxide reductase B/A protein
+59	tp-only	PUL	3	J5A64_RS04500	persistent	TC		KZO69_RS09155		NZ_JAHXCL010000027.1	20190	20822	+	False	split	cation diffusion facilitator family transporter
+59	tp-only	PUL	3	J5A64_RS04495	persistent	CAZyme		KZO69_RS09160		NZ_JAHXCL010000027.1	21044	24448	-	False	split	glycosyltransferase
+59	tp-only	PUL	3	J5A64_RS04490	persistent			KZO69_RS09165		NZ_JAHXCL010000027.1	24662	26674	-	False	split	TonB-dependent receptor plug domain-containing protein
+59	tp-only	PUL	2	RDR26_RS05315	persistent			KZO69_RS09170		NZ_JAHXCL010000027.1	27483	30191	+	False	split	Smr/MutS family protein
+59	tp-only	PUL	2	J5A64_RS04480	persistent	STP		KZO69_RS09175		NZ_JAHXCL010000027.1	30280	32373	+	False	split	OmpA family protein
+59	tp-only	PUL	2	J5A64_RS04475	persistent			KZO69_RS09180		NZ_JAHXCL010000027.1	32423	33754	+	False	split	RsmB/NOP family class I SAM-dependent RNA methyltransferase
+60	tp-only	PUL	1	HMPREF2139_RS05875	persistent			KZO69_RS11025		NZ_JAHXCL010000042.1	11236	12822	-	False	split	hypothetical protein
+60	tp-only	PUL	2	J5A64_RS02320	persistent			KZO69_RS10995		NZ_JAHXCL010000042.1	1843	2598	-	False	split	hypothetical protein
+60	tp-only	PUL	1	J5A64_RS02315	persistent			KZO69_RS11000		NZ_JAHXCL010000042.1	2629	4299	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+60	tp-only	PUL	1	J5A64_RS02310	persistent	TC		KZO69_RS11005		NZ_JAHXCL010000042.1	4320	7595	-	False	split	SusC/RagA family TonB-linked outer membrane protein
+60	tp-only	PUL	2	PGY10_RS09075	persistent	TF		KZO69_RS10990		NZ_JAHXCL010000042.1	760	1719	-	False	split	WYL domain-containing protein
+60	tp-only	PUL	1	J5A64_RS02305	persistent			KZO69_RS11010		NZ_JAHXCL010000042.1	8220	8657	-	False	split	hypothetical protein
+60	tp-only	PUL	1	J5A64_RS02300	persistent	CAZyme		KZO69_RS11015		NZ_JAHXCL010000042.1	8820	9599	-	False	split	glycosyltransferase family 2 protein
+60	tp-only	PUL	1	PGY10_RS09105	persistent	CAZyme		KZO69_RS11020		NZ_JAHXCL010000042.1	9596	10870	-	False	split	glycosyltransferase family 4 protein
+61	tp-only	PUL	1	J5A64_RS04275	persistent			KZO69_RS07540		NZ_JAHXCL010000019.1	10577	11869	+	False	strict	ABC transporter permease
+61	tp-only	PUL	1	KZY62_RS04260	persistent	TC		KZO69_RS07545		NZ_JAHXCL010000019.1	12115	13977	+	False	strict	DNA topoisomerase 3
+61	tp-only	PUL	1	J5A64_RS04265	persistent	CAZyme		KZO69_RS07550		NZ_JAHXCL010000019.1	14307	17636	+	False	strict	DUF2723 domain-containing protein
+61	tp-only	PUL	1	J5A64_RS04260	persistent	CAZyme		KZO69_RS07555		NZ_JAHXCL010000019.1	17802	18437	+	False	strict	polysaccharide deacetylase family protein
+61	tp-only	PUL	1	KZY62_RS04245	persistent	STP		KZO69_RS07560		NZ_JAHXCL010000019.1	18541	19509	+	False	strict	tRNA epoxyqueuosine(34) reductase QueG
+61	tp-only	PUL	1	J5A64_RS04250	persistent			KZO69_RS07565		NZ_JAHXCL010000019.1	19728	20051	+	False	strict	cupin domain-containing protein
+64	tp-only	PUL	1	J5A64_RS05335	shell			KZO69_RS11500		NZ_JAHXCL010000048.1	13860	14840	-	False	split	IS982 family transposase
+64	tp-only	PUL	1	KZO55_RS13025	cloud	TC		KZO69_RS13245		NZ_JAHXCL010000048.1	14803	15135	-	False	split	sugar transferase
+64	tp-only	PUL	3	KZO55_RS13025	cloud	TC		KZO69_RS12990		NZ_JAHXCL010000094.1	3	386	+	False	split	sugar transferase
+64	tp-only	PUL	3	J5A64_RS05335	shell			KZO69_RS12995		NZ_JAHXCL010000094.1	349	1329	+	False	split	IS982 family transposase
+66	tp-only	PUL	1	HMPREF2139_RS02075	persistent			KZO69_RS09250		NZ_JAHXCL010000028.1	13333	14619	-	False	extended	folylpolyglutamate synthase/dihydrofolate synthase family protein
+66	tp-only	PUL	1	J5A64_RS08930	persistent	TC		KZO69_RS09225		NZ_JAHXCL010000028.1	1629	4598	+	False	extended	TonB-dependent receptor
+66	tp-only	PUL	1	J5A64_RS08935	persistent	TC		KZO69_RS09230		NZ_JAHXCL010000028.1	4612	6186	+	False	extended	RagB/SusD family nutrient uptake outer membrane protein
+66	tp-only	PUL	1	PGY10_RS06200	persistent			KZO69_RS09235		NZ_JAHXCL010000028.1	6200	7888	+	False	extended	DUF5114 domain-containing protein
+66	tp-only	PUL	1	J5A64_RS08945	persistent	CAZyme		KZO69_RS09240		NZ_JAHXCL010000028.1	7913	8962	+	False	extended	glycosyl hydrolase 53 family protein
+66	tp-only	PUL	1	J5A64_RS08950	persistent	STP		KZO69_RS09245		NZ_JAHXCL010000028.1	9332	13102	+	False	extended	response regulator
+67	tp-only	PUL	1	J5A64_RS09360	persistent			KZO69_RS05740		NZ_JAHXCL010000011.1	58134	60428	-	False	extended	NADP-dependent malic enzyme
+67	tp-only	PUL	1	J5A64_RS09365	persistent	STP		KZO69_RS05745		NZ_JAHXCL010000011.1	60552	61199	+	False	extended	TetR/AcrR family transcriptional regulator
+67	tp-only	PUL	1	J5A64_RS09370	persistent			KZO69_RS05750		NZ_JAHXCL010000011.1	61272	62675	+	False	extended	hypothetical protein
+67	tp-only	PUL	1	J5A64_RS09375	persistent	TC		KZO69_RS05755		NZ_JAHXCL010000011.1	62721	64268	+	False	extended	MBOAT family O-acyltransferase
+67	tp-only	PUL	1	KZO69_RS05765	cloud			KZO69_RS05765		NZ_JAHXCL010000011.1	64583	64888	-	False	extended	hypothetical protein
+67	tp-only	PUL	1	KZO55_RS06095	cloud	CAZyme		KZO69_RS05770		NZ_JAHXCL010000011.1	64894	67272	-	False	extended	RHS repeat-associated core domain-containing protein
+67	tp-only	PUL	1	KZY62_RS12720	cloud	CAZyme		KZO69_RS13065		NZ_JAHXCL010000011.1	67878	69467	-	False	extended	RHS repeat-associated core domain-containing protein
+70	tp-only	PUL	1	QDH26_RS03740	persistent			KZO69_RS00640		NZ_JAHXCL010000001.1	195637	197646	-	False	extended	alkaline phosphatase family protein
+70	tp-only	PUL	1	J5A64_RS01250	persistent	TC		KZO69_RS00645		NZ_JAHXCL010000001.1	197670	199529	-	False	extended	ABC transporter ATP-binding protein
+70	tp-only	PUL	1	J5A64_RS01245	persistent			KZO69_RS00650		NZ_JAHXCL010000001.1	199619	200947	-	False	extended	tRNA (N6-isopentenyl adenosine(37)-C2)-methylthiotransferase MiaB
+70	tp-only	PUL	1	J5A64_RS01240	persistent	CAZyme		KZO69_RS00655		NZ_JAHXCL010000001.1	201634	202413	+	False	extended	polysaccharide deacetylase family protein
+70	tp-only	PUL	1	J5A64_RS01235	persistent	CAZyme		KZO69_RS00660		NZ_JAHXCL010000001.1	202538	203482	+	False	extended	glycosyltransferase family 2 protein
+70	tp-only	PUL	1	J5A64_RS01230	persistent			KZO69_RS00665		NZ_JAHXCL010000001.1	203497	203904	+	False	extended	GtrA family protein
+72	tp-only	PUL	1	J5A64_RS02910	persistent	CAZyme		KZO69_RS08910		NZ_JAHXCL010000026.1	10200	11435	+	False	extended	glycosyltransferase N-terminal domain-containing protein
+72	tp-only	PUL	1	J5A64_RS02915	persistent			KZO69_RS08915		NZ_JAHXCL010000026.1	11432	11923	+	False	extended	hypothetical protein
+72	tp-only	PUL	1	KZY62_RS07245	persistent	TC		KZO69_RS08890		NZ_JAHXCL010000026.1	1714	4020	+	False	extended	primosomal protein N'
+72	tp-only	PUL	1	J5A64_RS02895	persistent			KZO69_RS08895		NZ_JAHXCL010000026.1	4501	6186	-	False	extended	hypothetical protein
+72	tp-only	PUL	1	J5A64_RS02900	persistent	STP		KZO69_RS08900		NZ_JAHXCL010000026.1	6445	8496	-	False	extended	HDIG domain-containing protein
+72	tp-only	PUL	1	J5A64_RS02885	persistent			KZO69_RS08885		NZ_JAHXCL010000026.1	834	1559	-	False	extended	hypothetical protein
+72	tp-only	PUL	1	KZY62_RS07260	persistent			KZO69_RS08905		NZ_JAHXCL010000026.1	8650	10167	+	False	extended	glutamate--tRNA ligase
+74	tp-only	PUL	1	HMPREF9303_RS07580	cloud	CAZyme		KZO69_RS11940		NZ_JAHXCL010000056.1	1	207	+	True	split	hypothetical protein
+74	tp-only	PUL	2	PGY10_RS05285	cloud			KZO69_RS11635		NZ_JAHXCL010000051.1	4787	5239	-	False	split	DUF1896 domain-containing protein
+74	tp-only	PUL	2	PGY10_RS05290	cloud	TC		KZO69_RS11640		NZ_JAHXCL010000051.1	5402	7489	-	False	split	type IA DNA topoisomerase
+74	tp-only	PUL	3	KZO48_RS09375	cloud	STP		KZO69_RS12290		NZ_JAHXCL010000062.1	7159	8481	+	False	split	sigma-54 dependent transcriptional regulator
+74	tp-only	PUL	2	PGY10_RS05295	cloud			KZO69_RS11645		NZ_JAHXCL010000051.1	7550	9121	-	False	split	DUF3945 domain-containing protein
+76	tp-only	PUL	1	J5A64_RS11140	persistent			KZO69_RS08475		NZ_JAHXCL010000024.1	11309	12193	-	False	split	4-hydroxy-tetrahydrodipicolinate synthase
+76	tp-only	PUL	1	J5A64_RS11145	persistent	TC		KZO69_RS08480		NZ_JAHXCL010000024.1	12397	13323	-	False	split	EamA family transporter
+76	tp-only	PUL	1	J5A64_RS11150	persistent			KZO69_RS08485		NZ_JAHXCL010000024.1	13336	14097	-	False	split	tRNA pseudouridine(38-40) synthase TruA
+76	tp-only	PUL	2	J5A64_RS11155	persistent			KZO69_RS08490		NZ_JAHXCL010000024.1	14122	15666	-	False	split	ComEC/Rec2 family competence protein
+76	tp-only	PUL	2	J5A64_RS11160	persistent	STP		KZO69_RS08495		NZ_JAHXCL010000024.1	15775	16614	+	False	split	EFR1 family ferrodoxin
+76	tp-only	PUL	2	J5A64_RS11165	persistent			KZO69_RS08500		NZ_JAHXCL010000024.1	16707	16865	-	False	split	DUF4295 domain-containing protein
+76	tp-only	PUL	3	PGY10_RS11970	persistent			KZO69_RS13215		NZ_JAHXCL010000024.1	7705	8661	+	False	split	membrane protein
+76	tp-only	PUL	3	J5A64_RS11130	persistent	CAZyme		KZO69_RS08465		NZ_JAHXCL010000024.1	8681	9793	+	False	split	peptide chain release factor 1
+76	tp-only	PUL	3	J5A64_RS11135	persistent			KZO69_RS08470		NZ_JAHXCL010000024.1	9978	10805	+	False	split	orotidine-5'-phosphate decarboxylase
+79	tp-only	PUL	1	J5A64_RS02440	persistent			KZO69_RS08295		NZ_JAHXCL010000023.1	15891	17345	+	False	extended	 6-diaminopimelate ligase, UDP-N-acetylmuramoyl-L-alanyl-D-glutamate--2
+79	tp-only	PUL	1	J5A64_RS02435	persistent	TC		KZO69_RS08300		NZ_JAHXCL010000023.1	17558	18829	+	False	extended	phospho-N-acetylmuramoyl-pentapeptide- transferase
+79	tp-only	PUL	1	J5A64_RS02430	persistent			KZO69_RS08305		NZ_JAHXCL010000023.1	19026	20357	+	False	extended	UDP-N-acetylmuramoyl-L-alanine--D-glutamate ligase
+79	tp-only	PUL	1	J5A64_RS02425	persistent	CAZyme		KZO69_RS08310		NZ_JAHXCL010000023.1	20401	21690	+	False	extended	FtsW/RodA/SpoVE family cell cycle protein
+79	tp-only	PUL	1	J5A64_RS02420	persistent	CAZyme		KZO69_RS08315		NZ_JAHXCL010000023.1	21776	22882	+	False	extended	undecaprenyldiphospho-muramoylpentapeptide beta-N-acetylglucosaminyltransferase
+79	tp-only	PUL	1	PGY10_RS08980	persistent			KZO69_RS08320		NZ_JAHXCL010000023.1	23017	24393	+	False	extended	UDP-N-acetylmuramate--L-alanine ligase
+80	tp-only	PUL	1	J5A64_RS04215	persistent			KZO69_RS07600		NZ_JAHXCL010000019.1	26490	27803	-	False	strict	MFS transporter
+80	tp-only	PUL	1	PGY10_RS00230	persistent	CAZyme		KZO69_RS07605		NZ_JAHXCL010000019.1	27845	31594	-	False	strict	DUF4922 domain-containing protein
+80	tp-only	PUL	1	J5A64_RS04205	persistent	TC		KZO69_RS07610		NZ_JAHXCL010000019.1	31760	33145	-	False	strict	sodium:proton antiporter NhaD
+80	tp-only	PUL	1	J5A64_RS04200	persistent			KZO69_RS07615		NZ_JAHXCL010000019.1	33355	35409	+	False	strict	NAD-dependent DNA ligase LigA
+81	tp-only	PUL	1	J5A64_RS03920	persistent			KZO69_RS10540		NZ_JAHXCL010000037.1	15646	16368	-	False	extended	gliding motility-associated C-terminal domain-containing protein
+81	tp-only	PUL	1	J5A64_RS03915	persistent	CAZyme		KZO69_RS10545		NZ_JAHXCL010000037.1	16550	17932	+	False	extended	ABC transporter substrate-binding protein
+81	tp-only	PUL	1	J5A64_RS03910	persistent			KZO69_RS10550		NZ_JAHXCL010000037.1	17961	18710	+	False	extended	porin family protein
+81	tp-only	PUL	1	PGY10_RS10985	persistent	TC		KZO69_RS10555		NZ_JAHXCL010000037.1	18735	20261	+	False	extended	peptide MFS transporter
+81	tp-only	PUL	1	KZY62_RS03890	persistent			KZO69_RS10560		NZ_JAHXCL010000037.1	20613	21221	-	False	extended	DNA-binding domain-containing protein
+82	tp-only	PUL	1	PGY10_RS07420	persistent			KZO69_RS00475		NZ_JAHXCL010000001.1	150507	152684	+	False	extended	outer membrane beta-barrel family protein
+82	tp-only	PUL	1	J5A64_RS01400	persistent	CAZyme		KZO69_RS00480		NZ_JAHXCL010000001.1	152789	155269	-	False	extended	DUF4982 domain-containing protein
+82	tp-only	PUL	1	J5A64_RS01395	persistent			KZO69_RS00485		NZ_JAHXCL010000001.1	155538	157205	-	False	extended	nucleoside kinase
+82	tp-only	PUL	1	J5A64_RS01390	persistent	TC		KZO69_RS00490		NZ_JAHXCL010000001.1	157318	159027	+	False	extended	Na/Pi cotransporter family protein
+83	tp-only	PUL	1	J5A64_RS02525	persistent			KZO69_RS06685		NZ_JAHXCL010000015.1	2606	3325	-	False	strict	IspD/TarI family cytidylyltransferase
+83	tp-only	PUL	1	PGY10_RS08865	persistent	CAZyme		KZO69_RS06690		NZ_JAHXCL010000015.1	3340	4299	-	False	strict	glycosyltransferase
+83	tp-only	PUL	1	PGY10_RS08860	persistent	TC		KZO69_RS06695		NZ_JAHXCL010000015.1	4411	6894	+	False	strict	DUF2339 domain-containing protein
+83	tp-only	PUL	1	J5A64_RS02540	persistent			KZO69_RS06700		NZ_JAHXCL010000015.1	7536	9563	+	False	strict	M13 family metallopeptidase
+84	tp-only	PUL	1	J5A64_RS02010	persistent			KZO69_RS04970		NZ_JAHXCL010000009.1	13666	15426	-	False	split	RagB/SusD family nutrient uptake outer membrane protein
+84	tp-only	PUL	1	J5A64_RS02015	persistent	TC		KZO69_RS04975		NZ_JAHXCL010000009.1	15455	18643	-	False	split	TonB-dependent receptor
+84	tp-only	PUL	1	J5A64_RS02020	persistent			KZO69_RS04980		NZ_JAHXCL010000009.1	19151	19690	+	False	split	phosphodiesterase
+84	tp-only	PUL	2	HMPREF9303_RS09795	persistent			KZO69_RS04985		NZ_JAHXCL010000009.1	19774	20787	-	False	split	acyltransferase
+84	tp-only	PUL	2	J5A64_RS02030	persistent	CAZyme		KZO69_RS04990		NZ_JAHXCL010000009.1	21053	22057	-	False	split	M23 family metallopeptidase
+84	tp-only	PUL	2	J5A64_RS02035	persistent			KZO69_RS04995		NZ_JAHXCL010000009.1	22332	24428	-	False	split	ATP-dependent DNA helicase RecG
+85	tp-only	PUL	1	PGY10_RS02420	persistent	TC		KZO69_RS08580		NZ_JAHXCL010000024.1	29915	31162	+	False	strict	FtsX-like permease family protein
+85	tp-only	PUL	1	J5A64_RS11250	persistent	CAZyme		KZO69_RS08585		NZ_JAHXCL010000024.1	31927	34230	-	False	strict	transglycosylase domain-containing protein
+85	tp-only	PUL	1	J5A64_RS11255	persistent			KZO69_RS08590		NZ_JAHXCL010000024.1	34394	35341	+	False	strict	aspartate carbamoyltransferase
+86	tp-only	PUL	1	HMPREF2139_RS11470	shell			KZO69_RS11600		NZ_JAHXCL010000050.1	1173	5666	-	False	split	DUF2958 domain-containing protein
+86	tp-only	PUL	3	KZO55_RS07235	cloud			KZO69_RS07455		NZ_JAHXCL010000018.1	36792	39179	-	False	split	outer membrane beta-barrel protein
+86	tp-only	PUL	3	KZO55_RS07230	cloud	CAZyme		KZO69_RS07460		NZ_JAHXCL010000018.1	39172	41337	-	False	split	glycosyltransferase
+86	tp-only	PUL	3	HMPREF2139_RS11485	persistent			KZO69_RS07465		NZ_JAHXCL010000018.1	41665	43068	+	False	split	DUF3945 domain-containing protein
+86	tp-only	PUL	3	KZY62_RS10715	shell	TC		KZO69_RS07470		NZ_JAHXCL010000018.1	43090	45162	+	False	split	type IA DNA topoisomerase
+86	tp-only	PUL	3	HMPREF2139_RS11470	shell			KZO69_RS07475		NZ_JAHXCL010000018.1	45255	49799	+	False	split	DUF2958 domain-containing protein
+86	tp-only	PUL	2	KZY62_RS10715	shell	TC		KZO69_RS11340		NZ_JAHXCL010000046.1	5311	7395	-	False	split	type IA DNA topoisomerase
+86	tp-only	PUL	1	KZY62_RS10715	shell	TC		KZO69_RS11605		NZ_JAHXCL010000050.1	5761	7875	-	False	split	type IA DNA topoisomerase
+86	tp-only	PUL	2	HMPREF2139_RS11470	shell			KZO69_RS11335		NZ_JAHXCL010000046.1	727	5217	-	False	split	DUF2958 domain-containing protein
+86	tp-only	PUL	2	HMPREF2139_RS11485	persistent			KZO69_RS11345		NZ_JAHXCL010000046.1	7417	8820	-	False	split	DUF3945 domain-containing protein
+86	tp-only	PUL	1	HMPREF2139_RS11485	persistent			KZO69_RS11610		NZ_JAHXCL010000050.1	7896	9296	-	False	split	DUF3945 domain-containing protein
+87	tp-only	PUL	1	J5A64_RS01070	persistent			KZO69_RS00810		NZ_JAHXCL010000001.1	235373	236635	-	False	extended	beta-ketoacyl-ACP synthase II
+87	tp-only	PUL	1	J5A64_RS01075	persistent	TC		KZO69_RS00815		NZ_JAHXCL010000001.1	236725	236961	-	False	extended	acyl carrier protein
+87	tp-only	PUL	1	J5A64_RS01080	persistent			KZO69_RS00820		NZ_JAHXCL010000001.1	237318	237929	+	False	extended	DUF4254 domain-containing protein
+87	tp-only	PUL	1	J5A64_RS01085	persistent	CAZyme		KZO69_RS00825		NZ_JAHXCL010000001.1	238098	239171	+	False	extended	glycosyltransferase family 9 protein
+87	tp-only	PUL	1	J5A64_RS01090	persistent			KZO69_RS00830		NZ_JAHXCL010000001.1	239234	239557	+	False	extended	hypothetical protein

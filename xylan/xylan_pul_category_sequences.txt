@@ -1,0 +1,62 @@
+PUL0010: Other → Other → CAZyme → Sulfatase → Other → CAZyme → Transporter → Other → Other → Other → TF-STP → Sulfatase → STP → CAZyme → CAZyme → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme → Sulfatase → Transporter → Transporter → Transporter → TF-STP → Transporter → Hypothetical → Other → Other → Other → CAZyme → CAZyme → Transporter → Transporter → Transporter → Other → Other → Other → TF-STP → Transporter → Transporter → Transporter
+PUL0648: CAZyme → Other → SusD → Transporter → SusD → Transporter → CAZyme → CAZyme → CAZyme → Transporter → Other → CAZyme → STP → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → TF-STP → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Transporter → CAZyme → CAZyme → CAZyme → Other → Other → Transporter → Transporter → Transporter
+PUL0338: Transporter → TF-STP → Transporter → Other → Other → Hypothetical → STP → Other → Transporter → Other → Transporter → Hypothetical → Hypothetical → CAZyme → Hypothetical → STP → Transporter → SusD → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → Other → Transporter → Hypothetical → CAZyme → STP → TF-STP → Peptidase → Peptidase → Other → Peptidase → Other
+PUL0335: Hypothetical → Transporter → Other → STP → CAZyme → Other → Transporter → Transporter → STP → CAZyme → Other → Other → Other → Other → Peptidase → Other → Peptidase → Peptidase → TF-STP → STP → CAZyme → Hypothetical → Transporter → Other → CAZyme → CAZyme → CAZyme → CAZyme → Hypothetical → SusD → Transporter
+PUL0345: Transporter → Transporter → SusD → Hypothetical → CAZyme → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Hypothetical → Peptidase → Transporter → Other → CAZyme → CAZyme → CAZyme → CAZyme → Hypothetical → CAZyme → Hypothetical → SusD → Peptidase → SusD → Transporter → Hypothetical → CAZyme → CAZyme
+PUL0542: Transporter → TF-STP → Transporter → Transporter → Transporter → Sulfatase → CAZyme → CAZyme → CAZyme → Other → Transporter → Transporter → CAZyme → CAZyme → STP → Sulfatase → TF-STP → Other → Other → Other → Transporter → Hypothetical → Other → Other → CAZyme → Other → Sulfatase → CAZyme → Other → Other
+PUL0722: CAZyme → CAZyme → CAZyme → Sulfatase → Other → CAZyme → Transporter → Hypothetical → TF-STP → CAZyme → Sulfatase → Hypothetical → Hypothetical → Other → Other → Sulfatase → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Transporter → Transporter → CAZyme → Transporter → CAZyme → Other → Other → Other → Other
+PUL0337: Hypothetical → STP → Other → TF-STP → Hypothetical → Transporter → Transporter → TF-STP → Transporter → Other → Other → Hypothetical → STP → Other → Transporter → Other → Transporter → Hypothetical → Hypothetical → CAZyme → Hypothetical → STP → Transporter → SusD → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0414: Other → Hypothetical → Hypothetical → Other → Other → Other → CAZyme → CAZyme → STP → Other → Other → Other → Other → Other → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → Other → Hypothetical → STP → CAZyme → CAZyme → Hypothetical → STP
+PUL0602: Other → Other → Sulfatase → Other → CAZyme → Transporter → Other → Other → Other → TF-STP → Sulfatase → STP → CAZyme → CAZyme → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme → Sulfatase → Transporter → Transporter → STP → TF-STP → Transporter
+PUL0669: CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → TF-STP → CAZyme → CAZyme → CAZyme → Other → Hypothetical → Other → CAZyme → CAZyme → Other → SusD → Transporter → Transporter → Transporter → CAZyme
+PUL0329: CAZyme → CAZyme → Sulfatase → CAZyme → CAZyme → Transporter → Other → CAZyme → Hypothetical → Hypothetical → Hypothetical → Hypothetical → Hypothetical → TF-STP → Other → CAZyme → CAZyme → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → Other → Other → Transporter
+PUL0336: Transporter → Other → CAZyme → CAZyme → CAZyme → CAZyme → Hypothetical → SusD → Transporter → STP → Hypothetical → CAZyme → Hypothetical → Hypothetical → Transporter → Other → Transporter → Other → STP → Hypothetical → Other → Other → Transporter → TF-STP → Transporter
+PUL0339: Hypothetical → Other → Hypothetical → Hypothetical → Hypothetical → Other → Other → CAZyme → Transporter → CAZyme → CAZyme → Peptidase → CAZyme → Hypothetical → SusD → Transporter → Hypothetical → Other → TF-STP → CAZyme → STP → Hypothetical → Transporter → Hypothetical
+PUL0390: CAZyme → Transporter → Transporter → Transporter → Transporter → Transporter → CAZyme → CAZyme → Hypothetical → Other → TF-STP → Other → STP → Other → Other → CAZyme → Transporter → Transporter → Transporter → Transporter → Transporter → CAZyme → CAZyme
+PUL0553: CAZyme → CAZyme → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Transporter → SusD → Transporter → SusD → Other → CAZyme → Hypothetical → CAZyme → CAZyme → CAZyme → Transporter → CAZyme → CAZyme
+PUL0625: CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Other → Hypothetical → TF-STP → CAZyme → CAZyme → SusD → Transporter → Hypothetical → Other → Transporter → Transporter
+PUL0704: Transporter → CAZyme → Other → TF-STP → CAZyme → CAZyme → CAZyme → CAZyme → Other → SusD → CAZyme → CAZyme → SusD → Transporter → CAZyme → CAZyme → Transporter → Other
+PUL0792: Other → Other → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Other → CAZyme → Other → Hypothetical → Other → Other → TF-STP
+PUL0622: Peptidase → Hypothetical → Transporter → Hypothetical → Hypothetical → Transporter → Transporter → Hypothetical → Hypothetical → Hypothetical → CAZyme → CAZyme → Other → CAZyme → CAZyme → CAZyme
+PUL0346: CAZyme → Transporter → Other → Other → Other → Other → Transporter → Transporter → CAZyme → CAZyme → CAZyme → Other → CAZyme → Other → CAZyme
+PUL0610: TF-STP → CAZyme → CAZyme → Peptidase → Sulfatase → Hypothetical → Hypothetical → CAZyme → TF-STP → STP → Transporter → Transporter → CAZyme → CAZyme → CAZyme
+PUL0617: CAZyme → Other → Transporter → CAZyme → CAZyme → CAZyme → Hypothetical → CAZyme → CAZyme → Other → SusD → Transporter → SusD → Transporter
+PUL0694: CAZyme → Transporter → Transporter → Other → Other → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0705: CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Transporter → CAZyme → CAZyme → Other → SusD → Transporter → SusD → Transporter
+PUL0456: STP → Transporter → TF-STP → Transporter → SusD → Transporter → CAZyme → Transporter → CAZyme → CAZyme → Transporter → Other → CAZyme
+PUL0743: Transporter → TF-STP → Transporter → Transporter → Transporter → CAZyme → Other → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0227: Other → CAZyme → CAZyme → Other → Other → Other → Transporter → TF-STP → Transporter → Transporter → Transporter → CAZyme
+PUL0262: Transporter → SusD → Peptidase → SusD → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Transporter
+PUL0274: Other → CAZyme → TF-STP → STP → Transporter → Transporter → CAZyme → CAZyme → Transporter → CAZyme → Other → STP
+PUL0289: Transporter → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → SusD → Transporter
+PUL0294: Hypothetical → Hypothetical → CAZyme → Other → CAZyme → CAZyme → Transporter → Transporter → Transporter → TF-STP → Other → Other
+PUL0140: Other → CAZyme → TF-STP → STP → Transporter → Transporter → CAZyme → CAZyme → Transporter → CAZyme → Other
+PUL0624: CAZyme → Other → CAZyme → Hypothetical → Transporter → Transporter → Other → Other → Transporter → SusD → CAZyme
+PUL0696: Transporter → Other → Transporter → Transporter → Transporter → STP → Transporter → CAZyme → Other → Other → CAZyme
+PUL0620: CAZyme → Hypothetical → Hypothetical → CAZyme → Hypothetical → Transporter → SusD → Other → Other → Transporter
+PUL0328: CAZyme → CAZyme → Sulfatase → CAZyme → CAZyme → CAZyme → Hypothetical → Other → Transporter
+PUL0474: TF-STP → Transporter → Transporter → CAZyme → CAZyme → CAZyme → Other → CAZyme → CAZyme
+PUL0480: CAZyme → Transporter → Transporter → SusD → Other → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0533: Transporter → CAZyme → Transporter → SusD → Transporter → SusD → Hypothetical → CAZyme → CAZyme
+PUL0630: Transporter → SusD → Other → CAZyme → CAZyme → CAZyme → Transporter → CAZyme → CAZyme
+PUL0229: TF-STP → Transporter → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme
+PUL0364: CAZyme → CAZyme → Other → CAZyme → Transporter → Other → CAZyme → CAZyme
+PUL0392: Hypothetical → SusD → Transporter → TF-STP → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0592: TF-STP → Transporter → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme
+PUL0457: Hypothetical → Sulfatase → CAZyme → Transporter → Transporter → Other → Other
+PUL0599: TF-STP → STP → Transporter → CAZyme → Other → Transporter → Transporter
+PUL0078: Transporter → Transporter → TF-STP → CAZyme → Other → Other
+PUL0402: CAZyme → Transporter → Other → Other → Other → TF-STP
+PUL0263: CAZyme → Hypothetical → SusD → Transporter → Transporter
+PUL0342: CAZyme → CAZyme → CAZyme → STP → Transporter
+PUL0508: TF-STP → Transporter → Transporter → Transporter → CAZyme
+PUL0619: Transporter → SusD → Hypothetical → Hypothetical → CAZyme
+PUL0695: STP → Transporter → Transporter → TF-STP → CAZyme
+PUL0415: Transporter → Transporter → CAZyme → CAZyme
+PUL0594: Transporter → Transporter → TF-STP → CAZyme
+PUL0598: CAZyme → Other → Other → Other
+PUL0682: CAZyme → CAZyme → CAZyme
+PUL0697: CAZyme → CAZyme → CAZyme
+PUL0003: CAZyme → CAZyme
+PUL0411: CAZyme → CAZyme
+PUL0520: Transporter → CAZyme

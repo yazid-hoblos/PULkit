@@ -1,0 +1,251 @@
+#                                                               --- full sequence ---- --- best 1 domain ---- --- domain number estimation ----
+# target name        accession  query name           accession    E-value  score  bias   E-value  score  bias   exp reg clu  ov env dom rep inc description of target
+#------------------- ---------- -------------------- ---------- --------- ------ ----- --------- ------ -----   --- --- --- --- --- --- --- --- ---------------------
+CarbopepD_reg_2      PF13715.9  PUL0262|ALJ61513.1   -            7.2e-24   72.9   3.4   2.6e-23   71.1   3.4   2.0   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0262|ALJ61513.1   -            6.4e-19   57.7   2.1   1.9e-18   56.2   2.1   1.9   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0262|ALJ61514.1   -            6.8e-49  156.1   4.2   1.2e-48  155.3   4.2   1.4   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0262|ALJ61514.1   -            7.9e-23   70.8   0.0   2.2e-22   69.3   0.0   1.8   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0262|ALJ61514.1   -            1.4e-07   19.8   0.4   9.9e-05   10.4   0.1   2.3   2   0   0   2   2   2   2 Starch-binding associating with outer membrane
+SusD-like            PF12741.10 PUL0262|ALJ61514.1   -              7e-06   14.2   0.1   1.2e-05   13.4   0.1   1.3   1   0   0   1   1   1   1 Susd and RagB outer membrane lipoprotein
+Plug                 PF07715.18 PUL0262|ALJ61515.1   -            2.2e-08   23.8   0.2   6.5e-08   22.3   0.2   1.8   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0262|ALJ61516.1   -            1.9e-48  154.6   3.9   1.9e-48  154.6   3.9   1.5   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0262|ALJ61516.1   -            2.8e-12   36.4   0.1   7.2e-12   35.0   0.1   1.8   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0263|ALJ61542.1   -            5.8e-30   94.0   7.6   5.8e-30   94.0   7.6   2.0   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0263|ALJ61542.1   -            8.2e-17   51.2   6.2   8.2e-17   51.2   6.2   2.4   3   0   0   3   3   3   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0263|ALJ61543.1   -            1.7e-42  135.9  72.8     3e-42  135.1  66.6   2.8   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0263|ALJ61543.1   -            3.7e-24   74.6   6.9   1.3e-23   72.9   6.9   2.0   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0263|ALJ61543.1   -              3e-23   70.9   4.9     1e-22   69.1   4.9   2.0   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+TonB_dep_Rec         PF00593.27 PUL0289|ABQ06882.1   -            2.2e-35  112.4  48.9   2.2e-35  112.4  48.9   2.4   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0289|ABQ06882.1   -            1.4e-23   72.7   3.0   1.4e-23   72.7   3.0   2.6   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0289|ABQ06882.1   -            6.7e-19   56.9   0.5   6.7e-19   56.9   0.5   2.3   2   0   0   2   2   2   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0289|ABQ06892.1   -            3.1e-29   91.6   0.4   7.9e-29   90.3   0.4   1.7   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0289|ABQ06892.1   -            2.2e-21   66.1   0.0   4.2e-21   65.2   0.0   1.5   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0289|ABQ06893.1   -            2.1e-27   86.1  64.2   2.1e-27   86.1  64.2   2.1   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0289|ABQ06893.1   -              7e-25   76.9   2.2     7e-25   76.9   2.2   4.1   5   0   0   5   5   5   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0289|ABQ06893.1   -            4.4e-20   60.7   1.6   1.4e-19   59.1   1.6   1.9   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0328|APU67027.1   -              1e-39  126.0   0.0   1.4e-39  125.5   0.0   1.2   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0328|APU67027.1   -            2.3e-20   62.8   0.2   4.6e-20   61.8   0.0   1.7   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0328|APU67028.1   -            5.5e-25   76.4   0.3   1.3e-24   75.3   0.3   1.7   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0328|APU67028.1   -            2.2e-22   68.9   2.5   2.2e-22   68.9   2.5   2.2   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+TonB_dep_Rec         PF00593.27 PUL0329|APU67046.1   -            7.5e-26   81.0  86.4     3e-25   79.0  67.6   2.8   1   1   1   2   2   2   2 TonB dependent receptor
+Plug                 PF07715.18 PUL0329|APU67046.1   -            2.7e-24   75.0   3.4   2.7e-24   75.0   3.4   3.4   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0329|APU67046.1   -            2.4e-23   71.2   1.2   7.9e-23   69.5   1.2   2.0   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0329|APU67047.1   -            2.3e-32  101.8   1.1   3.9e-32  101.1   1.1   1.3   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0329|APU67047.1   -            3.4e-21   65.5   0.0   7.4e-21   64.4   0.0   1.5   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0335|SIP56340.1   -            3.1e-32  101.4   0.1     5e-31   97.5   0.1   2.3   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0335|SIP56340.1   -              7e-15   44.9   0.5   1.3e-14   44.0   0.1   1.6   1   1   1   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0335|SIP56340.1   -            7.7e-08   20.6   0.7   1.1e-07   20.1   0.2   1.4   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0335|SIP56341.1   -            5.9e-48  153.9  38.0     8e-48  153.4  38.0   1.2   1   0   0   1   1   1   1 TonB dependent receptor
+SusD_RagB            PF07980.14 PUL0336|SIP56349.1   -            3.1e-32  101.4   0.1     5e-31   97.5   0.1   2.3   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0336|SIP56349.1   -              7e-15   44.9   0.5   1.3e-14   44.0   0.1   1.6   1   1   1   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0336|SIP56349.1   -            7.7e-08   20.6   0.7   1.1e-07   20.1   0.2   1.4   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0336|SIP56350.1   -            2.1e-45  145.5  43.9   2.1e-45  145.5  43.9   2.3   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0336|SIP56350.1   -              5e-24   74.2   4.3     5e-24   74.2   4.3   2.4   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0336|SIP56350.1   -            1.5e-23   71.9   1.7   3.8e-23   70.6   1.7   1.8   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+TonB_dep_Rec         PF00593.27 PUL0337|SIP56389.1   -            2.1e-45  145.5  43.9   2.1e-45  145.5  43.9   2.3   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0337|SIP56389.1   -              5e-24   74.2   4.3     5e-24   74.2   4.3   2.4   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0337|SIP56389.1   -            1.5e-23   71.9   1.7   3.8e-23   70.6   1.7   1.8   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0337|SIP56390.1   -            3.1e-32  101.4   0.1     5e-31   97.5   0.1   2.3   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0337|SIP56390.1   -              7e-15   44.9   0.5   1.3e-14   44.0   0.1   1.6   1   1   1   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0337|SIP56390.1   -            7.7e-08   20.6   0.7   1.1e-07   20.1   0.2   1.4   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0338|SIP56412.1   -            2.1e-45  145.5  43.9   2.1e-45  145.5  43.9   2.3   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0338|SIP56412.1   -              5e-24   74.2   4.3     5e-24   74.2   4.3   2.4   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0338|SIP56412.1   -            1.5e-23   71.9   1.7   3.8e-23   70.6   1.7   1.8   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0338|SIP56413.1   -            3.1e-32  101.4   0.1     5e-31   97.5   0.1   2.3   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0338|SIP56413.1   -              7e-15   44.9   0.5   1.3e-14   44.0   0.1   1.6   1   1   1   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0338|SIP56413.1   -            7.7e-08   20.6   0.7   1.1e-07   20.1   0.2   1.4   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0339|SIP56444.1   -            4.5e-34  107.5   3.9   4.5e-34  107.5   3.9   3.1   2   2   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0339|SIP56444.1   -              2e-12   36.9   2.2     2e-12   36.9   2.2   2.5   4   0   0   4   4   4   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0339|SIP56444.1   -            1.3e-08   23.2   1.7   1.3e-08   23.2   1.7   1.9   2   1   0   2   2   2   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0339|SIP56445.1   -            1.8e-45  145.7  46.8   1.8e-45  145.7  46.8   2.9   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0339|SIP56445.1   -            1.5e-23   72.6   2.4   1.5e-23   72.6   2.4   3.1   4   0   0   4   4   4   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0339|SIP56445.1   -            8.6e-22   66.2   5.7   2.2e-21   64.9   0.7   2.7   2   0   0   2   2   2   1 CarboxypepD_reg-like domain
+TonB_dep_Rec         PF00593.27 PUL0345|EDV05051.1   -            1.8e-40  129.2  75.8   5.8e-40  127.5  75.8   1.8   1   1   0   1   1   1   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0345|EDV05051.1   -            4.9e-24   74.2   7.8   1.3e-23   72.8   7.8   1.8   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0345|EDV05051.1   -            1.1e-23   72.2   4.2   4.7e-23   70.3   4.2   2.2   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0345|EDV05052.1   -            6.3e-28   87.3   8.3   6.3e-28   87.3   8.3   1.7   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0345|EDV05052.1   -            2.9e-22   69.0   4.6   2.9e-22   69.0   4.6   2.4   3   0   0   3   3   3   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0345|EDV05074.1   -            3.3e-50  160.5   2.0   3.3e-50  160.5   2.0   1.5   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0345|EDV05074.1   -            4.2e-12   35.8   0.0   9.6e-12   34.6   0.0   1.6   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+Plug                 PF07715.18 PUL0345|EDV05075.1   -            4.9e-09   25.9   0.3   1.2e-08   24.7   0.3   1.7   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0345|EDV05076.1   -            1.3e-48  155.2   5.9   2.2e-48  154.5   5.9   1.4   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0345|EDV05076.1   -            3.5e-21   65.4   0.0   8.6e-21   64.2   0.0   1.8   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0345|EDV05076.1   -            8.5e-07   17.2   0.4    0.0002    9.4   0.2   2.3   2   0   0   2   2   2   2 Starch-binding associating with outer membrane
+SusD-like            PF12741.10 PUL0345|EDV05076.1   -            7.5e-06   14.1   0.3   7.5e-06   14.1   0.3   1.9   2   0   0   2   2   2   1 Susd and RagB outer membrane lipoprotein
+CarbopepD_reg_2      PF13715.9  PUL0345|EDV05077.1   -              7e-23   69.7   4.6   1.4e-22   68.7   3.6   2.1   2   0   0   2   2   2   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0345|EDV05077.1   -            1.7e-18   56.4   2.3   4.9e-18   54.9   2.3   1.9   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0346|CCG34975.1   -            9.7e-31   96.5   8.0   8.3e-30   93.5   8.0   2.2   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0346|CCG34975.1   -              4e-23   71.8   0.0   9.4e-23   70.5   0.0   1.7   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0346|CCG34976.1   -              4e-35  111.6  39.0     4e-35  111.6  39.0   2.2   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0346|CCG34976.1   -            1.1e-24   76.3   2.7   1.1e-24   76.3   2.7   2.0   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0346|CCG34976.1   -            1.3e-22   68.9   2.8   3.4e-22   67.5   2.8   1.8   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+TonB_dep_Rec         PF00593.27 PUL0364|AAM43341.1   -            3.7e-38  121.5  35.5   3.7e-38  121.5  35.5   2.0   1   1   2   3   3   3   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0364|AAM43341.1   -            2.6e-17   52.6   0.6   2.6e-17   52.6   0.6   3.7   4   0   0   4   4   4   1 TonB-dependent Receptor Plug Domain
+SusD-like_3          PF14322.9  PUL0392|CBK69513.1   -            2.9e-31   98.3   2.2   5.1e-31   97.5   2.2   1.4   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0392|CBK69513.1   -            1.6e-23   72.8   2.2     5e-23   71.2   0.8   2.1   1   1   1   2   2   2   1 SusD family
+TonB_dep_Rec         PF00593.27 PUL0392|CBK69514.1   -            3.8e-35  111.6  40.9   3.8e-35  111.6  40.9   2.5   1   1   1   2   2   2   1 TonB dependent receptor
+CarbopepD_reg_2      PF13715.9  PUL0392|CBK69514.1   -            1.5e-19   59.1   0.1   4.5e-19   57.5   0.1   1.9   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0392|CBK69514.1   -            7.9e-18   54.2   0.4   3.4e-17   52.2   0.4   2.2   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+STN                  PF07660.17 PUL0392|CBK69514.1   -            4.6e-05   12.4   0.0   0.00041    9.4   0.0   2.7   2   0   0   2   2   2   1 Secretin and TonB N terminus short domain
+CarbopepD_reg_2      PF13715.9  PUL0392|CBK69518.1   -            5.9e-05   12.2   0.3   0.00023   10.4   0.0   2.1   3   0   0   3   3   3   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0415|EDO13793.1   -            2.8e-22   68.7   5.2   1.8e-21   66.1   5.1   2.3   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0415|EDO13793.1   -            1.1e-21   67.1   0.1   2.8e-21   65.7   0.1   1.7   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0415|EDO13793.1   -            2.4e-11   32.2   0.4   4.2e-10   28.1   0.2   2.4   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0415|EDO13794.1   -            3.2e-39  125.1  48.1   4.4e-39  124.6  44.1   2.5   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0415|EDO13794.1   -            1.9e-20   62.6   0.7   4.3e-20   61.5   0.7   1.7   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+Plug                 PF07715.18 PUL0456|WP_155815414.1 -            1.2e-24   76.2   1.5   1.2e-24   76.2   1.5   1.7   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0456|WP_155815414.1 -            1.8e-18   55.6   0.0   2.8e-18   54.9   0.0   1.3   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD-like_3          PF14322.9  PUL0456|WP_162091544.1 -            8.7e-14   41.3   0.0   4.5e-13   39.0   0.0   1.9   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0456|WP_006281618.1 -            5.9e-21   63.5   0.4   2.2e-20   61.7   0.4   2.0   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0456|WP_006281618.1 -            4.2e-18   55.1   3.5   1.3e-17   53.5   3.5   2.0   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+TonB_dep_Rec         PF00593.27 PUL0474|WP_012023636.1 -            1.4e-37  119.6  54.4   1.4e-37  119.6  54.4   2.5   1   1   0   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0474|WP_012023636.1 -            1.5e-25   79.1   3.5   8.8e-25   76.6   3.5   2.5   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0474|WP_012023636.1 -            9.9e-23   69.2   1.8   4.1e-22   67.3   1.8   2.2   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0474|WP_012023637.1 -            1.7e-25   79.3   1.1   5.1e-25   77.8   1.1   1.9   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0474|WP_012023637.1 -            4.8e-19   58.5   0.0   1.1e-18   57.3   0.0   1.6   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0474|WP_012023637.1 -            4.3e-07   18.2   0.0   1.2e-06   16.7   0.0   1.7   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0480|WP_012025840.1 -            1.8e-34  109.4  59.4   1.8e-34  109.4  59.4   2.1   1   1   2   3   3   3   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0480|WP_012025840.1 -              5e-23   70.9   5.5     5e-23   70.9   5.5   3.1   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0480|WP_012025840.1 -            1.9e-19   58.7   1.1   4.9e-19   57.4   1.1   1.8   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0480|WP_012025841.1 -            2.6e-30   95.1   0.0   5.5e-30   94.1   0.0   1.5   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0480|WP_012025841.1 -            1.7e-21   66.5   0.1   3.6e-21   65.4   0.1   1.6   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0480|WP_012025841.1 -            2.3e-09   25.7   1.4   2.8e-08   22.1   0.3   2.2   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like            PF12741.10 PUL0480|WP_012025841.1 -            1.2e-05   13.5   0.7   3.1e-05   12.1   0.2   1.7   2   0   0   2   2   2   1 Susd and RagB outer membrane lipoprotein
+TonB_dep_Rec         PF00593.27 PUL0533|ALJ58216.1   -            9.7e-29   90.5  58.9   9.7e-29   90.5  58.9   2.1   1   1   1   2   2   2   1 TonB dependent receptor
+CarbopepD_reg_2      PF13715.9  PUL0533|ALJ58216.1   -            1.4e-21   65.5   4.2   3.6e-21   64.2   4.2   1.7   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0533|ALJ58216.1   -            1.2e-16   50.4   2.5   3.2e-16   49.0   2.5   1.8   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0533|ALJ58217.1   -            3.4e-50  160.4   5.2   3.4e-50  160.4   5.2   2.1   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0533|ALJ58217.1   -            9.9e-23   70.5   0.3   2.5e-22   69.2   0.4   1.7   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+Plug                 PF07715.18 PUL0533|ALJ58218.1   -            1.4e-10   30.9   0.4     4e-10   29.4   0.4   1.8   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0533|ALJ58219.1   -            7.3e-48  152.8  10.2   7.3e-48  152.8  10.2   1.8   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0533|ALJ58219.1   -            2.5e-23   72.4   0.2   2.5e-23   72.4   0.2   2.2   2   1   1   3   3   3   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0553|CBK67948.1   -            6.7e-21   63.3   2.5   1.7e-20   62.1   2.5   1.7   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0553|CBK67948.1   -            5.7e-17   51.5   3.4   1.8e-16   49.9   3.4   1.9   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0553|CBK67949.1   -            4.7e-46  146.8   0.2   8.3e-46  146.0   0.2   1.4   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0553|CBK67949.1   -            7.5e-23   70.9   0.0   4.1e-22   68.5   0.0   2.2   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+Plug                 PF07715.18 PUL0553|CBK67950.1   -              6e-10   28.9   3.0   1.9e-09   27.2   0.2   2.8   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0553|CBK67951.1   -            1.6e-47  151.7   4.7   1.6e-47  151.7   4.7   1.8   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0553|CBK67951.1   -            1.2e-14   44.1   0.7   2.8e-14   42.9   0.7   1.6   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0610|ACY47962.1   -            8.9e-29   90.6  30.8   8.9e-29   90.6  30.8   3.0   1   1   1   2   2   2   1 TonB dependent receptor
+CarbopepD_reg_2      PF13715.9  PUL0610|ACY47962.1   -            8.7e-25   75.8   0.1   1.7e-24   74.9   0.1   1.5   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0610|ACY47962.1   -            2.5e-16   49.4   1.7   5.7e-16   48.2   1.7   1.7   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+TonB_dep_Rec         PF00593.27 PUL0610|ACY47969.1   -            8.6e-41  130.2  52.0   8.6e-41  130.2  52.0   2.2   1   1   1   2   2   2   1 TonB dependent receptor
+CarbopepD_reg_2      PF13715.9  PUL0610|ACY47969.1   -            6.8e-26   79.4   0.1   1.4e-25   78.4   0.1   1.6   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0610|ACY47969.1   -            2.7e-25   78.2   3.1   2.7e-25   78.2   3.1   2.8   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0610|ACY47970.1   -            3.6e-36  114.4   0.0   5.4e-36  113.8   0.0   1.3   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0610|ACY47970.1   -            5.1e-22   68.1   0.1   1.1e-21   67.0   0.0   1.6   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0610|ACY47970.1   -            1.2e-07   19.9   0.1   2.8e-07   18.8   0.1   1.5   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0617|NPD82018.1   -            2.9e-47  150.8   8.2   4.9e-47  150.0   8.2   1.3   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0617|NPD82018.1   -              7e-16   48.1   0.4   2.1e-15   46.6   0.4   1.7   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+Plug                 PF07715.18 PUL0617|NPD82019.1   -            4.3e-10   29.3   0.1   1.7e-09   27.4   0.1   2.1   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0617|NPD82020.1   -            1.7e-48  154.8   0.9   1.7e-48  154.8   0.9   1.5   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0617|NPD82020.1   -            1.3e-21   66.9   0.0   3.9e-21   65.3   0.0   2.0   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0617|NPD82021.1   -            1.9e-21   65.1   1.5   5.3e-21   63.7   1.5   1.8   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0617|NPD82021.1   -            5.8e-18   54.6   3.7   1.6e-17   53.2   3.7   1.8   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+TonB_dep_Rec         PF00593.27 PUL0619|NPE14436.1   -            2.2e-32  102.5  62.4   2.2e-32  102.5  62.4   2.6   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0619|NPE14436.1   -            2.6e-27   84.7   3.2   1.5e-26   82.3   3.2   2.4   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0619|NPE14436.1   -            2.7e-22   67.8   4.9   2.7e-22   67.8   4.9   2.9   3   0   0   3   3   3   1 CarboxypepD_reg-like domain
+SusD-like_3          PF14322.9  PUL0619|NPE14437.1   -            2.5e-18   56.1   0.0   4.5e-18   55.3   0.0   1.4   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0619|NPE14437.1   -            1.6e-09   26.9   0.0   2.7e-09   26.1   0.0   1.4   1   0   0   1   1   1   1 SusD family
+TonB_dep_Rec         PF00593.27 PUL0620|NPE14640.1   -            2.1e-25   79.5  56.8   2.1e-25   79.5  56.8   2.9   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0620|NPE14640.1   -            6.8e-21   64.1   1.0   6.8e-21   64.1   1.0   2.4   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0620|NPE14640.1   -            7.4e-11   31.2   0.1   3.1e-10   29.2   0.1   2.2   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0620|NPE14641.1   -            6.4e-24   74.2   0.5   1.1e-23   73.4   0.5   1.4   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0620|NPE14641.1   -            2.5e-11   33.3   0.5   2.5e-11   33.3   0.5   1.8   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0620|NPE14644.1   -            2.2e-24   76.1  48.8   2.2e-24   76.1  48.8   3.0   1   1   1   3   3   3   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0620|NPE14644.1   -            4.4e-14   42.2   3.7   1.1e-13   40.8   3.7   1.7   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0620|NPE14644.1   -            2.1e-09   26.5   0.2   8.7e-09   24.5   0.1   2.1   2   0   0   2   2   2   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0622|NPE14935.1   -            1.7e-09   26.8   2.1   5.9e-08   21.7   0.3   2.4   2   1   0   2   2   2   2 SusD family
+Plug                 PF07715.18 PUL0622|NPE14936.1   -              4e-14   42.3   1.6     4e-14   42.3   1.6   2.5   3   1   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0622|NPE14936.1   -            5.2e-10   28.5   0.1   2.2e-09   26.4   0.1   2.1   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0622|NPE14939.1   -            1.3e-27   86.3   0.3   2.5e-27   85.4   0.3   1.5   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0622|NPE14939.1   -            5.6e-15   45.2   0.1   2.3e-14   43.2   0.0   2.1   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0622|NPE14940.1   -            7.7e-28   87.5  53.0   7.7e-28   87.5  53.0   3.2   1   1   2   3   3   3   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0622|NPE14940.1   -            3.1e-16   49.1   1.7   8.6e-16   47.7   1.7   1.9   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+TonB_dep_Rec         PF00593.27 PUL0624|NPD91062.1   -            1.5e-20   63.5  66.0   8.4e-18   54.4  65.7   2.7   1   1   0   1   1   1   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0624|NPD91062.1   -              1e-19   60.3   1.9   2.9e-19   58.8   1.9   1.9   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0624|NPD91062.1   -            4.5e-12   35.0   0.3   1.1e-11   33.8   0.3   1.7   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0624|NPD91063.1   -            6.9e-23   70.8   2.8   3.5e-22   68.4   2.6   2.1   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0624|NPD91063.1   -            3.4e-20   62.2   3.4   1.1e-18   57.3   0.1   2.6   1   1   1   2   2   2   2 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0624|NPD91066.1   -            9.4e-25   77.4  41.8   9.4e-25   77.4  41.8   3.0   2   1   1   3   3   3   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0624|NPD91066.1   -            1.9e-14   43.3   2.6   6.7e-14   41.6   2.6   2.0   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0624|NPD91066.1   -            1.4e-06   17.5   0.4   8.1e-06   15.0   0.1   2.5   2   0   0   2   2   2   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0624|NPD91067.1   -            8.7e-13   37.6   0.0   2.7e-12   36.0   0.0   1.7   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0624|NPD91067.1   -            1.7e-09   27.3   0.3   1.7e-09   27.3   0.3   2.1   3   0   0   3   3   3   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0625|NPD92978.1   -            1.3e-09   27.2   0.4   6.6e-09   24.9   0.3   1.9   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0625|NPD92978.1   -            6.2e-09   25.5   0.0   1.2e-08   24.6   0.0   1.4   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0625|NPD92979.1   -            8.3e-24   74.2  44.8   8.3e-24   74.2  44.8   2.4   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0625|NPD92979.1   -            1.1e-12   37.7   2.2   1.1e-12   37.7   2.2   2.7   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0625|NPD92979.1   -            4.5e-09   25.4   2.3   7.5e-09   24.7   0.2   2.6   2   1   0   2   2   2   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0625|NPD92982.1   -            1.1e-28   89.8   4.8   1.1e-28   89.8   4.8   2.6   2   1   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0625|NPD92982.1   -            8.5e-17   51.1   0.5     3e-16   49.4   0.2   2.1   1   1   1   2   2   2   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0625|NPD92983.1   -            2.1e-28   89.4  45.1   2.1e-28   89.4  45.1   3.0   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0625|NPD92983.1   -            2.4e-20   62.3   1.5   8.7e-20   60.5   1.2   2.2   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0625|NPD92983.1   -            1.4e-14   43.1   0.2   4.2e-14   41.6   0.2   1.9   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+TonB_dep_Rec         PF00593.27 PUL0630|CCO21033.1   -            2.3e-34  109.1  55.5   2.3e-34  109.1  55.5   2.4   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0630|CCO21033.1   -            1.9e-22   69.1   8.2   5.6e-22   67.6   8.2   1.9   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0630|CCO21033.1   -            5.7e-15   44.4   1.0   1.4e-14   43.1   1.0   1.7   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0630|CCO21034.1   -              6e-22   67.7   0.2   1.6e-21   66.3   0.1   1.7   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0630|CCO21034.1   -            1.8e-21   66.4   0.7     3e-21   65.7   0.7   1.4   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0648|WP_006843626.1 -            2.5e-46  147.7   9.7   3.9e-46  147.1   6.4   2.1   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0648|WP_006843626.1 -            3.5e-20   62.2   0.8   3.5e-20   62.2   0.8   1.9   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+Plug                 PF07715.18 PUL0648|WP_006843627.1 -            2.6e-10   30.0   0.6   1.8e-09   27.3   0.3   2.5   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0648|WP_006843628.1 -            4.8e-47  150.1   0.1   8.5e-47  149.3   0.1   1.4   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0648|WP_006843628.1 -            2.8e-22   69.0   0.0   7.5e-22   67.6   0.0   1.8   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0648|WP_006843629.1 -            7.8e-22   66.3   5.8   7.8e-22   66.3   5.8   1.9   2   0   0   2   2   2   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0648|WP_006843629.1 -            4.9e-18   54.9   2.0   4.9e-18   54.9   2.0   2.6   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+TonB_dep_Rec         PF00593.27 PUL0648|WP_006843661.1 -            2.9e-32  102.1  48.3   2.9e-32  102.1  48.3   2.1   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0648|WP_006843661.1 -            1.7e-23   72.4   1.4   1.7e-23   72.4   1.4   2.5   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0648|WP_006843661.1 -            2.4e-22   68.0   5.4   2.4e-22   68.0   5.4   2.6   3   0   0   3   3   3   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0648|WP_006843662.1 -            5.2e-25   77.7   0.5   1.2e-24   76.5   0.5   1.7   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0648|WP_006843662.1 -            6.2e-23   71.1   0.0   1.2e-22   70.2   0.0   1.5   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD_RagB            PF07980.14 PUL0669|WP_004289595.1 -              4e-49  156.9   8.6   6.6e-49  156.2   8.6   1.4   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0669|WP_004289595.1 -            8.3e-19   57.7   0.3   1.8e-18   56.6   0.3   1.5   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+Plug                 PF07715.18 PUL0669|WP_029429356.1 -            1.1e-10   31.2   0.3   4.3e-10   29.3   0.3   2.0   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0669|WP_004294248.1 -            1.5e-46  148.5   0.0   3.4e-46  147.3   0.0   1.7   1   0   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0669|WP_004294248.1 -            4.9e-24   74.7   0.0   4.9e-24   74.7   0.0   1.7   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0669|WP_004289592.1 -            1.2e-21   65.7   2.0   3.5e-21   64.2   2.0   1.9   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0669|WP_004289592.1 -              2e-17   52.9   2.4     2e-17   52.9   2.4   2.7   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0704|WP_031425579.1 -            6.5e-45  143.1   7.8   2.2e-42  134.8   7.8   2.8   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0704|WP_031425579.1 -            1.1e-33  106.3   1.3   3.3e-33  104.6   0.0   2.1   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0704|WP_031425579.1 -            2.5e-10   28.9   3.4   1.9e-08   22.6   3.4   2.6   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0704|WP_031425580.1 -            1.4e-40  129.6  43.7   1.4e-40  129.6  43.7   2.8   2   1   1   3   3   3   1 TonB dependent receptor
+CarbopepD_reg_2      PF13715.9  PUL0704|WP_031425580.1 -            2.2e-24   74.5   0.6   5.5e-24   73.2   0.6   1.8   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0704|WP_031425580.1 -            3.8e-21   64.9   7.0   3.8e-21   64.9   7.0   2.9   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0704|WP_031425588.1 -            3.6e-31   98.0   3.2   7.3e-31   96.9   3.0   1.5   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0704|WP_031425588.1 -            1.3e-21   66.9   0.2   1.3e-21   66.9   0.2   2.3   2   1   1   3   3   3   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0704|WP_031425589.1 -              2e-37  119.1  70.6     2e-36  115.9  70.4   2.2   1   1   0   1   1   1   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0704|WP_031425589.1 -            1.3e-24   76.0   7.6   1.3e-24   76.0   7.6   3.3   3   1   1   4   4   4   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0704|WP_031425589.1 -            2.1e-23   71.3   2.3   8.6e-23   69.4   2.3   2.1   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0704|WP_031425591.1 -            5.1e-27   84.3   0.9   5.1e-27   84.3   0.9   2.3   1   1   1   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0704|WP_031425591.1 -              6e-24   74.4   0.0   1.2e-23   73.5   0.0   1.5   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0704|WP_051907744.1 -              2e-27   86.1  69.8     2e-27   86.1  69.8   3.5   2   1   1   3   3   3   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0704|WP_051907744.1 -            7.1e-25   76.9   2.7   7.1e-25   76.9   2.7   3.0   2   0   0   2   2   2   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0704|WP_051907744.1 -            6.8e-22   66.5   3.0   1.8e-21   65.2   3.0   1.8   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0704|WP_031425595.1 -              1e-36  116.2   4.3   7.9e-35  110.0   4.3   2.5   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0704|WP_031425595.1 -            2.6e-19   59.3   0.3   5.4e-19   58.3   0.0   1.7   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0704|WP_031425595.1 -            4.1e-08   22.4   0.0   8.5e-08   21.4   0.0   1.4   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0705|WP_031425956.1 -            2.8e-42  134.5   2.6   2.8e-42  134.5   2.6   1.9   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0705|WP_031425956.1 -            3.8e-17   52.3   2.7   8.7e-17   51.1   0.1   2.3   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0705|WP_031425956.1 -            2.6e-07   18.9   1.2   2.4e-06   15.7   0.0   2.6   3   0   0   3   3   3   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0705|WP_031425957.1 -            1.2e-09   27.3   0.2   3.3e-09   25.9   0.2   1.7   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+SusD_RagB            PF07980.14 PUL0705|WP_031425958.1 -            2.1e-45  144.7   0.3   2.1e-45  144.7   0.3   1.7   2   0   0   2   2   2   1 SusD family
+SusD-like_3          PF14322.9  PUL0705|WP_031425958.1 -              1e-23   73.7   0.0   2.1e-23   72.7   0.0   1.6   1   1   0   1   1   1   1 Starch-binding associating with outer membrane
+CarbopepD_reg_2      PF13715.9  PUL0705|WP_035916831.1 -            1.8e-20   61.9   1.0   4.5e-20   60.7   1.0   1.7   1   0   0   1   1   1   1 CarboxypepD_reg-like domain
+Plug                 PF07715.18 PUL0705|WP_035916831.1 -            2.4e-18   55.9   3.2     1e-17   53.9   3.2   2.2   1   0   0   1   1   1   1 TonB-dependent Receptor Plug Domain
+SusD_RagB            PF07980.14 PUL0722|WP_203394783.1 -            7.5e-43  136.3   2.2   8.4e-41  129.6   2.2   2.3   1   1   0   1   1   1   1 SusD family
+SusD-like_3          PF14322.9  PUL0722|WP_203394783.1 -            1.1e-27   86.7   0.0   1.9e-27   85.9   0.0   1.4   1   0   0   1   1   1   1 Starch-binding associating with outer membrane
+SusD-like_2          PF12771.10 PUL0722|WP_203394783.1 -            1.3e-06   16.6   0.0   4.1e-06   14.9   0.0   1.7   2   0   0   2   2   2   1 Starch-binding associating with outer membrane
+TonB_dep_Rec         PF00593.27 PUL0722|WP_252191101.1 -              1e-35  113.5  41.9     1e-35  113.5  41.9   2.0   1   1   1   2   2   2   1 TonB dependent receptor
+Plug                 PF07715.18 PUL0722|WP_252191101.1 -            1.1e-22   69.9   6.5   1.1e-22   69.9   6.5   2.5   3   0   0   3   3   3   1 TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2      PF13715.9  PUL0722|WP_252191101.1 -            2.4e-19   58.4   2.2   6.8e-19   56.9   1.4   2.3   2   0   0   2   2   2   1 CarboxypepD_reg-like domain
+#
+# Program:         hmmscan
+# Version:         3.4 (Aug 2023)
+# Pipeline mode:   SCAN
+# Query file:      ../xylan_pul_proteins_updated.faa
+# Target file:     combined_susCD.hmm
+# Option settings: hmmscan --tblout xylan_susCD.tbl combined_susCD.hmm ../xylan_pul_proteins_updated.faa 
+# Current dir:     /env/export/cns_n02_scratch/scratch_agc/scratch/agc/proj/PANORAMA/PANORAMA_PUL/in_progress/xylan/sus_cd
+# Date:            Fri Jul 11 09:12:56 2025
+# [ok]

@@ -1,0 +1,797 @@
+PUL_ID,PubMed,Characterization_Method,Genomic_Accession,Nucleotide_Position_Range,Substrate,Loci,Species,Degradation_or_Biosynthesis
+PUL0001,30796211,RNA-seq;substrate binding assay;enzyme activity assay;mass spectrometry,NZ_GG692714.1,-,beta-mannan,ROSINTL182_05469-ROSINTL182_05483,Roseburia intestinalis/166486,degradation
+PUL0002,8606172,enzyme activity assay;Northern Blot,D83026.1,-,beta-glucan,licTS,Bacillus subtilis/1423,degradation
+PUL0003,26559526,RT-PCR,NC_000964,-,xylan,xynCD,Bacillus subtilis/1423,degradation
+PUL0004,26827771,enzyme activity assay;substrate binding assay,KM624528.1,-,beta-glucan,glu1392;glu1923,uncultured bacterium/77133,degradation
+PUL0005,26886583,enzyme activity assay;crystallization,NC_003212,-,beta-glucan,LIN_RS09480-LIN_RS09485,Listeria innocua/1642,degradation
+PUL0006,24637762,enzyme activity assay,KF840174.1,-,galactan,gan1D-ganR2-gan4c-AHL67643.1-ganP-galS-galT2-galE2-galF2-galG2-frk,Geobacillus stearothermophilus/1422,degradation
+PUL0007,27274361,sequence homology analysis,LN890332.1,-,galactan,LEKG_1953-LEKG_1960,Leuconostoc gelidum/1244,degradation
+PUL0008,25841008,enzyme activity assay;qPCR;thin-layer chromatography;substrate binding assay,NC_004663.1,-,fructan,BT_RS08890-BT_RS08945,Bacteroides thetaiotaomicron/818,degradation
+PUL0009,28432302,enzyme activity assay;immunoblotting;ATPase assay,NC_013515.1,-,glycosaminoglycan,SMON_RS00575-SMON_RS00640,Streptobacillus moniliformis/34105,degradation
+PUL0010,28616644,enzyme activity assay;liquid chromatography and mass spectrometry,NC_009328.1,-,xylan,GTNG_RS09195-GTNG_RS09405,Geobacillus thermodenitrificans/33940,degradation
+PUL0011,-,-,-,-,-,-,-,-
+PUL0012,28683122,enzyme activity assay,NC_002505.1,-,chitin,VC_RS03095-VC_RS03145,Vibrio cholerae/666,degradation
+PUL0013,-,-,-,-,-,-,-,-
+PUL0014,28900693,sequence homology analysis;growth assay,NZ_CP020030.1,-,pectin,GTHT12_RS10165-GTHT12_RS10205,Geobacillus thermodenitrificans/33940,degradation
+PUL0015,28970222,microarray,NC_009004.1,-,cellobiose,LLMG_RS06265-LLMG_RS06290,Lactococcus lactis/1358,degradation
+PUL0016,28970222,microarray,NC_009004.1,-,cellobiose,LLMG_RS02225-LLMG_RS02245,Lactococcus lactis/1358,degradation
+PUL0017,29093754,qRT-PCR;Western Blot;isothermal titration calorimetry (ITC),NC_011898.1,-,cellobiose,CCEL_RS10665-CCEL_RS10705,Ruminiclostridium cellulolyticum/1521,degradation
+PUL0018,22311922,rapid plate method growth assay;gene deletion mutant and growth assay;RT-PCR;enzyme activity assay,NC_003098.1,-,glycosaminoglycan,SPR_RS01490_SPR_RS01555,Streptococcus pneumoniae/1313,degradation
+PUL0019,8990303,enzyme activity assay;Northern Blot,Z49992,-,beta-glucan,licRBCAH,Bacillus subtilis/1423,degradation
+PUL0020,30006634,rapid plate method growth assay;adhesion assay,NC_013199.1,-,glycosaminoglycan,LC705_RS12690-LC705_RS12765,Lactobacillus rhamnosus/47715,degradation
+PUL0021,30006634,rapid plate method growth assay;adhesion assay,NC_008526.1,-,glycosaminoglycan,LSEI_2661-LSEI_2676,Lactobacillus casei/1582,degradation
+PUL0022,30519284,RT-PCR;gene deletion mutant and growth assay;enzyme activity assay,NC_016023.1,-,cellobiose,BCOA_RS20690-BCOA_RS20715,Bacillus coagulans/1398,degradation
+PUL0023,30519284,RT-PCR;gene deletion mutant and growth assay;enzyme activity assay,NC_016023.1,-,cellobiose,celRBAXC,Bacillus coagulans/1398,degradation
+PUL0024,31915220,enzyme activity assay;qPCR;carbohydrate binding assay,HE717008.1,-,fructan,CCG34774.1-CCG34784.1,uncultured bacterium/77133,degradation
+PUL0025,-,-,-,-,-,-,-,-
+PUL0026,31901520,qPCR;Western Blot;RNA-seq;enzyme activity assay,AE015928.1,-,ribose,BT2802-BT2809,Bacteroides thetaiotaomicron/818,degradation
+PUL0027,10352233,Northern Blot;gene deletion mutant and growth assay,AF027499.1,-,alginate,algGXLIV,Azotobacter vinelandii/354,biosynthesis
+PUL0028,24204617,microarray;qPCR;enzyme activity assay,NZ_AAYG02000020.1,-,mucin,RUMGNA_RS11830-RUMGNA_RS11895,[Ruminococcus] gnavus/33038,degradation
+PUL0029,30635377,enzyme activity assay,NC_015067.1,-,arabinogalactan,BLLJ_RS09480-BLLJ_RS09595,Bifidobacterium longum/216816,degradation
+PUL0030,29360976,isothermal calorimetric titration;gene deletion mutant and growth assay;enzyme activity assay,KU644713.1,-,galactomannan,manDREHKCIJBGFA,Bacillus sp. N16-5/122631,degradation
+PUL0031,16523284,RNA-seq,NC_004307.2,-,starch,BLO107-cscB-cscA,Bifidobacterium longum/216816,degradation
+PUL0032,16523284,RNA-seq,NC_004307.2,-,starch,scrP-BLO537-scrR,Bifidobacterium longum/216816,degradation
+PUL0033,12949193,RT-PCR;yeast two hybrid assay;Southern Blot,AY230005,-,trehalose,AAP55640.1-AAP55641.1-AAP55642.1-treR-treP-treA,Spiroplasma citri/2133,degradation
+PUL0034,12730169,enzyme activity assay,CP001655.1,-,pectin,Dd1591_1964-Dd1591_1965,Dickeya chrysanthemi/556,degradation
+PUL0035,11555291,enzyme activity assay;Assay of oligogalacturonide uptake in E. coli,CP001655.1,-,pectin,Dd1591_1966-Dd1591_1970,Dickeya chrysanthemi/556,degradation
+PUL0036,-,-,-,-,-,-,-,-
+PUL0037,31591266,enzyme activity assay,AE005672.3,-,raffinose,rafSR-aga-rafEFG-gtfA-rafX,Streptococcus pneumoniae/1313,degradation
+PUL0038,10741834,enzyme activity assay;Southern Blot,AF135398.1,-,melibiose,bdtEFG-bgaT-agaT-galT-glpK-glpD,Thermus brockianus/56956,degradation
+PUL0039,10741834,enzyme activity assay;Southern Blot,AF135399.1,-,melibiose,aidB-agaT-galT,Thermus thermophilus/274,degradation
+PUL0040,1398087,Northern Blot;enzyme activity assay,AF316823,-,cellulose,cipC-cel48F-cel8C-cel9G-cel9E-orfX-cel9H-cel9J-man5K-cel9M,Ruminiclostridium cellulolyticum/1521,degradation
+PUL0041,9023916,Southern Blot;enzyme activity assay,U61727,-,cellobiose,casRAB,Klebsiella oxytoca/571,degradation
+PUL0042,30054816,RT-PCR,CP001340.1,-,starch,SucABCD,Caulobacter vibrioides/155892,degradation
+PUL0043,-,-,-,-,-,-,-,-
+PUL0044,32266006,qRT-PCR;enzyme activity assay,AAXF02000051.1,-,arabinoxylan,bacova_03417-bacova_03450,Bacteroides ovatus/28116,degradation
+PUL0045,26112186,qRT-PCR,DS264583.1,-,arabinoxylan,bacova_04385-bacova_04394,Bacteroides ovatus/28116,degradation
+PUL0046,-,-,-,-,-,-,-,-
+PUL0047,-,-,-,-,-,-,-,-
+PUL0048,29632089,RNA-seq,NC_004350.2,-,trehalose,SMU_2037-SMU_2040,Streptococcus mutans/1309,degradation
+PUL0049,29601586,fosmid library screen,LT796702,-,beta-glucan,SJX74171.1-SJX74199.1,feces metagenome/1861841,degradation
+PUL0050,29601586,fosmid library screen,LT796703,-,cellulose,SJX74200.1-SJX74219.1,feces metagenome/1861841,degradation
+PUL0051,29795267,sequence homology analysis;NMR;size-exclusion chromatography (SEC);clone and expression;recombinant protein expression;enzyme kinetic analysis,CP002534.1,-,alginate,Celly_0292-Celly_0297,Cellulophaga lytica/979,degradation
+PUL0052,29795267,sequence homology analysis;NMR;size-exclusion chromatography (SEC);clone and expression;recombinant protein expression;enzyme kinetic analysis,CP000449.1,-,alginate,Mmar10_0253-Mmar10_0261,Maricaulis maris/74318,degradation
+PUL0053,29795267,sequence homology analysis;NMR;size-exclusion chromatography (SEC);clone and expression;recombinant protein expression;enzyme kinetic analysis,AM743169.1,-,alginate,Smlt2598-Smlt2605,Stenotrophomonas maltophilia/40324,degradation
+PUL0054,29795267,sequence homology analysis;NMR;size-exclusion chromatography (SEC);clone and expression;recombinant protein expression;enzyme kinetic analysis,CP003873.1,-,alginate,AMBAS45_04385-AMBAS45_04425,Alteromonas macleodii/28108,degradation
+PUL0055,29795267,sequence homology analysis;NMR;size-exclusion chromatography (SEC);clone and expression;recombinant protein expression;enzyme kinetic analysis,GL945092.1,-,alginate,HMPREF0127_01346-HMPREF0127_01352,Bacteroides sp. 1_1_30/457387,degradation
+PUL0056,29795267,sequence homology analysis;NMR;size-exclusion chromatography (SEC);clone and expression;recombinant protein expression;enzyme kinetic analysis,NZ_DS995511.1,-,alginate,BACEGG_RS14715-BACEGG_RS14735,Bacteroides eggerthii/28111,degradation
+PUL0057,-,-,-,-,-,-,-,-
+PUL0058,8145641,enzyme activity assay,Z25795.1,-,glycogen,glgBCDAP,Bacillus subtilis/1423,biosynthesis
+PUL0059,-,-,-,-,-,-,-,-
+PUL0060,-,-,-,-,-,-,-,-
+PUL0061,-,-,-,-,-,-,-,-
+PUL0062,-,-,-,-,-,-,-,-
+PUL0063,31420336,bicinchoninic acid (BCA) reducing-sugar assay;enzyme product analysis;affinity gel electrophoresis;isothermal titration calorimetry (ITC),DS264579.1,-,xyloglucan,BACOVA_02644-BACOVA_02659,Bacteroides ovatus/28116,degradation
+PUL0064,31420336,bicinchoninic acid (BCA) reducing-sugar assay;enzyme product analysis;affinity gel electrophoresis;isothermal titration calorimetry (ITC),EQ973490.1,-,xyloglucan,BACCELL_02625-BACCELL_02636,Bacteroides cellulosilyticus/246787,degradation
+PUL0065,31420336,bicinchoninic acid (BCA) reducing-sugar assay;enzyme product analysis;affinity gel electrophoresis;isothermal titration calorimetry (ITC),DS362223.1,-,xyloglucan,BACUNI_00315-BACUNI_00326,Bacteroides uniformis/820,degradation
+PUL0066,31420336,bicinchoninic acid (BCA) reducing-sugar assay;enzyme product analysis;affinity gel electrophoresis;isothermal titration calorimetry (ITC),GL882630.1,-,xyloglucan,HMPREF9446_01788-HMPREF9446_01800,Bacteroides fluxus/626930,degradation
+PUL0067,31420336,bicinchoninic acid (BCA) reducing-sugar assay;enzyme product analysis;affinity gel electrophoresis;isothermal titration calorimetry (ITC),GL891979.1,-,xyloglucan,HMPREF9455_00294-HMPREF9455_00304,Dysgonomonas gadei/156974,degradation
+PUL0068,8277949,enzyme activity assay;electrophoretic mobility shift assay,AM886293.1,-,raffinose,rafRABD,Escherichia coli/562,degradation
+PUL0069,-,-,-,-,-,-,-,-
+PUL0070,-,-,-,-,-,-,-,-
+PUL0071,-,-,-,-,-,-,-,-
+PUL0072,-,-,-,-,-,-,-,-
+PUL0073,-,-,-,-,-,-,-,-
+PUL0074,-,-,-,-,-,-,-,-
+PUL0075,-,-,-,-,-,-,-,-
+PUL0076,-,-,-,-,-,-,-,-
+PUL0077,-,-,-,-,-,-,-,-
+PUL0078,8920183,enzyme activity assay,L18965.1,-,xylan,ORF1-ORF2-xylR-xynA-ORF5-ORF6,Caldicellulosiruptor sp. Rt8B.4/28238,degradation
+PUL0079,-,-,-,-,-,-,-,-
+PUL0080,-,-,-,-,-,-,-,-
+PUL0081,31133029,qRT-PCR;microarray,BA000032.2,-,pectin,VPA0076-VPA0088,Vibrio parahaemolyticus/670,degradation
+PUL0082,31138628,electrophoretic mobility shift assay;enzyme activity assay,SIWZ01000001.1,-,melibiose,ytaP-msmR-memE-amyD-amyC-melA,Bacillus subtilis/1423,degradation
+PUL0083,31338125,label-free quantitative proteomics;functional enrichment analysis;enzyme activity assay,ACXX02000019.1,-,cellulose,cpap_0250-0261,Ruminiclostridium papyrosolvens/29362,degradation
+PUL0084,31338125,label-free quantitative proteomics;functional enrichment analysis;enzyme activity assay,ACXX02000002.1,-,cellulose,cpap_3302-cpap_3314,Ruminiclostridium papyrosolvens/29362,degradation
+PUL0085,31338125,label-free quantitative proteomics;functional enrichment analysis;enzyme activity assay,ACXX02000019.1,-,beta-glucan,cpap_0272-0274,Ruminiclostridium papyrosolvens/29362,degradation
+PUL0086,31338125,label-free quantitative proteomics;functional enrichment analysis;enzyme activity assay,ACXX02000002.1,-,pectin,cpap_3318-3320,Ruminiclostridium papyrosolvens/29362,degradation
+PUL0087,31338125,label-free quantitative proteomics;functional enrichment analysis;enzyme activity assay,ACXX02000007.1,-,cellulose,cpap_1693-1694,Ruminiclostridium papyrosolvens/29362,degradation
+PUL0088,8764489,Southern Blot,M77351.1,-,raffinose,msmR-aga-msmEFG-gtfA-memK-dexB,Streptococcus mutans/1309,degradation
+PUL0089,31338125,label-free quantitative proteomics;functional enrichment analysis;enzyme activity assay,ACXX02000001.1,-,cellulose,cpap_3849-3850,Ruminiclostridium papyrosolvens/29362,degradation
+PUL0090,-,-,-,-,-,-,-,-
+PUL0091,31275257,sequence homology analysis,CP000139.1,-,host glycan,BVU_4133-BVU_4140,Phocaeicola vulgatus/821,degradation
+PUL0092,31275257,sequence homology analysis,CP000139.1,-,host glycan,BVU_4138-BVU_4147,Phocaeicola vulgatus/821,degradation
+PUL0093,31275257,fosmid library screen;lectin binding assay,LR131278.1,-,host glycan,VDS02490.1-VDS02513.1,uncultured bacterium/77133,degradation
+PUL0094,31275257,fosmid library screen;lectin binding assay,LR131279.1,-,host glycan,VDS02515.1-VDS02538.1,uncultured bacterium/77133,degradation
+PUL0095,31275257,fosmid library screen;lectin binding assay,LR131281.1,-,host glycan,VDS02568.1-VDS02583.1,uncultured bacterium/77133,degradation
+PUL0096,31275257,fosmid library screen;lectin binding assay,LR131286.1,-,host glycan,VDS02706.1-VDS02727.1,uncultured bacterium/77133,degradation
+PUL0097,31275257,sequence homology analysis,NZ_KB905472.1,-,host glycan,None,Bacteroides massiliensis/204516,degradation
+PUL0098,31275257,sequence homology analysis,NZ_DS990126.1,-,host glycan,None,Bacteroides plebeius/310297,degradation
+PUL0099,30796211,RNA-seq;substrate binding assay;enzyme activity assay;mass spectrometry,NZ_GG692727.1,-,beta-mannan,ROSINTL182_RS11930-ROSINTL182_RS11940,Roseburia intestinalis/166486,degradation
+PUL0100,9405618,transposon mutagenesis;growth assay,NZ_CP027060.1,-,chitin,chbBCARFG,Escherichia coli/562,degradation
+PUL0101,31275257,sequence homology analysis,NZ_DS990126.1,-,host glycan,BACPLE_RS06865-BACPLE_RS06955,Bacteroides plebeius/310297,degradation
+PUL0102,31275257,fosmid library screen;lectin binding assay,LR131274.1,-,host glycan,VDS02385.1-VDS02409.1,uncultured bacterium/77133,degradation
+PUL0103,31275257,fosmid library screen;lectin binding assay,LR131282.1,-,host glycan,VDS02584.1-VDS02614.1,uncultured bacterium/77133,degradation
+PUL0104,31275257,fosmid library screen;lectin binding assay,LR131283.1,-,host glycan,VDS02615.1-VDS02647.1,uncultured bacterium/77133,degradation
+PUL0105,31275257,fosmid library screen;lectin binding assay,LR131284.1,-,host glycan,VDS02648.1-VDS02683.1,uncultured bacterium/77133,degradation
+PUL0106,31275257,fosmid library screen;lectin binding assay,LR131285.1,-,host glycan,VDS02684.1-VDS02705.1,uncultured bacterium/77133,degradation
+PUL0107,31275257,fosmid library screen;lectin binding assay,LR131275.1,-,host glycan,VDS02410.1-VDS02435.1,uncultured bacterium/77133,degradation
+PUL0108,31275257,sequence homology analysis,NZ_NFHS01000001.1,-,host glycan,B5G17_RS02980-B5G17_RS03130,Bacteroides uniformis/820,degradation
+PUL0109,31275257,fosmid library screen;lectin binding assay,LR131277.1,-,host glycan,VDS02463.1-VDS02489.1,uncultured bacterium/77133,degradation
+PUL0110,31275257,fosmid library screen;lectin binding assay,LR131280.1,-,host glycan,VDS02539.1-VDS02566.1,uncultured bacterium/77133,degradation
+PUL0111,9642246,enzyme activity assay;Northern Blot;transport assay,U00096.3,-,melibiose,melRAB,Escherichia coli/562,degradation
+PUL0112,31275257,fosmid library screen;lectin binding assay,LR131276.1,-,host glycan,VDS02437.1-VDS02461.1,uncultured bacterium/77133,degradation
+PUL0113,31275257,sequence homology analysis,NZ_GG697150.2,-,host glycan,FAEPRAA2165_RS04780-FAEPRAA2165_RS04885,Faecalibacterium prausnitzii/853,degradation
+PUL0114,31198441,recombinant protein expression;enzyme activity assay,CP001348.1,-,arabinan,Ccel_1229-Ccel_1242,Ruminiclostridium cellulolyticum/1521,degradation
+PUL0115,31160824,expression of recombinant proteins;RNA-seq;differential gene expression,AE015928.1,-,host glycan,BT_0455-BT_0461,Bacteroides thetaiotaomicron/818,degradation
+PUL0116,31160824,expression of recombinant proteins;RNA-seq;differential gene expression,AE015928.1,-,host glycan,BT_0506-BT_0507,Bacteroides thetaiotaomicron/818,degradation
+PUL0117,23943617,expression of recombinant proteins;RNA-seq;differential gene expression;enzyme specificity assay;enzyme activity assay,AE015928.1,-,host glycan,BT_1032-BT_1053,Bacteroides thetaiotaomicron/818,degradation
+PUL0118,32265336,qRT-PCR;affinity gel electrophoresis;isothermal titration calorimetry (ITC),NZ_DS362241.1,-,beta-glucan,BACUNI_RS07655-BACUNI_RS07685,Bacteroides uniformis/820,degradation
+PUL0119,-,-,-,-,-,-,-,-
+PUL0120,31160824,expression of recombinant proteins;RNA-seq;differential gene expression,AE015928.1,-,host glycan,BT_4402-BT_4407,Bacteroides thetaiotaomicron/818,degradation
+PUL0121,-,-,-,-,-,-,-,-
+PUL0122,9741105,enzyme activity assay,NC_023151.1,-,alpha-galactan,THEMA_RS08275-THEMA_RS08300,Thermotoga maritima/2336,degradation
+PUL0123,-,-,-,-,-,-,-,-
+PUL0124,-,-,-,-,-,-,-,-
+PUL0125,-,-,-,-,-,-,-,-
+PUL0126,30936857,growth assay;sequence homology analysis,LR136958.1,-,alginate,ALT761_01682-ALT761_01689,Alteromonas sp. 76-1/2358187,degradation
+PUL0127,30936857,growth assay;sequence homology analysis,LR136958.1,-,alginate,ALT761_03413-ALT761_03424,Alteromonas sp. 76-1/2358187,degradation
+PUL0128,-,-,-,-,-,-,-,-
+PUL0129,30356154,enzyme activity assay,Ga0139390_150,-,beta-mannan,2703759865_27-2703759865_38,gut metagenome/749906,degradation
+PUL0130,-,-,-,-,-,-,-,-
+PUL0131,-,-,-,-,-,-,-,-
+PUL0132,28983288,enzyme activity assay;microarray,FP476056.1,-,beta-glucan,ZOBELLIA_208-ZOBELLIA_215,Zobellia galactanivorans/63186,degradation
+PUL0133,-,-,-,-,-,-,-,-
+PUL0134,-,-,-,-,-,-,-,-
+PUL0135,30341080,enzyme activity assay;carbohydrate binding assay,MH687413,-,pectin,None,Pseudoalteromonas sp./53249,degradation
+PUL0136,30341080,sequence homology analysis,ADOP01000016,-,pectin,PH505_ap00420-PH505_ap00680,Pseudoalteromonas haloplanktis/228,degradation
+PUL0137,30306201,sequence homology analysis,CP028460,-,galactan,CNCMI4602_0490-CNCMI4602_0492,Bifidobacterium animalis subsp. animalis/302912,degradation
+PUL0138,30306201,sequence homology analysis,CP028460,-,raffinose,CNCMI4602_1521-CNCMI4602_1527,Bifidobacterium animalis subsp. animalis/302912,degradation
+PUL0139,30306201,sequence homology analysis,CP028460,-,arabinan,CNCMI4602_0058-CNCMI4602_0069,Bifidobacterium animalis subsp. animalis/302912,degradation
+PUL0140,30306201,sequence homology analysis,CP028460,-,xylan,CNCMI4602_0516-CNCMI4602_0526,Bifidobacterium animalis subsp. animalis/302912,degradation
+PUL0141,30306201,sequence homology analysis,CP028460,-,starch,CNCMI4602_0135-CNCMI4602_0138,Bifidobacterium animalis subsp. animalis/302912,degradation
+PUL0142,30306201,sequence homology analysis,CP028460,-,starch,CNCMI4602_1497-CNCMI4602_1502,Bifidobacterium animalis subsp. animalis/302912,degradation
+PUL0143,-,-,-,-,-,-,-,-
+PUL0144,16199574,enzyme activity assay;Western Blot,AP006878.1,-,chitin,TK1754-TK1765,Thermococcus kodakarensis/311400,degradation
+PUL0145,-,-,-,-,-,-,-,-
+PUL0146,30524390,sequence homology analysis,CP000388.1,-,carrageenan,PATL_RS04485-PATL_RS04595,Pseudoalteromonas atlantica/288,degradation
+PUL0147,30524390,sequence homology analysis,NZ_LT965930.1,-,carrageenan,PCAR9_RS20140-PCAR9_RS20290,Pseudoalteromonas carrageenovora/227,degradation
+PUL0148,30524390,sequence homology analysis,FP476056.1,-,carrageenan,ZOBELLIA_3145-ZOBELLIA_3159,Zobellia galactanivorans/63186,degradation
+PUL0149,30524390,sequence homology analysis,FP476056.1,-,carrageenan,ZOBELLIA_2194-ZOBELLIA_2203,Zobellia galactanivorans/63186,degradation
+PUL0150,30524390,sequence homology analysis,LT965928.1,-,alginate,PCAR9_a20869-PCAR9_a20882,Pseudoalteromonas carrageenovora/227,degradation
+PUL0151,32585009,sequence homology analysis;Northern Blot;RT-qPCR;electrophoretic mobility shift assay;clone and expression;gene deletion mutant and growth assay,FP476056.1,-,alginate,ZOBELLIA_2613-ZOBELLIA_2624,Zobellia galactanivorans/63186,degradation
+PUL0152,30524390,sequence homology analysis,CP000388.1,-,alginate,PATL_RS18725-PATL_RS18760,Pseudoalteromonas atlantica/288,degradation
+PUL0153,30332787,RNA-seq,MSTC01000081.1,-,human milk oligosaccharide,BVG98_13950-BVG98_13965,Lactobacillus rhamnosus/47715,degradation
+PUL0154,30332787,RNA-seq;differential gene expression,MSTC01000063.1,-,human milk oligosaccharide,BVG98_10115-BVG98_10130,Lactobacillus rhamnosus/47715,degradation
+PUL0155,16545947,enzyme activity assay,AE007870.2,-,alginate,atu3019-atu3026,Agrobacterium fabrum/1176649,degradation
+PUL0156,30332787,RNA-seq;differential gene expression,MSTC01000055.1,-,human milk oligosaccharide,BVG98_07735-BVG98_07740,Lactobacillus rhamnosus/47715,degradation
+PUL0157,30332787,RNA-seq;differential gene expression,MSTB01000008.1,-,human milk oligosaccharide,BT102_01370-BT102_01385,Lactobacillus rhamnosus/47715,degradation
+PUL0158,30332787,RNA-seq;differential gene expression,NC_013199.1,-,human milk oligosaccharide,Lc705_RS01460-Lc705_RS01475,Lactobacillus rhamnosus/47715,degradation
+PUL0159,30332787,RNA-seq;differential gene expression,FM179324.1,-,human milk oligosaccharide,Lc705_p00049-Lc705_p00050,Lactobacillus rhamnosus/47715,degradation
+PUL0160,30246424,mass spectrometry;sequence homology analysis,NZ_JQNQ01000001.1,-,alpha-mannan,FG27_RS08030-FG27_RS08170,Salegentibacter sp. Hel_I_6/1250278,degradation
+PUL0161,18996345,mass spectrometry;sequence homology analysis;gene deletion mutant and growth assay;microarray;qPCR,NC_004663.1,-,alpha-mannan,BT_2620-BT_2648,Bacteroides thetaiotaomicron/818,degradation
+PUL0162,18996345,mass spectrometry;sequence homology analysis,NC_004663.1,-,alpha-mannan,BT_3853-BT_3865,Bacteroides thetaiotaomicron/818,degradation
+PUL0163,18996345,mass spectrometry;sequence homology analysis;microarray;qPCR,NC_004663.1,-,alpha-mannan,BT_3773-BT_3793,Bacteroides thetaiotaomicron/818,degradation
+PUL0164,30246424,mass spectrometry;sequence homology analysis;differential gene expression,NZ_JHZY01000004.1,-,beta-mannan,P164_RS15845-P164_RS15935,Leeuwenhoekiella sp. MAR_2009_132/1392489,degradation
+PUL0165,30246424,mass spectrometry;sequence homology analysis;differential gene expression,NZ_JQNQ01000001.1,-,beta-mannan,FG27_RS09925-FG27_RS10000,Salegentibacter sp. Hel_I_6/1250278,degradation
+PUL0166,16788175,enzyme activity assay;RT-PCR,NC_016776.1,-,starch,BF638R_RS15150-BF638R_RS15170,Bacteroides fragilis/817,degradation
+PUL0167,30246424,mass spectrometry;sequence homology analysis,AAXF02000047.1,-,beta-mannan,BACOVA_02087-BACOVA_02097,Bacteroides ovatus/28116,degradation
+PUL0168,30099846,gene deletion mutant and growth assay,AE005176,-,galactose,L36511-L48789,Lactococcus lactis subsp. lactis/1360,degradation
+PUL0169,30092047,enzyme activity assay;qRT-PCR,AM039952.1,-,arabinan,XCV2724-XCV2729,Xanthomonas euvesicatoria/456327,degradation
+PUL0170,-,-,-,-,-,-,-,-
+PUL0171,27353652,qRT-PCR;RNA-seq,FQ312004.1,-,host glycan,BF638R_3437-BF638R_3443,Bacteroides fragilis/817,degradation
+PUL0172,-,-,-,-,-,-,-,-
+PUL0173,-,-,-,-,-,-,-,-
+PUL0174,27302067,RT-PCR;enzyme activity assay;enzymatic product analysis,CP001736.1,-,starch,Kfla_4051-Kfla_4053,Kribbella flavida/182640,degradation
+PUL0175,16842369,enzyme activity assay,AY526725.1,-,galactomannan,unkA-epiA-aga27A,Cellvibrio mixtus/39650,degradation
+PUL0176,27302067,RT-PCR;enzyme activity assay;enzymatic product analysis,CP001736.1,-,starch,Kfla_1895-Kfla_1900,Kribbella flavida/182640,degradation
+PUL0177,-,-,-,-,-,-,-,-
+PUL0178,22205877,enzyme activity assay;enzyme specificity assay;substrate specificity assay,AAXF02000047.1,-,galactomannan,BACOVA_02085-BACOVA_02098,Bacteroides ovatus/28116,degradation
+PUL0179,27288925,enzyme activity assay;enzyme specificity assay;substrate specificity assay,JH724241.1,-,galactomannan,HMPREF1070_00547-HMPREF1070_00560,Bacteroides ovatus/28116,degradation
+PUL0180,21539815,enzyme activity assay,CR626927.1,-,galactomannan,BF9343_0759-BF9343_0777,Bacteroides fragilis/817,degradation
+PUL0181,-,-,-,-,-,-,-,-
+PUL0182,-,-,-,-,-,-,-,-
+PUL0183,-,-,-,-,-,-,-,-
+PUL0184,-,-,-,-,-,-,-,-
+PUL0185,-,-,-,-,-,-,-,-
+PUL0186,17028271,gene deletion mutant and growth assay,AE007317.1,-,cellobiose,spr0276-spr0282,Streptococcus pneumoniae/1313,degradation
+PUL0187,26746717,qRT-PCR;enzyme activity assay,NC_012914.1,-,beta-glucan,PJDR2_RS04870-PJDR2_RS4900,Paenibacillus sp. JDR-2/324057,degradation
+PUL0188,-,-,-,-,-,-,-,-
+PUL0189,26920945,RNA-seq;RT-PCR;qPCR,FP929033.1,-,pectin,BXY_06320-BXY_06540,Bacteroides xylanisolvens/371601,degradation
+PUL0190,26920945,RNA-seq;RT-PCR;qPCR,FP929033.1,-,pectin,BXY_15570-BXY_15720,Bacteroides xylanisolvens/371601,degradation
+PUL0191,26920945,RNA-seq;RT-PCR;qPCR,FP929033.1,-,pectin,BXY_31910-BXY_32010,Bacteroides xylanisolvens/371601,degradation
+PUL0192,26920945,RNA-seq;RT-PCR;qPCR,FP929033.1,-,pectin,BXY_32120-BXY_32390,Bacteroides xylanisolvens/371601,degradation
+PUL0193,26920945,RNA-seq;RT-PCR;qPCR,FP929033.1,-,pectin,BXY_32430-BXY_32730,Bacteroides xylanisolvens/371601,degradation
+PUL0194,28056108,enzyme activity assay;gene deletion mutant and growth assay,AE005672.3,-,host glycan,SP_2141-SP_2146,Streptococcus pneumoniae/1313,degradation
+PUL0195,26691835,RT-PCR,NC_003030.1,-,cellobiose,CA_C0382-CA_C0386; CelRCA-bglB-celC,Clostridium acetobutylicum/1488,degradation
+PUL0196,26546429,enzyme activity assay,NC_010999.1,-,human milk oligosaccharide,LCABL_RS01420-LCABL_RS01465,Lactobacillus casei/1582,degradation
+PUL0197,17233733,gene deletion mutant and growth assay,NC_004350.2,-,starch,SMU_1564-SMU_1571,Streptococcus mutans/1309,degradation
+PUL0198,-,-,-,-,-,-,-,-
+PUL0199,26458373,enzyme activity assay;liquid chromatography and mass spectrometry,NC_007912.1,-,alginate,SDE_RS17125-SDE_RS17210,Saccharophagus degradans/86304,degradation
+PUL0200,-,-,-,-,-,-,-,-
+PUL0201,-,-,-,-,-,-,-,-
+PUL0202,-,-,-,-,-,-,-,-
+PUL0203,-,-,-,-,-,-,-,-
+PUL0204,18996345,qPCR;thin-layer chromatography;substrate binding assay,NC_004663.1,-,starch,BT_3698-BT_3704,Bacteroides thetaiotaomicron/818,degradation
+PUL0205,25841008,qPCR;thin-layer chromatography;substrate binding assay,NC_004663.1,-,dextran,BT_3085-BT_3090,Bacteroides thetaiotaomicron/818,degradation
+PUL0206,-,-,-,-,-,-,-,-
+PUL0207,19416976,enzyme activity assay;RT-PCR,NC_004368.1,-,host glycan,GBS_RS09825-GBS_RS09855,Streptococcus agalactiae NEM316/1311,degradation
+PUL0208,10220172,growth assay;clone and expression;enzyme activity assay,AH007017.2,-,chitin,chiABC,Pseudoalteromonas luteoviolacea/43657,degradation
+PUL0209,17644603,enzyme activity assay;gene deletion mutant and growth assay,CP002038.1,-,galactan,ganR-ganK,Dickeya dadantii/204038,degradation
+PUL0210,25605731,enzyme activity assay,NC_008261.1,-,host glycan,CPF_RS01980-CPF_RS02040,Clostridium perfringens/1502,degradation
+PUL0211,25205095,enzyme activity assay;gene deletion mutant and growth assay;thin-layer chromatography,AE008922.1,-,host glycan,XCC2887-XCC2895,Xanthomonas campestris pv. campestris/340,degradation
+PUL0212,25483279,qRT-PCR,NC_008618.1,-,galactooligosaccharide,BAD_RS08320- BAD_RS08355,Bifidobacterium adolescentis/1680,degradation
+PUL0213,25483279,qRT-PCR,NC_008618.1,-,galactooligosaccharide,BAD_RS08450-BAD_RS08465,Bifidobacterium adolescentis/1680,degradation
+PUL0214,25483279,qRT-PCR,NC_008618.1,-,galactooligosaccharide,BAD_RS07390-BAD_RS07430,Bifidobacterium adolescentis/1680,degradation
+PUL0215,25171165,qPCR;enzyme activity assay,NC_010995.1,-,xyloglucan,CJA_RS13075-CJA_RS13090,Cellvibrio japonicus/155077,degradation
+PUL0216,24816607,Western Blot;enzyme activity assay;RT-PCR;microarray,AB011415.1,-,alginate,aly-algOSM1M2Q1Q2,Sphingomonas sp./28214,degradation
+PUL0217,25342756,RNA-seq,NZ_KE386494.1,-,galactomannan,CALPO_RS0106040-CALPO_RS0106070,Caldanaerobius polysaccharolyticus/44256,degradation
+PUL0218,25304507,enzyme activity assay,HF548278.1,-,arabinan,BN138_163-BN138_186,termite gut metagenome/433724,degradation
+PUL0219,17644636,sugar utilization assay;enzyme activity assay,DQ396803.1,-,fructan,fosABCDXE,Lactobacillus paracasei/1597,degradation
+PUL0220,25478683,mass spectrometry;target decoy database analysis,JPDI01000001.1,-,beta-glucan,PHEL49_2075-PHEL49_2085,Polaribacter sp. Hel1_33_49/1336803,degradation
+PUL0221,24223817,fosmid library screen,KC246798.1,-,cellulose,AHF24576.1-AHF24585.1,uncultured bacterium Contig1529/1393449,degradation
+PUL0222,24223817,fosmid library screen,KC246824.1,-,cellulose,AHF25220.1-AHF25226.1,uncultured bacterium Contig196/1393527,degradation
+PUL0223,-,-,-,-,-,-,-,-
+PUL0224,20013800,RT-PCR;qRT-PCR;ion trap liquid chromatography;mass spectrometry;target decoy database analysis;high-performance anion-exchange chromatography,NC_011898.1,-,cellulose,CCEL_RS06150-CCEL_RS06225,Ruminiclostridium cellulolyticum/1521,degradation
+PUL0225,23150581,RT-PCR,NZ_DS990130.1,-,agarose,BACPLE_RS08560-BACPLE_RS08735,Bacteroides plebeius/310297,degradation
+PUL0226,-,-,-,-,-,-,-,-
+PUL0227,22918832,enzyme activity assay;substrate binding assay,JX087428.1,-,xylan,AFM44648.1-AFM44659.1,Caldanaerobius polysaccharolyticus/44256,degradation
+PUL0228,-,-,-,-,-,-,-,-
+PUL0229,17921311,RT-PCR,EU024644.1,-,xylan,yesN-yesM-lplA-lplB-ytcP-arguA-xynA2-xynB,Paenibacillus sp. JDR-2/324057,degradation
+PUL0230,32444471,RT-PCR;enzyme activity assay;clone;enzyme kinetic analysis;thin-layer chromatography;crystallization,CP000033.3,-,starch,LBA1864-LBA1874,Lactobacillus acidophilus/1579,degradation
+PUL0231,22502871,enzyme activity assay;cosmid library screening,AY870655.1,-,beta-glucoside,bglYK,Pectobacterium carotovorum subsp. carotovorum/555,degradation
+PUL0232,24705323,microarray;electrophoretic mobility shift assay,CP000303.1,-,raffinose,bbr_1865-bbr_1870,Bifidobacterium breve/1685,degradation
+PUL0233,24705323,microarray;electrophoretic mobility shift assay,CP000303.1,-,melicitose,bbr_1856-bbr_1860,Bifidobacterium breve/1685,degradation
+PUL0234,24522261,proteome fractionation;mass spectrometry;target decoy database analysis,CU207366.1,-,beta-glucan,GFO_3462-GFO_3468,Gramella forsetii/411153,degradation
+PUL0235,24522261,proteome fractionation;mass spectrometry;target decoy database analysis,CU207366.1,-,alginate,GFO_1145-GFO_1164,Gramella forsetii/411153,degradation
+PUL0236,24522261,proteome fractionation;mass spectrometry;target decoy database analysis,CU207366.1,-,alpha-glucan,GFO_2129-GFO_2141,Gramella forsetii/411153,degradation
+PUL0237,-,-,-,-,-,-,-,-
+PUL0238,18177310,Northern Blot,NC_000964.3,-,glucomannan,gmuBACDREFG,Bacillus subtilis/1423,degradation
+PUL0239,24448980,fosmid library screen;sequence homology analysis,JX424618,-,cellulose,AGH13958.1-AGH13973.1,Prevotella sp. Sc00026/1231727,degradation
+PUL0240,24448980,fosmid library screen;sequence homology analysis,JX424621,-,cellulose,AGH14016.1-AGH14025.1,Prevotella sp. Sc00028/1231728,degradation
+PUL0241,24448980,fosmid library screen;sequence homology analysis,JX424622,-,cellulose,AGH14043.1-AGH14049.1,Prevotella sp. Sc00033/1231729,degradation
+PUL0242,24448980,fosmid library screen;sequence homology analysis,JX424627,-,cellulose,AGH14097.1-AGH14104.1,Prevotella sp. Sc00044/1231730,degradation
+PUL0243,24448980,fosmid library screen;sequence homology analysis,JX424628,-,cellulose,AGH14126.1-AGH14137.1,Prevotella sp. Sc00066/1231731,degradation
+PUL0244,24351045,gene deletion mutant and growth assay;complementation study;carbohydrate binding assay,JUET01000139.1,-,host glycan,TAnf_13685-Tanf_13725,Tannerella forsythia/28112,degradation
+PUL0245,24333485,enzyme activity assay;gene deletion mutant and growth assay;Western Blot,AE005672.3,-,fucose,SP_2158-SP_2168,Streptococcus pneumoniae/1313,degradation
+PUL0246,24333485,enzyme activity assay;gene deletion mutant and growth assay;Western Blot,AAZZ01000003.1,-,fucose,CGSSp3BS71_10393-CGSSp3BS71_10443,Streptococcus pneumoniae/1313,degradation
+PUL0247,-,-,-,-,-,-,-,-
+PUL0248,24102883,sequence homology analysis,AE016795.3,-,capsule polysaccharide degradation,VV1_0774-VV1_0786,Vibrio vulnificus/672,degradation
+PUL0249,17449691,microarray,NC_000964.3,-,pectin,BSU06970-BSU07080,Bacillus subtilis/1423,degradation
+PUL0250,-,-,-,-,-,-,-,-
+PUL0251,23996813,gene chips,AE015928.1,-,host glycan,BT_4294-BT_4300,Bacteroides thetaiotaomicron/818,degradation
+PUL0252,23996813,gene chips,AE015928.1,-,mucin,BT_4132-BT_4137,Bacteroides thetaiotaomicron/818,degradation
+PUL0253,-,-,-,-,-,-,-,-
+PUL0254,-,-,-,-,-,-,-,-
+PUL0255,-,-,-,-,-,-,-,-
+PUL0256,-,-,-,-,-,-,-,-
+PUL0257,-,-,-,-,-,-,-,-
+PUL0258,-,-,-,-,-,-,-,-
+PUL0259,-,-,-,-,-,-,-,-
+PUL0260,-,-,-,-,-,-,-,-
+PUL0261,-,-,-,-,-,-,-,-
+PUL0262,23976882,RNA-seq,CP012801.1,-,xylan,BcellWH2_04296-BcellWH2_04307,Bacteroides cellulosilyticus/246787,degradation
+PUL0263,30674645,RNA-seq,CP012801.1,-,xylan,BcellWH2_04323-BcellWH2_04327,Bacteroides cellulosilyticus/246787,degradation
+PUL0264,31886414,RNA-seq,NZ_SEUH01000010.1,-,carrageenan,EU511_RS08670-EU511_RS08810,Pseudoalteromonas distincta/77608,degradation
+PUL0265,7730272,enzyme activity assay;gene deletion mutant and growth assay,X78853.1,-,starch,CAA55408.1-CAA55409.1,Staphylococcus xylosus/1288,degradation
+PUL0266,23320757,enzyme activity assay,NC_012028.1,-,human milk oligosaccharide,HLAC_RS14125-HLAC_RS14200,Halorubrum lacusprofundi/2247,degradation
+PUL0267,23879596,RT-qPCR,CP000033.3,-,glycogen,LBA0679-LBA0688,Lactobacillus acidophilus/1579,biosynthesis
+PUL0268,23793634,Northern Blot;promoter assay,BA000043.1,-,starch,GK0704-GK0708,Geobacillus kaustophilus/1462,degradation
+PUL0269,23674154,RT-PCR,NC_017943.1,-,chitin,HFX_RS15565-HFX_RS15635,Haloferax mediterranei/2252,degradation
+PUL0270,-,-,-,-,-,-,-,-
+PUL0271,23663691,RT-qPCR,CP001515.1,-,gentiobiose,balac_0052-balac_0055,Bifidobacterium animalis subsp. lactis/302911,degradation
+PUL0272,23663691,RT-qPCR,CP001515.1,-,beta-galactooligosaccharide,balac_0475-balac_0477,Bifidobacterium animalis subsp. lactis/302911,degradation
+PUL0273,23663691,RT-qPCR,CP001515.1,-,beta-galactooligosaccharide,balac_0483-balac_0487,Bifidobacterium animalis subsp. lactis/302911,degradation
+PUL0274,23663691,RT-qPCR,CP001515.1,-,xylan,balac_0511-balac_0522,Bifidobacterium animalis subsp. lactis/302911,degradation
+PUL0275,23663691,RT-qPCR,CP001515.1,-,starch,balac_1566-balac_1573,Bifidobacterium animalis subsp. lactis/302911,degradation
+PUL0276,23663691,RT-qPCR,CP001515.1,-,starch,balac_1593-balac_1601,Bifidobacterium animalis subsp. lactis/302911,degradation
+PUL0277,23264576,gene deletion mutant and growth assay;qRT-PCR,AE005672.3,-,fructan,SP_1721-SP_1725,Streptococcus pneumoniae/1313,degradation
+PUL0278,23264576,gene deletion mutant and growth assay;qRT-PCR,AE005672.3,-,fructan,SP_1795-SP_1800,Streptococcus pneumoniae/1313,degradation
+PUL0279,23264576,gene deletion mutant and growth assay;qRT-PCR,CP000410.2,-,fructan,SPD_1582-SPD_1587,Streptococcus pneumoniae/1313,degradation
+PUL0280,-,-,-,-,-,-,-,-
+PUL0281,-,-,-,-,-,-,-,-
+PUL0282,23216604,enzyme activity assay,JF327803.1,-,galactan,AEH26451.1-AEH26457.1,Geobacillus stearothermophilus/1422,degradation
+PUL0283,23199239,microarray;high-performance anion-exchange chromatography;liquid chromatography and mass spectrometry,CP000303.1,-,galactooligosaccharide,bbr_0417-bbr_0422,Bifidobacterium breve/1685,degradation
+PUL0284,23199239,microarray;high-performance anion-exchange chromatography;liquid chromatography and mass spectrometry,CP000303.1,-,galactan,bbr_1551-bbr_1553,Bifidobacterium breve/1685,degradation
+PUL0285,23199239,microarray;high-performance anion-exchange chromatography;liquid chromatography and mass spectrometry,CP000303.1,-,galactooligosaccharide,bbr_0526-bbr_0530,Bifidobacterium breve/1685,degradation
+PUL0286,-,-,-,-,-,-,-,-
+PUL0287,-,-,-,-,-,-,-,-
+PUL0288,-,-,-,-,-,-,-,-
+PUL0289,29588659,enzyme activity assay,CP000685.1,-,xylan,Fjoh_3871-Fjoh_3882,Flavobacterium johnsoniae/986,degradation
+PUL0290,-,-,-,-,-,-,-,-
+PUL0291,29453395,electrophoretic mobility shift assay;qPCR,CP014225.1,-,human milk oligosaccharide,ompL- yihO- yihP- yihQ- yihR- yihS- yihT- yihU- yihV- yihW+,Escherichia coli/562,degradation
+PUL0292,18671744,enzyme activity assay,EU599185.1,-,chitin,ACF93782.1-ACF93795.1,Collimonas fungivorans/158899,degradation
+PUL0293,-,-,-,-,-,-,-,-
+PUL0294,29310579,gene trait matching exercise,PJEE01000011.1,-,xylan,APC1464_1419-APC1464_1430,Bifidobacterium longum/216816,degradation
+PUL0295,29310579,gene trait matching exercise,NZ_PJEF01000016.1,-,arabinan,APC1462_RS10100-APC1462_RS10145,Bifidobacterium longum/216816,degradation
+PUL0296,29310579,gene trait matching exercise,PJDT01000028.1,-,arabinan,APC1503_1956-APC1503_1959,Bifidobacterium longum/216816,degradation
+PUL0297,29310579,gene trait matching exercise,NZ_PJEG01000006.1,-,galactan,APC1461_RS02130-APC1461_RS0270,Bifidobacterium longum/216816,degradation
+PUL0298,29310579,gene trait matching exercise,NZ_PJEE01000001.1,-,galactan,APC1464_RS01880-APC1464_RS01930,Bifidobacterium longum/216816,degradation
+PUL0299,29310579,gene trait matching exercise,NZ_PJDX01000003.1,-,human milk oligosaccharide,APC1477_RS01575-APC1477_RS01635,Bifidobacterium longum/216816,degradation
+PUL0300,29310579,gene trait matching exercise,NZ_PJDO01000018.1,-,arabinoxylan,DPC6321_RS09575-DPC6321_RS09635,Bifidobacterium longum/216816,degradation
+PUL0301,-,-,-,-,-,-,-,-
+PUL0302,21339299,RT-qPCR;isothermal titration calorimetry (ITC);enzyme activity assay;gene deletion mutant and growth assay;high-performance anion-exchange chromatography,AE015928.1,-,arabinan,BT_0348-BT_0369,Bacteroides thetaiotaomicron/818,degradation
+PUL0303,18671744,enzyme activity assay,EU599184.1,-,chitin,ACF93773.1-ACF93781.1,Collimonas fungivorans/158899,degradation
+PUL0304,29255254,RT-qPCR;isothermal titration calorimetry (ITC);enzyme activity assay;gene deletion mutant and growth assay,AE015928.1,-,galactan,BT_4667-BT_4673,Bacteroides thetaiotaomicron/818,degradation
+PUL0305,29255254,RT-qPCR;isothermal titration calorimetry (ITC);enzyme activity assay;gene deletion mutant and growth assay,AE015928.1,-,pectin,BT_4108-BT_4124; (GH105+ CE8+ CE8+ HTCS+ SGBP- SusD-like- SusC-like- PL1- PL1- HP+ HP+ PL1+ HP+ SusC-ilke+ SusD-like+ GH28+ HTCS-),Bacteroides thetaiotaomicron/818,degradation
+PUL0306,29255254,RT-qPCR;isothermal titration calorimetry (ITC);enzyme activity assay;gene deletion mutant and growth assay,NZ_DS264584.1,-,pectin,BACOVA_05487-BACOVA_05495; (-GH2- GH52- SGBP- SusD-like- SusC-like- HP- GH-HTCS-),Bacteroides ovatus/28116,degradation
+PUL0307,8757722,enzyme activity assay,NZ_HG326223.1,-,chitin,SMDB11_RS14210-SMDB11_RS14230;,Serratia marcescens subsp. marcescens/615,degradation
+PUL0308,-,-,-,-,-,-,-,-
+PUL0309,28710263,enzyme activity assay;substrate binding assay;isothermal titration calorimetry (ITC),NZ_KE386494.1,-,arabinan,CALPO_RS0104485-CALPO_RS0104540,Caldanaerobius polysaccharolyticus/44256,degradation
+PUL0310,-,-,-,-,-,-,-,-
+PUL0311,31455320,enzyme activity assay,HG738867.1,-,cellulose,bcsABZC,Escherichia coli/562,degradation
+PUL0312,19139238,RT-PCR,L41732.5,-,starch,lsdAB,Gluconacetobacter diazotrophicus/33996,degradation
+PUL0313,32585009,microarray;Northern Blot;RT-qPCR;electrophoretic mobility shift assay;clone and expression;gene deletion mutant and growth assay,FP476056.1,-,alginate,ZOBELLIA_4130-ZOBELLIA_4132,Zobellia galactanivorans/63186,degradation
+PUL0314,28983288,microarray,FP476056.1,-,beta-glucan,ZOBELLIA_2987-ZOBELLIA_2991,Zobellia galactanivorans/63186,degradation
+PUL0315,28983288,microarray,FP476056.1,-,agarose,ZOBELLIA_3570-ZOBELLIA_3573,Zobellia galactanivorans/63186,degradation
+PUL0316,28983288,microarray,FP476056.1,-,agarose,ZOBELLIA_4655-ZOBELLIA_4669,Zobellia galactanivorans/63186,degradation
+PUL0317,28983288,microarray,FP476056.1,-,agarose,ZOBELLIA_4201-ZOBELLIA_4203,Zobellia galactanivorans/63186,degradation
+PUL0318,28983288,microarray,FP476056.1,-,carrageenan,ZOBELLIA_234-ZOBELLIA_236,Zobellia galactanivorans/63186,degradation
+PUL0319,28983288,microarray,FP476056.1,-,carrageenan,ZOBELLIA_2985-ZOBELLIA_2988,Zobellia galactanivorans/63186,degradation
+PUL0320,21227922,liquid chromatography and mass spectrometry;mass spectrometry;target decoy database analysis,CP001393.1,-,cellulose,Athe_1853-Athe_1871,Caldicellulosiruptor bescii/31899,degradation
+PUL0321,19233952,enzyme activity assay;transposon mutagenesis,NC_007946.1,-,beta-glucoside,bgcAHIFER,Escherichia coli/562,degradation
+PUL0322,29475869,liquid chromatography and mass spectrometry,NZ_LACM01000001.1,-,cellulose,N913_RS14400-N913_RS10105,Caldicellulosiruptor danielii/1387557,degradation
+PUL0323,28617843,fitness contribution assay;insertion sequencing,NZ_CP034484.1,-,galactan,ganB- ganA- ganQ- ganP- ganS- ganR,Bacillus subtilis subsp. subtilis/135461,degradation
+PUL0324,-,-,-,-,-,-,-,-
+PUL0325,28461332,RT-PCR;enzyme activity assay,AE015928.1,-,beta-glucan,BT_3309-BT_3314,Bacteroides thetaiotaomicron/818,degradation
+PUL0326,28461332,gene deletion mutant and growth assay;enzyme activity assay;thin-layer chromatography,DS264584.1,-,beta-glucan,BACOVA_RS10410- BACOVA_00946,Bacteroides ovatus/28116,degradation
+PUL0327,32680872,microarray;gas chromatography;mass spectrometry;gene deletion mutant and growth assay;complementation study,NZ_CAWH010000143.1,-,starch,mmgt-gmdH-mmdH-mdxE-mdxF-mdxG,Enterococcus faecalis/1351,degradation
+PUL0328,28261179,microarray;gas chromatography;mass spectrometry,CP016359.1,-,xylan,GRFL_0296-GRFL_0304,Gramella flava/1486245,degradation
+PUL0329,28261179,microarray;gas chromatography;mass spectrometry,CP016359.1,-,xylan,GRFL_0317-GRFL_0341,Gramella flava/1486245,degradation
+PUL0330,30341080,fosmid library screen;enzyme activity assay;thin-layer chromatography,CP016359.1,-,pectin,GRFL_2155-GRFL_2182,Gramella flava/1486245,degradation
+PUL0331,18487409,carbon utilization assay,NC_006840.2,-,cellobiose,celCBGKAI,Aliivibrio fischeri/668,degradation
+PUL0332,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674122,-,beta-glucan,SIP56247.1-SIP56265.1,uncultured bacterium/77133,degradation
+PUL0333,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674123,-,beta-glucan,SIP56266.1-SIP56287.1,uncultured bacterium/77133,degradation
+PUL0334,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674124,-,beta-glucan,SIP56288.1-SIP56310.1,uncultured bacterium/77133,degradation
+PUL0335,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674125,-,xylan,SIP56311.1-SIP56341.1,uncultured bacterium/77133,degradation
+PUL0336,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674126,-,xylan,SIP56342.1-SIP56366.1,uncultured bacterium/77133,degradation
+PUL0337,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674127,-,xylan,SIP56367.1-SIP56395.1,uncultured bacterium/77133,degradation
+PUL0338,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674128,-,xylan,SIP56396.1-SIP56429.1,uncultured bacterium/77133,degradation
+PUL0339,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674129,-,xylan,SIP56430.1-SIP56453.1,uncultured bacterium/77133,degradation
+PUL0340,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674130,-,beta-glucan,SIP56454.1-SIP56490.1,uncultured bacterium/77133,degradation
+PUL0341,28091525,fosmid library screen;enzyme activity assay;thin-layer chromatography,LT674131,-,beta-glucan,SIP56491.1-SIP56533.1,uncultured bacterium/77133,degradation
+PUL0342,19304844,enzyme activity assay;gene deletion mutant and growth assay,NC_014033.1,-,xylan,PRU_RS13995-PRU_RS14015,Prevotella ruminicola/839,degradation
+PUL0343,28091525,gene deletion mutant and growth assay;enzyme activity assay;Western Blot;isothermal titration calorimetry (ITC),LT674132,-,beta-glucan,SIP56534.1-SIP56572.1,uncultured bacterium/77133,degradation
+PUL0344,19717629,gene deletion mutant and growth assay;protein structure characterization,CP000685.1,-,chitin,Fjoh_4555-Fjoh_4565,Flavobacterium johnsoniae/986,degradation
+PUL0345,27681607,qRT-PCR;enzyme activity assay,ABJL02000008.1,-,xylan,BACINT_04193-BACINT_04223,Bacteroides intestinalis/329854,degradation
+PUL0346,27573446,gene deletion mutant and growth assay,HE717017.1,-,xylan,CCG34969.1-CCG34983.1,uncultured bacterium/77133,degradation
+PUL0347,24581150,gene deletion mutant and growth assay;RT-PCR,CP006712.1,-,starch,B7017_1838-B7017-1850,Bifidobacterium breve/1685,degradation
+PUL0348,22449996,enzyme activity assay,AP006841.1,-,host glycan,BF1729-BF1741,Bacteroides fragilis/817,degradation
+PUL0349,22230464,microarray,NC_013192.1,-,starch,LEBU_RS07530-LEBU_RS07540,Leptotrichia buccalis/40542,degradation
+PUL0350,-,-,-,-,-,-,-,-
+PUL0351,1435727,enzyme activity assay,X81461.2,-,starch,cscRAKB,Escherichia coli/562,degradation
+PUL0352,16968696,microarray,AE015928.1,-,host glycan,BT_1617-BT_1622,Bacteroides thetaiotaomicron/818,degradation
+PUL0353,-,-,-,-,-,-,-,-
+PUL0354,16968696,microarray,AE015928.1,-,human milk oligosaccharide,BT_2892-BT_2899,Bacteroides thetaiotaomicron/818,degradation
+PUL0355,-,-,-,-,-,-,-,-
+PUL0356,16968696,microarray,AE015928.1,-,human milk oligosaccharide,BT_4705-BT_4712,Bacteroides thetaiotaomicron/818,degradation
+PUL0357,16968696,microarray,AE015928.1,-,host glycan,BT_0865-BT_0867,Bacteroides thetaiotaomicron/818,degradation
+PUL0358,-,-,-,-,-,-,-,-
+PUL0359,-,-,-,-,-,-,-,-
+PUL0360,-,-,-,-,-,-,-,-
+PUL0361,10972187,enzyme activity assay,CP007013.1,-,starch,THEMA_05005-THEMA_05030,Thermotoga maritima/2336,degradation
+PUL0362,17311090,enzyme activity assay,AE008922.1,-,starch,XCC3356-XCC3359,Xanthomonas campestris pv. campestris/340,degradation
+PUL0363,17311090,enzyme activity assay,AE008922.1,-,pectin,XCC0120-XCC0122,Xanthomonas campestris pv. campestris/340,degradation
+PUL0364,17311090,enzyme activity assay,AE008922.1,-,xylan,XCC4115-XCC4122,Xanthomonas campestris pv. campestris/340,degradation
+PUL0365,17311090,RT-PCR,AE008922.1,-,starch,XCC2464-XCC2471,Xanthomonas campestris pv. campestris/340,degradation
+PUL0366,10931310,RT-PCR,AF228498.1,-,glycosaminoglycan,agaR-kbaZ-agaVWEFAS-kbaY-agaBCDEI,Escherichia coli/562,degradation
+PUL0367,18539808,mass spectrometry,AE014295.3,-,galactooligosaccharide,BL0259-BL0261,Bifidobacterium longum/216816,degradation
+PUL0368,19033196,microarray;Western Blot,CP001095.1,-,human milk oligosaccharide,Blon_2332-Blon_2361,Bifidobacterium longum subsp. infantis/1682,degradation
+PUL0369,-,-,-,-,-,-,-,-
+PUL0370,19628558,RT-PCR,AP009044.1,-,beta-glucoside,Cgr_2727-Cgr_2729,Corynebacterium glutamicum/1718,degradation
+PUL0371,11489857,enzyme activity assay,AB034969.2,-,starch,cgtBACDE,Thermococcus sp. B1001/91619,degradation
+PUL0372,19628558,enzyme activity assay,AP009044.1,-,beta-glucoside,Cgr_2608-Cgr_2610,Corynebacterium glutamicum/1718,degradation
+PUL0373,19734309,enzyme activity assay,CP002038.1,-,starch,scrKYABR,Dickeya dadantii/204038,degradation
+PUL0374,19734309,microarray;qPCR,CP002038.1,-,melibiose,rafRAB,Dickeya dadantii/204038,degradation
+PUL0375,-,-,-,-,-,-,-,-
+PUL0376,18996345,microarray;qPCR,AE015928.1,-,mucin,BT_2818-BT_2826,Bacteroides thetaiotaomicron/818,degradation
+PUL0377,30262663,microarray;qPCR;enzyme activity assay,AE015928.1,-,glycosaminoglycan,BT_3324-BT_3350,Bacteroides thetaiotaomicron/818,degradation
+PUL0378,-,-,-,-,-,-,-,-
+PUL0379,-,-,-,-,-,-,-,-
+PUL0380,32060313,microarray;qPCR;microarray;enzyme activity assay;strcutural analysis;clone and expression,AE015928.1,-,mucin,BT_3983-BT_3994,Bacteroides thetaiotaomicron/818,degradation
+PUL0381,14983042,microarray;gene deletion mutant and growth assay,NC_002505.1,-,chitin,VC1280-VC1286,Vibrio cholerae/666,degradation
+PUL0382,18996345,microarray;qPCR,AE015928.1,-,mucin,BT_4240-BT_4250,Bacteroides thetaiotaomicron/818,degradation
+PUL0383,18996345,microarray;qPCR,AE015928.1,-,mucin,BT_4355-BT_4359,Bacteroides thetaiotaomicron/818,degradation
+PUL0384,18996345,microarray;qPCR,AE015928.1,-,glycosaminoglycan,BT_4652-BT_4663,Bacteroides thetaiotaomicron/818,degradation
+PUL0385,8936327,ion trap liquid chromatography;mass spectrometry;target decoy database analysis;high-performance anion-exchange chromatography,NC_011898.1,-,cellulose,CCEL_RS03695-CCEL_RS03750,Ruminiclostridium cellulolyticum/1521,degradation
+PUL0386,-,-,-,-,-,-,-,-
+PUL0387,20081036,gene deletion mutant and growth assay;qRT-PCR;GlcNAc phosphorylation assays,NC_003902.1,-,glycosaminoglycan,XCC3408-XCC3414,Xanthomonas campestris pv. campestris/340,degradation
+PUL0388,-,-,-,-,-,-,-,-
+PUL0389,-,-,-,-,-,-,-,-
+PUL0390,21255309,enzyme activity assay,NC_000853.1,-,xylan,TM0055-TM0077,Thermotoga maritima/2336,degradation
+PUL0391,-,-,-,-,-,-,-,-
+PUL0392,27142817,RT-PCR;qPCR,FP929033.1,-,xylan,BXY_46530-BXY_46630,Bacteroides xylanisolvens/371601,degradation
+PUL0393,20686828,enzyme activity assay;analysis of reaction products,AB516430,-,galactan,BAK08901.1-BAK08910.1,Microbulbifer thermotolerans/252514,degradation
+PUL0394,20679207,microarray,GU591787.1,-,fructan,ADF57363.1-ADF57368.1,Roseburia inulinivorans/360807,degradation
+PUL0395,21460081,isothermal calorimetric titration;electrophoretic mobility shift assay;Northern Blot,DQ868502,-,arabinan,ACE73663.1-ACE73687.1,Geobacillus stearothermophilus/1422,degradation
+PUL0396,21478317,gene deletion mutant and growth assay,AM260479.1,-,glycosaminoglycan,H16_A0310-H16_A0316,Cupriavidus necator/106590,degradation
+PUL0397,21762219,gene deletion mutant and growth assay,CP002113.1,-,glycosaminoglycan,Ccan_08700–Ccan_08740,Capnocytophaga canimorsus/28188,degradation
+PUL0398,25736888,gene deletion mutant and growth assay,CP002113.1,-,mucin,Ccan_17420-Ccan_17500,Capnocytophaga canimorsus/28188,degradation
+PUL0399,22006318,microarray,CP000033.3,-,beta-galactooligosaccharide,LBA1457-LBA1469,Lactobacillus acidophilus/1579,degradation
+PUL0400,30116038,RT-qPCR;RNA-seq,CABDWQ010000001.1,-,alginate,ALT831_00941-ALT831_00954,Alteromonas macleodii/28108,degradation
+PUL0401,30116038,RNA-seq,CABDWQ010000001.1,-,beta-glucan,ALT831_03772-ALT831_03780,Alteromonas macleodii/28108,degradation
+PUL0402,11282589,Northern Blot;enzyme activity assay,AP012281,-,xylan,lilo_1425-lilo_1430,Lactococcus lactis subsp. lactis IO-1/1046624,degradation
+PUL0403,30116038,RNA-seq,CABDWQ010000001.1,-,beta-glucan,ALT831_04037-ALT831_04040,Alteromonas macleodii/28108,degradation
+PUL0404,30116038,RNA-seq,CABDWQ010000001.1,-,pectin,ALT831_02415-ALT831_02432,Alteromonas macleodii/28108,degradation
+PUL0405,30116038,RNA-seq,CABDWQ010000001.1,-,pectin,ALT831_03876-ALT831_03879,Alteromonas macleodii/28108,degradation
+PUL0406,30315317,high-performance anion-exchange chromatography,NZ_PXJC01000002.1,-,beta-glucan,DCP27_RS03160-DCP27_RS03265,Coprothermobacter proteolyticus/35786,degradation
+PUL0407,9066115,primer extension analysis;enzyme activity assay,EU670680.1,-,human milk oligosaccharide,lacTEGF,Lactobacillus casei/1582,degradation
+PUL0408,24217874,enzyme activity assay;thin-layer chromatography,CR626927.1,-,beta-mannan,BF9343_0736-BF9343_0739,Bacteroides fragilis/817,degradation
+PUL0409,-,-,-,-,-,-,-,-
+PUL0410,21545489,RT-qPCR,AOMX01000002.1,-,host glycan,H260_21035-H260_21065,Escherichia coli/562,degradation
+PUL0411,7487028,enzyme activity assay,Z49241.1,-,xylan,XynAB,Prevotella bryantii/77095,degradation
+PUL0412,12795379,clone and expression;enzyme activity assay,AF417111,-,pectin,pheC-euxT,Ralstonia solanacearum/305,degradation
+PUL0413,30116044,enzyme activity assay;reducing-sugar assay,JQ844187.1,-,cellobiose,AGS52250.1-AGS52280.1,uncultured bacterium contig00059/1181542,degradation
+PUL0414,30116044,enzyme activity assay;thin-layer chromatography,JN903693.1,-,xylan,AFK83720.1-AFK83745.1,uncultured bacterium 35A20/1194347,degradation
+PUL0415,22205877,microarray,AAXF02000034.1,-,xylan,BACOVA_00557-BACOVA_00560,Bacteroides ovatus/28116,degradation
+PUL0416,22205877,microarray,AAXF02000045.1,-,pectin,BACOVA_01792-BACOVA_01803,Bacteroides ovatus/28116,degradation
+PUL0417,22205877,microarray,AAXF02000045.1,-,pectin,BACOVA_01807-BACOVA_01819,Bacteroides ovatus/28116,degradation
+PUL0418,22205877,microarray,AAXF02000047.1,-,pectin,BACOVA_02051-BACOVA_02059,Bacteroides ovatus/28116,degradation
+PUL0419,22205877,microarray,AAXF02000049.1,-,pectin,BACOVA_02626-BACOVA_02636,Bacteroides ovatus/28116,degradation
+PUL0420,22205877,microarray,AAXF02000051.1,-,pectin,BACOVA_03379-BACOVA_03382,Bacteroides ovatus/28116,degradation
+PUL0421,22205877,microarray,AAXF02000051.1,-,starch,BACOVA_03514-BACOVA_03520,Bacteroides ovatus/28116,degradation
+PUL0422,22205877,microarray,AAXF02000051.1,-,host glycan,BACOVA_03556-BACOVA_03559,Bacteroides ovatus/28116,degradation
+PUL0423,10960102,clone and expression;enzyme activity assay,AF039487,-,cellobiose,cbpA-gghA-amyB,Thermotoga neapolitana/2337,degradation
+PUL0424,22205877,microarray,AAXF02000052.1,-,host glycan,BACOVA_04094-BACOVA_04111,Bacteroides ovatus/28116,degradation
+PUL0425,22205877,microarray,AAXF02000053.1,-,fructan,BACOVA_04497-BACOVA_04507,Bacteroides ovatus/28116,degradation
+PUL0426,22205877,microarray,AAXF02000054.1,-,mucin,BACOVA_04799-BACOVA_04811,Bacteroides ovatus/28116,degradation
+PUL0427,22205877,microarray,AAXF02000054.1,-,pectin,BACOVA_05488-BACOVA_05493,Bacteroides ovatus/28116,degradation
+PUL0428,-,-,-,-,-,-,-,-
+PUL0429,-,-,-,-,-,-,-,-
+PUL0430,-,-,-,-,-,-,-,-
+PUL0431,-,-,-,-,-,-,-,-
+PUL0432,-,-,-,-,-,-,-,-
+PUL0433,-,-,-,-,-,-,-,-
+PUL0434,10613891,SDS-PAGE;Western Blot,AF132735.2,-,beta-mannan,engK-hbpA-engL-manA-engM,Clostridium cellulovorans/1493,degradation
+PUL0435,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,beta-glucan,Cpin_6730-Cpin_6742,Chitinophaga pinensis/79329,degradation
+PUL0436,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,glucomannan,Cpin_5087-Cpin_5094,Chitinophaga pinensis/79329,degradation
+PUL0437,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,glucomannan,Cpin_6364-Cpin_6369,Chitinophaga pinensis/79329,degradation
+PUL0438,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,glucomannan,Cpin_3123-Cpin_3129,Chitinophaga pinensis/79329,degradation
+PUL0439,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,glucomannan,Cpin_7180-Cpin_7183,Chitinophaga pinensis/79329,degradation
+PUL0440,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,glucomannan,Cpin_2720-Cpin_2725,Chitinophaga pinensis/79329,degradation
+PUL0441,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,glucomannan,Cpin_6154-Cpin_6159,Chitinophaga pinensis/79329,degradation
+PUL0442,37493618,mass spectrometry;high-performance anion-exchange chromatography;SDS-PAGE;recombinant protein expression;enzyme activity assay;substrate binding assay,NC_013132.1,-,glucomannan/chitin,Cpin_2184-Cpin_2192,Chitinophaga pinensis DSM 2588/79329,degradation
+PUL0443,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,glucomannan,Cpin_5109-Cpin_5117,Chitinophaga pinensis/79329,degradation
+PUL0444,28069559,mass spectrometry;high-performance anion-exchange chromatography,NC_013132.1,-,glucomannan,Cpin_5548-Cpin_5553,Chitinophaga pinensis/79329,degradation
+PUL0445,10913091,recombinant protein expression;thin-layer chromatography;enzyme activity assay,AB011415.1,-,alginate,BAB03312.1-BAB03319.1,Sphingomonas sp./28214,degradation
+PUL0446,-,-,-,-,-,-,-,-
+PUL0447,-,-,-,-,-,-,-,-
+PUL0448,-,-,-,-,-,-,-,-
+PUL0449,-,-,-,-,-,-,-,-
+PUL0450,-,-,-,-,-,-,-,-
+PUL0451,-,-,-,-,-,-,-,-
+PUL0452,-,-,-,-,-,-,-,-
+PUL0453,-,-,-,-,-,-,-,-
+PUL0454,22944206,SDS-PAGE;protein fingerprinting (MALDI-TOF PMF),CP003170.1,-,alpha-glucan,ACPL_3663-ACPL_3684,Actinoplanes sp. SE50/110/134676,biosynthesis
+PUL0455,12513973,clone and expression;genes induced in presence of substrate;enzyme activity assay,AF441242.1,-,starch,scrT-scrP-scrR,Bifidobacterium animalis/28025,degradation
+PUL0456,20622018,microarray;RNA-seq,ADWO01000021.1;ADWO01000020.1,-,xylan,PBR_RS03345-PBR_RS03360+PBR_RS02950-PBR_RS02990,Prevotella bryantii/77095,degradation
+PUL0457,27142164,high-performance anion-exchange chromatography;enzyme activity assay;RNA-seq,NZ_AKZK01000039.1,-,xylan,A33G_RS0103395-A33G_RS0103425,Lactobacillus rossiae/231049,degradation
+PUL0458,31915221,RNA-seq;analysis of reaction products;enzyme activity assay,NZ_PJAI02000005.1,-,carrageenan,CWS31_RS06455-CWS31_RS06695,Colwellia echini/1982103,degradation
+PUL0459,33811026,RNA-seq;analysis of reaction products;enzyme activity assay;thin-layer chromatography;liquid chromatography;mass spectrometry,NZ_PJAI02000001.1,-,agarose,CWS31_RS01305-CWS31_RS01540,Colwellia echini A3/1982103,degradation
+PUL0460,29774012,recombinant protein expression;RT-PCR;enzyme activity assay,NZ_LSNE01000005.1,-,agar,AX660_RS08390-AX660_RS08495,Paraglaciecola hydrolytica S66/1799789,degradation
+PUL0461,-,-,-,-,-,-,-,-
+PUL0462,-,-,-,-,-,-,-,-
+PUL0463,18996345,microarray;qPCR,AE015928.1,-,host glycan,BT0433-BT0445,Bacteroides thetaiotaomicron/818,degradation
+PUL0464,18996345,microarray;qPCR,AE015928.1,-,host glycan,BT0446-BT0461,Bacteroides thetaiotaomicron/818,degradation
+PUL0465,18996345,microarray;qPCR,AE015928.1,-,mucin,BT1278-BT1285,Bacteroides thetaiotaomicron/818,degradation
+PUL0466,14973026,clone and expression;enzyme activity assay;Northern Blot,NC_000964.3,-,arabinan,araABDLMNPQ-abfA,Bacillus subtilis/1423,degradation
+PUL0467,31160824,microarray;qPCR;expression of recombinant proteins;RNA-seq;differential gene expression,AE015928.1,-,host glycan,BT1623-BT1636,Bacteroides thetaiotaomicron/818,degradation
+PUL0468,18996345,microarray;qPCR,AE015928.1,-,host glycan,BT3461-BT3507,Bacteroides thetaiotaomicron/818,degradation
+PUL0469,-,-,-,-,-,-,-,-
+PUL0470,18996345,microarray;qPCR,AE015928.1,-,mucin,BT3748-BT3754,Bacteroides thetaiotaomicron/818,degradation
+PUL0471,18996345,microarray;qPCR,AE015928.1,-,mucin,BT3957-BT3965,Bacteroides thetaiotaomicron/818,degradation
+PUL0472,18996345,microarray;qPCR,AE015928.1,-,mucin,BT4069-BT4096,Bacteroides thetaiotaomicron/818,degradation
+PUL0473,19717629,growth assay,NC_009441.1,-,alpha-glucan,Fjoh_1208-Fjoh_1215,Flavobacterium johnsoniae/986,degradation
+PUL0474,19717629,growth assay,NC_009441.1,-,xylan,Fjoh_1559-Fjoh_1567,Flavobacterium johnsoniae/986,degradation
+PUL0475,10347054,clone and expression;gene deletion mutant and growth assay,LN997842.1,-,beta-glucan,cebREFG-bglC,Streptomyces reticuli/1926,degradation
+PUL0476,19717629,growth assay,NC_009441.1,-,pectin,Fjoh_2019-Fjoh_2029,Flavobacterium johnsoniae/986,degradation
+PUL0477,19717629,growth assay,NC_009441.1,-,beta-glucan,Fjoh_2430-Fjoh_2435,Flavobacterium johnsoniae/986,degradation
+PUL0478,19717629,growth assay,NC_009441.1,-,alpha-mannan,Fjoh_2710-Fjoh_2717,Flavobacterium johnsoniae/986,degradation
+PUL0479,19717629,growth assay,NC_009441.1,-,pectin,Fjoh_3109-Fjoh_3128,Flavobacterium johnsoniae/986,degradation
+PUL0480,19717629,growth assay,NC_009441.1,-,xylan,Fjoh_3861-Fjoh_3869,Flavobacterium johnsoniae/986,degradation
+PUL0481,-,-,-,-,-,-,-,-
+PUL0482,19717629,growth assay,NC_009441.1,-,pectin,Fjoh_4080-Fjoh_4106,Flavobacterium johnsoniae/986,degradation
+PUL0483,19717629,growth assay,NC_009441.1,-,pectin,Fjoh_4225-Fjoh_4236,Flavobacterium johnsoniae/986,degradation
+PUL0484,19717629,growth assay,NC_009441.1,-,pectin,Fjoh_4246-Fjoh_4257,Flavobacterium johnsoniae/986,degradation
+PUL0485,38661728,growth assay;qRT-PCR;enzyme activity assay;affinity gel electrophoresis;crystallization;recombinant protein expression,NC_009441.1,-,starch,Fjoh_4428-Fjoh_4436,Flavobacterium johnsoniae/986,degradation
+PUL0486,10613841,RT-PCR;sugar utilization assay,AE007317.1,-,raffinose,spr1708-spr1715,Streptococcus pneumoniae/1313,degradation
+PUL0487,-,-,-,-,-,-,-,-
+PUL0488,19717629,growth assay,NC_009441.1,-,beta-mannan,Fjoh_4946-Fjoh_4959,Flavobacterium johnsoniae/986,degradation
+PUL0489,-,-,-,-,-,-,-,-
+PUL0490,-,-,-,-,-,-,-,-
+PUL0491,-,-,-,-,-,-,-,-
+PUL0492,-,-,-,-,-,-,-,-
+PUL0493,-,-,-,-,-,-,-,-
+PUL0494,-,-,-,-,-,-,-,-
+PUL0495,-,-,-,-,-,-,-,-
+PUL0496,-,-,-,-,-,-,-,-
+PUL0497,11772635,clone and expression;enzyme activity assay,AB063629.1,-,chitin,chiD-cbp1-chiA,Pseudoalteromonas piscicida/43662,degradation
+PUL0498,-,-,-,-,-,-,-,-
+PUL0499,-,-,-,-,-,-,-,-
+PUL0500,-,-,-,-,-,-,-,-
+PUL0501,-,-,-,-,-,-,-,-
+PUL0502,-,-,-,-,-,-,-,-
+PUL0503,-,-,-,-,-,-,-,-
+PUL0504,-,-,-,-,-,-,-,-
+PUL0505,-,-,-,-,-,-,-,-
+PUL0506,-,-,-,-,-,-,-,-
+PUL0507,-,-,-,-,-,-,-,-
+PUL0508,14761997,clone and expression;enzyme activity assay,AB110645.1,-,xylan,bxlR-bxlD-bxlC-bxlB-bxlA,Streptomyces thermoviolaceus/1952,degradation
+PUL0509,-,-,-,-,-,-,-,-
+PUL0510,-,-,-,-,-,-,-,-
+PUL0511,-,-,-,-,-,-,-,-
+PUL0512,-,-,-,-,-,-,-,-
+PUL0513,-,-,-,-,-,-,-,-
+PUL0514,-,-,-,-,-,-,-,-
+PUL0515,-,-,-,-,-,-,-,-
+PUL0516,-,-,-,-,-,-,-,-
+PUL0517,-,-,-,-,-,-,-,-
+PUL0518,-,-,-,-,-,-,-,-
+PUL0519,8244973,gene deletion mutant and growth assay,NC_003098.1,-,starch,MalRADCXMP,Streptococcus pneumoniae/1313,degradation
+PUL0520,14532050,clone and expression;enzyme activity assay,AY297960.1,-,xylan,xynT-xynB,Klebsiella oxytoca/571,degradation
+PUL0521,-,-,-,-,-,-,-,-
+PUL0522,-,-,-,-,-,-,-,-
+PUL0523,-,-,-,-,-,-,-,-
+PUL0524,-,-,-,-,-,-,-,-
+PUL0525,-,-,-,-,-,-,-,-
+PUL0526,22205877,microarray;qPCR,NZ_CP012938.1,-,beta-glucan,Bovatus_03419-Bovatus_03424,Bacteroides ovatus/28116,degradation
+PUL0527,22205877,microarray;qPCR,NZ_CP012938.1,-,xyloglucan,Bovatus_03060-Bovatus_03075,Bacteroides ovatus/28116,degradation
+PUL0528,22205877,microarray;qPCR,NZ_CP012938.1,-,beta-glucan,Bovatus_03146-Bovatus_03153,Bacteroides ovatus/28116,degradation
+PUL0529,39892338,microarray;qPCR;RNA-seq;reducing-sugar assay;growth assay,NZ_CP012938.1,-,pectin,Bovatus_04357-Bovatus_04384,Bacteroides ovatus/28116,degradation
+PUL0530,-,-,-,-,-,-,-,-
+PUL0531,12618440,clone and expression;enzyme activity assay,NZ_HG326223.1,-,chitin,chbB-chbC-bglA-chbR-chbG,Serratia marcescens/615,degradation
+PUL0532,23976882,RNA-seq,CP012801.1,-,arabinan,BcellWH2_00920-BcellWH2_00935,Bacteroides cellulosilyticus/246787,degradation
+PUL0533,23976882,RNA-seq,CP012801.1,-,xylan,BcellWH2_00952-BcellWH2_00960,Bacteroides cellulosilyticus/246787,degradation
+PUL0534,23976882,RNA-seq,CP012801.1,-,pectin,BcellWH2_01286-BcellWH2_01294,Bacteroides cellulosilyticus/246787,degradation
+PUL0535,23976882,RNA-seq,CP012801.1,-,arabinogalactan,BcellWH2_01660-BcellWH2_01668,Bacteroides cellulosilyticus/246787,degradation
+PUL0536,23976882,RNA-seq,CP012801.1,-,glycosaminoglycan,BcellWH2_01737-BcellWH2_01742,Bacteroides cellulosilyticus/246787,degradation
+PUL0537,23976882,RNA-seq,CP012801.1,-,beta-glucan,BcellWH2_01926-BcellWH2_01932,Bacteroides cellulosilyticus/246787,degradation
+PUL0538,23976882,RNA-seq,CP012801.1,-,galactomannan,BcellWH2_02020-BcellWH2_02034,Bacteroides cellulosilyticus/246787,degradation
+PUL0539,23976882,RNA-seq,CP012801.1,-,pectin,BcellWH2_02076-BcellWH2_02091,Bacteroides cellulosilyticus/246787,degradation
+PUL0540,23976882,RNA-seq,CP012801.1,-,starch,BcellWH2_02435-BcellWH2_02440,Bacteroides cellulosilyticus/246787,degradation
+PUL0541,23976882,RNA-seq,CP012801.1,-,glycosaminoglycan,BcellWH2_02517-BcellWH2_02521,Bacteroides cellulosilyticus/246787,degradation
+PUL0542,10368143,binding assay,DQ868502.2,-,xylan,xynDCEFG-xylM-axe1-xynB2A2-aguEFGA-xynB1-kdgKA-uxuR-uxaC-uxuAB-orfABC-xynAX-aze2-xynB3-xylAB,Geobacillus stearothermophilus/1422,degradation
+PUL0543,23976882,RNA-seq,CP012801.1,-,beta-glucan,BcellWH2_02537-BcellWH2_02542,Bacteroides cellulosilyticus/246787,degradation
+PUL0544,-,-,-,-,-,-,-,-
+PUL0545,23976882,RNA-seq,CP012801.1,-,arabinoxylan,BcellWH2_02906-BcellWH2_02915,Bacteroides cellulosilyticus/246787,degradation
+PUL0546,23976882,RNA-seq,CP012801.1,-,arabinogalactan,BcellWH2_02969-BcellWH2_02976,Bacteroides cellulosilyticus/246787,degradation
+PUL0547,23976882,RNA-seq,CP012801.1,-,beta-mannan,BcellWH2_03032-BcellWH2_03042,Bacteroides cellulosilyticus/246787,degradation
+PUL0548,23976882,RNA-seq,CP012801.1,-,pectin,BcellWH2_03074-BcellWH2_03080,Bacteroides cellulosilyticus/246787,degradation
+PUL0549,23976882,RNA-seq,CP012801.1,-,pectin,BcellWH2_04051-BcellWH2_04056,Bacteroides cellulosilyticus/246787,degradation
+PUL0550,23976882,RNA-seq,CP012801.1,-,glycosaminoglycan,BcellWH2_04089-BcellWH2_04095,Bacteroides cellulosilyticus/246787,degradation
+PUL0551,23976882,RNA-seq,CP012801.1,-,beta-glucan,BcellWH2_04351-BcellWH2_04356,Bacteroides cellulosilyticus/246787,degradation
+PUL0552,23976882,RNA-seq,CP012801.1,-,arabinan,BcellWH2_04902-BcellWH2_04908,Bacteroides cellulosilyticus/246787,degradation
+PUL0553,27142817,RT-PCR;qPCR,FP929033.1,-,xylan,BXY_29170-BXY_29370,Bacteroides xylanisolvens/371601,degradation
+PUL0554,23976882,RNA-seq,CP012801.1,-,starch,BcellWH2_05309-BcellWH2_05314,Bacteroides cellulosilyticus/246787,degradation
+PUL0555,25139987,gene deletion mutant and growth assay;qRT-PCR;microarray;enzyme activity assay,NC_016776.1,-,host glycan,BF638R_0384-BF638R_0392,Bacteroides fragilis/817,degradation
+PUL0556,25139987,gene deletion mutant and growth assay;qRT-PCR;microarray;enzyme activity assay,NC_016776.1,-,host glycan,BF638R_1323-BF638R_1330,Bacteroides fragilis/817,degradation
+PUL0557,-,-,-,-,-,-,-,-
+PUL0558,22205877,gene deletion mutant and growth assay;growth assay;enzyme activity assay,AE015928.1,-,pectin,BT0981-BT1030,Bacteroides thetaiotaomicron/818,degradation
+PUL0559,16968696,gene deletion mutant and growth assay;growth assay;enzyme activity assay;microarray;qPCR,AE015928.1,-,pectin,BT3662-BT3673,Bacteroides thetaiotaomicron/818,degradation
+PUL0560,22205877,microarray;qPCR,AE015928.1,-,arabinogalactan,BT0262-BT0291,Bacteroides thetaiotaomicron/818,degradation
+PUL0561,12406739,clone and expression;enzyme activity assay,NC_004567.2,-,alpha-galactan,lp_3483-lp_3487,Lactobacillus plantarum/1590,degradation
+PUL0562,-,-,-,-,-,-,-,-
+PUL0563,22205877,microarray;qPCR,AE015928.1,-,arabinogalactan,BT3674-BT3687,Bacteroides thetaiotaomicron/818,degradation
+PUL0564,34420703,microarray;qPCR;UHPLC-MS;RNA-seq;RT-qPCR,AE015928.1,-,pectin,BT4145-BT4183,Bacteroides thetaiotaomicron/818,degradation
+PUL0565,27872187,microarray;qPCR,NZ_CP012938.1,-,galactomannan,Bovatus_02923-Bovatus_02932,Bacteroides ovatus/28116,degradation
+PUL0566,29255254,microarray;qPCR,NZ_CP012938.1,-,pectin,Bovatus_04876-Bovatus_04882,Bacteroides ovatus/28116,degradation
+PUL0567,-,-,-,-,-,-,-,-
+PUL0568,10411273,clone and expression;enzyme activity assay;Northern Blot,NZ_CP010086.2,-,starch,scrARBK,Clostridium beijerinckii/1520,degradation
+PUL0569,11739774,clone and expression;enzyme activity assay;Northern Blot,NC_000964.3,-,fructan,sacB-yveB-yveA,Bacillus subtilis/1423,degradation
+PUL0570,12777497,clone and expression;enzyme activity assay,AF508972,-,cellobiose,bglFAG,Corynebacterium glutamicum/1718,degradation
+PUL0571,19638370,Northern Blot,AE006468.2,-,chitin,nadE-osmE-chbACBDFG,Salmonella enterica/28901,degradation
+PUL0572,8335634,enzyme activity assay,CP007224.1,-,alginate,PA96_1392-PA96_1403,Pseudomonas aeruginosa/287,biosynthesis
+PUL0573,19648249,enzyme activity assay;electrophoretic mobility shift assay;RT-PCR;qRT-PCR,NC_010572.1,-,beta-glucan,SGR_RS23570-SGR_RS23590,Streptomyces griseus/1911,degradation
+PUL0574,16822234,enzyme activity assay,NC_002737.2,-,alpha-mannan,spy_1593-spy_1604,Streptococcus pyogenes/1314,degradation
+PUL0575,20946531,microarray;growth assay;gene deletion mutant and growth assay,NZ_ABQA01000009.1,-,raffinose,EFME980_RS04995-EFME980_RS05050,Enterococcus faecium/1352,degradation
+PUL0576,20974960,growth assay,CP001840.1,-,mucin,BBPR_1050–BBPR_1058,Bifidobacterium bifidum/1681,degradation
+PUL0577,21098515,SDS-PAGE;enzyme activity assay,NC_006370.1,-,chitin,PBPRA0516-PBPRA0526,Photobacterium profundum/74109,degradation
+PUL0578,21216899,qRT-PCR;enzyme activity assay;electrophoretic mobility shift assay,CP000303.1,-,beta-glucan,Bbr_0105-Bbr_0109,Bifidobacterium breve/1685,degradation
+PUL0579,21488982,microarray;qRT-PCR;Western Blot;immunoprecipitation,NC_002505.1,-,glycosaminoglycan,VC_RS04905-VC_RS04915,Vibrio cholerae/666,degradation
+PUL0580,21488982,microarray;qRT-PCR;Western Blot;immunoprecipitation,NC_002505.1,-,glycosaminoglycan,VC_RS08595-VC_RS08605,Vibrio cholerae/666,degradation
+PUL0581,22286980,SDS-PAGE;enzyme activity assay,AB669415,-,fructan,sacA-pfk-inu,Microbulbifer sp. JAM-3301/1081041,degradation
+PUL0582,22660716,NMR;microarray;enzyme activity assay;gene deletion mutant and growth assay,AM406671.1,-,human milk oligosaccharide,llmg_0186-llmg_0190,Lactococcus lactis/1358,degradation
+PUL0583,8407820,enzyme activity assay;gene deletion mutant and growth assay,U07818.1,-,cellobiose,celABCD,Geobacillus stearothermophilus/1422,degradation
+PUL0584,23530958,microarray,CP001834.1,-,melibiose,LLKF_2259-LLKF_2269,Lactococcus lactis/1358,degradation
+PUL0585,21778207,microarray;gene deletion mutant and growth assay;beta-galactosidase assays,CP000410.2,-,cellobiose,celA-celD,Streptococcus pneumoniae/1313,degradation
+PUL0586,23047109,enzyme activity assay,AB728624.1,-,chitin,ybfMN-ctb,Serratia marcescens/615,degradation
+PUL0587,23266804,RT-PCR;enzyme activity assay,CP019300.1,-,fructan,fruABK,Prevotella intermedia/28131,degradation
+PUL0588,23278377,enzyme activity assay;RT-PCR,AL645882.2,-,chitin,SCO5232-SCO5235,Streptomyces coelicolor/1902,degradation
+PUL0589,23930155,Western Blot;enzyme activity assay;thin-layer chromatography,CP007016.1,-,starch,SMUFR_1357-SMUFR_1359,Streptococcus mutans/1309,degradation
+PUL0590,23951303,qRT-PCR;gene deletion mutant and growth assay;microarray,NZ_ABQJ01000017.1,-,starch,EFME1162_RS11430-EFME1162_RS11450,Enterococcus faecium/1352,degradation
+PUL0591,23667565,growth assay;Northern Blot,NC_000964.3,-,glycosaminoglycan,hprk-nagA-nagBA-nagR,Bacillus subtilis/1423,degradation
+PUL0592,25063665,qRT-PCR,CP001656.1,-,xylan,PJDR2_1318-1325,Paenibacillus sp. JDR-2/324057,degradation
+PUL0593,8576036,Northern Blot,M57692.1,-,starch,amyBEDCA,Thermoanaerobacterium thermosulfurigenes/33950,degradation
+PUL0594,25063665,qRT-PCR,CP001656,-,xylan,PJDR2_3596-3599,Paenibacillus sp. JDR-2/324057,degradation
+PUL0595,25388295,enzyme activity assay;qPCR;crystallization,FP929042,-,starch,EUR_21100-21130,[Eubacterium] rectale/39491,degradation
+PUL0596,25388295,enzyme activity assay;qPCR;crystallization,FP929042,-,starch,EUR_01830-01860,[Eubacterium] rectale/39491,degradation
+PUL0597,25862223,enzyme activity assay;enzyme kinetic analysis,KM066603,-,arabinoxylan,xylHEFGD,Corynebacterium alkanolyticum/909925,degradation
+PUL0598,26020016,liquid chromatography and mass spectrometry;differential gene expression,CP002160.1,-,xylan,Clocel_0589-0592,Clostridium cellulovorans 743B/573061,degradation
+PUL0599,26020016,liquid chromatography and mass spectrometry;differential gene expression,CP002160.1,-,xylan,Clocel_2592-Clocel_2598,Clostridium cellulovorans/1493,degradation
+PUL0600,26020016,liquid chromatography and mass spectrometry;differential gene expression,CP002160.1,-,galactomannan,Clocel_3194-Clocel_3205,Clostridium cellulovorans/1493,degradation
+PUL0601,26020016,liquid chromatography and mass spectrometry;differential gene expression,CP002160.1,-,pectin,Clocel_2249-Clocel_2264,Clostridium cellulovorans/1493,degradation
+PUL0602,26442136,sequence homology analysis,CP002835.1,-,xylan,Geoth_2242-Geoth_2272,Parageobacillus thermoglucosidasius/1426,degradation
+PUL0603,31703861,microarray;qRT-PCR;culureing methods,NC_004567.2,-,galactomannan,LP_RS12650-LP_RS12660,Lactobacillus plantarum WCFS1/1590,degradation
+PUL0604,31703861,microarray;qRT-PCR;culureing methods,NC_004567.2,-,galactomannan,LP_RS00750-LP_RS00770,Lactobacillus plantarum WCFS1/1590,degradation
+PUL0605,21029047,RT-PCR;gene deletion mutant and growth assay,CP025268.1,-,glycogen,CXP41_18685-CXP41_18705,Escherichia coli/562,biosynthesis
+PUL0606,32385941,enzyme activity assay;clone and expression,NC_020517.1,-,beta-galactooligosaccharide,BBR_RS11735-BBR_RS11745,Bifidobacterium breve UCC2003/1685,degradation
+PUL0607,32520542,enzyme activity assay;clone and expression;liquid chromatography and mass spectrometry,NZ_CP014224.1,-,agarose,AXE80_RS06895-AXE80_RS07005,Wenyingzhuangia fucanilytica strain CZ1127/1790137,degradation
+PUL0608,32620774,enzyme activity assay;clone and expression;liquid chromatography and mass spectrometry;thin-layer chromatography;MALDI-TOF/MS,NC_015977.1,-,human milk oligosaccharide,RHOM_RS04015-RHOM_RS04055,Roseburia hominis DSM 16839/301301,degradation
+PUL0609,32620774,enzyme activity assay;clone and expression;liquid chromatography and mass spectrometry;thin-layer chromatography;MALDI-TOF/MS,NZ_ACFY01000084.1,-,human milk oligosaccharide,ROSEINA2194_RS08245-ROSEINA2194_RS08295,Roseburia inulinivorans DSM 16841/360807,degradation
+PUL0610,31992772,enzyme activity assay;strcutural analysis,CP001807.1,-,xylan,Rmar_1067-Rmar_1081,Rhodothermus marinus/29549,degradation
+PUL0611,32071270,liquid chromatography and mass spectrometry,RHLG01000001.1,-,alpha-glucan,ED556_00425-ED556_00490,Winogradskyella sp. isolate Bin3/1883156,degradation
+PUL0612,32071270,liquid chromatography and mass spectrometry,RHLF01000001.1,-,alpha-glucan,ED555_05795-ED555_05845,Muricauda sp. isolate Bin2/192149,degradation
+PUL0613,33113351,RNA-seq,JABKKG010000003.1,-,host glycan,HPS57_05940-HPS57_05965,Prevotella sp. PINT/2736291,degradation
+PUL0614,33113351,RNA-seq,JABKKG010000004.1,-,pectin,HPS57_06680-HPS57_06690,Prevotella sp. PINT/2736291,degradation
+PUL0615,33113351,RNA-seq,JABKKG010000004.1,-,pectin,HPS57_07910-HPS57_07935,Prevotella sp. PINT/2736291,degradation
+PUL0616,33113351,RNA-seq,JABKKG010000005.1,-,pectin,HPS57_08295-HPS57_08340,Prevotella sp. PINT/2736291,degradation
+PUL0617,33113351,RNA-seq,JABKKG010000005.1,-,xylan,HPS57_08475-HPS57_08540,Prevotella sp. PINT/2736291,degradation
+PUL0618,33113351,RNA-seq,JABKKG010000006.1,-,pectin,HPS57_09935-HPS57_09960,Prevotella sp. PINT/2736291,degradation
+PUL0619,33113351,RNA-seq,JABKKE010000013.1,-,xylan,HPS55_08870-HPS55_08890,Prevotella sp. PROD/2736291,degradation
+PUL0620,33113351,RNA-seq,JABKKE010000016.1,-,xylan,HPS55_09945-HPS55_09990,Prevotella sp. PROD/2736291,degradation
+PUL0621,33113351,RNA-seq,JABKKE010000002.1,-,pectin,HPS55_02230-HPS55_02270,Prevotella sp. PROD/2736291,degradation
+PUL0622,33113351,RNA-seq,JABKKE010000021.1,-,xylan,HPS55_11495-HPS55_11570,Prevotella sp. PROD/2736291,degradation
+PUL0623,33113351,RNA-seq,JABKKF010000001.1,-,pectin,HPS56_01020-HPS56_01090,Prevotella sp. PMUR/2736291,degradation
+PUL0624,33113351,RNA-seq,JABKKF010000001.1,-,xylan,HPS56_01555-HPS56_01605,Prevotella sp. PMUR/2736291,degradation
+PUL0625,33113351,RNA-seq,JABKKF010000013.1,-,xylan,HPS56_11565-HPS56_11655,Prevotella sp. PMUR/2736291,degradation
+PUL0626,33119797,high-performance anion-exchange chromatography,JAATOH010000049.1,-,arabinan,HCN73_09280-HCN73_09400,Lactobacillus crispatus DSM29598/47770,degradation
+PUL0627,-,-,-,-,-,-,-,-
+PUL0628,-,-,-,-,-,-,-,-
+PUL0629,-,-,-,-,-,-,-,-
+PUL0630,33187992,enzyme activity assay;affinity gel electrophoresis,HF548280.1,-,xylan,BN138_221-BN138_229,termite gut metagenome/433724,degradation
+PUL0631,33310406,growth assay;sequence homology analysis,NZ_CP060437.1,-,alginate,PSAL_RS18385-PSAL_RS18420,Pseudooceanicola algae Lw-13e/1537215,degradation
+PUL0632,33439065,recombinant protein expression,NZ_ACFY01000156.1,-,fructan,ROSEINA2194_RS16655-ROSEINA2194_RS16680,Roseburia inulinivorans DSM 16841/360807,degradation
+PUL0633,33439065,recombinant protein expression,NZ_CVRR01000009.1,-,fructan,M72_RS04730-M72_RS04755,Roseburia faecis M72/301302,degradation
+PUL0634,33439065,recombinant protein expression,NC_012781.1,-,fructan,EUBREC_RS01145-EUBREC_RS01170,Eubacterium rectale ATCC 33656 /39491,degradation
+PUL0635,33439065,recombinant protein expression,NZ_BLYL01000002.1,-,fructan,JMF79_RS02630-JMF79_RS02655,Coprococcus eutactus JCM 31265/33043,degradation
+PUL0636,33439065,recombinant protein expression,NZ_BLYL01000009.1,-,fructan,JMF79_RS08410-JMF79_RS08440,Coprococcus eutactus JCM 31265/33043,degradation
+PUL0637,33439065,recombinant protein expression,NZ_CP022479.1,-,fructan,CG447_RS09250-CG447_RS09270,Faecalibacterium prausnitzii A2165/853,degradation
+PUL0638,33439065,recombinant protein expression,NZ_KB290636.1,-,fructan,HMPREF0369_RS01715-HMPREF0369_RS01745,Anaerostipes hadrus DSM 3319/649756,degradation
+PUL0639,33439065,recombinant protein expression,NZ_KB290676.1,-,fructan,HMPREF0369_RS08180-HMPREF0369_RS08195,Anaerostipes hadrus DSM 3319/649756,degradation
+PUL0640,33439065,recombinant protein expression,NZ_KB290658.1,-,fructan,HMPREF0369_RS06055-HMPREF0369_RS13555,Anaerostipes hadrus DSM 3319/649756,degradation
+PUL0641,33439065,recombinant protein expression,NZ_DS499729.1,-,fructan,ANACAC_RS03035-ANACAC_RS03070,Anaerostipes caccae L1-92 DSM 14662/105841,degradation
+PUL0642,33439065,recombinant protein expression,NZ_LR027880.1,-,starch,RIL182_RS20205-RIL182_RS20255,Roseburia intestinalis L1-82/166486,degradation
+PUL0643,33469030,enzyme activity assay;liquid chromatography;high-performance anion-exchange chromatography;qRT-PCR;crystallization,NZ_ABJL02000007.1,-,arabinoxylan,BACINT_RS04710-BACINT_RS04765,Bacteroides intestinalis DSM 17393/329854,degradation
+PUL0644,33469030,enzyme activity assay;liquid chromatography;high-performance anion-exchange chromatography;qRT-PCR;crystallization,NZ_EQ973490.1,-,arabinoxylan,BACCELL_RS09475-BACCELL_RS09535,Bacteroides cellulosilyticus DSM 14838/246787,degradation
+PUL0645,33469030,enzyme activity assay;liquid chromatography;high-performance anion-exchange chromatography;qRT-PCR;crystallization,NZ_JH992941.1,-,arabinoxylan,HMPREF9447_RS12390-HMPREF9447_RS12435,Bacteroides oleiciplenus YIT 12058/626931,degradation
+PUL0646,33587952,recombinant protein expression;crystallization;affinity gel electrophoresis;isothermal titration calorimetry (ITC),NZ_GL882612.1,-,beta-glucan,HMPREF9446_RS02735-HMPREF9446_RS02760,Bacteroides fluxus YIT 12057/626930,degradation
+PUL0647,33603728,qPCR,NC_004350.2,-,starch,SMU_1535-SMU_1539,Streptococcus mutans UA159/1309,biosynthesis
+PUL0648,33667545,high-performance anion-exchange chromatography;substrate binding assay;thin-layer chromatography;NMR;mass spectrometry;crystallization,NZ_GL892007.1,-,xylan,HMPREF9456_RS11100-HMPREF9456_RS11280,Dysgonomonas mossii DSM 22836/163665,degradation
+PUL0649,-,-,-,-,-,-,-,-
+PUL0650,33674431,enzyme activity assay;high-performance anion-exchange chromatography;recombinant protein expression;NMR;gene deletion mutant and growth assay,NZ_AP022379.1,-,arabinogalactan,BLGA_RS00155-BLGA_RS00185,Bifidobacterium longum JCM 7052/216816,degradation
+PUL0651,33691998,enzyme activity assay;NMR,NZ_KB898707.1,-,agarose,D568_RS0106305-D568_RS0106625,Gilvimarinus chinensis DSM 19667/396005,degradation
+PUL0652,-,-,-,-,-,-,-,-
+PUL0653,33889146,gene deletion mutant and growth assay;complementation study;enzyme activity assay;RNA-seq;electrophoretic mobility shift assay,AL645882.2,-,agarose,SCO3471-SCO3487,Streptomyces coelicolor A3(2)/1902,degradation
+PUL0654,33912144,sequence homology analysis,NZ_CAJQES010000007.1,-,alginate,KCP55_RS03985-KCP55_RS04175,Maribacter dokdonensis 62-1/320912,degradation
+PUL0655,33912144,sequence homology analysis,NZ_CAJQES010000017.1,-,alginate,KCP55_RS09490-KCP55_RS09545,Maribacter dokdonensis 62-1/320912,degradation
+PUL0656,-,-,-,-,-,-,-,-
+PUL0657,33208778,recombinant protein expression;NMR,LC529899.1,-,levoglucosan,None,Bacillus smithii S-2701M/1479,degradation
+PUL0658,34061597,qPCR;growth assay,NC_021020.1,-,beta-mannooligosaccharide,FPR_RS08610-FPR_RS08675,Faecalibacterium prausnitzii SL3/3/853,degradation
+PUL0659,34061597,qPCR;growth assay,NC_021020.1,-,beta-mannooligosaccharide,FPR_RS04860-FPR_RS04865,Faecalibacterium prausnitzii SL3/3/853,degradation
+PUL0660,-,-,-,-,-,-,-,-
+PUL0661,-,-,-,-,-,-,-,-
+PUL0662,34339781,thin-layer chromatography;liquid chromatography and mass spectrometry;qPCR;clone and expression,NZ_DS995531.1,-,beta-mannan,BACDOR_RS18975-BACDOR_RS18935,Phocaeicola dorei DSM 17855/357276,degradation
+PUL0663,34340552,thin-layer chromatography;clone and expression;recombinant protein expression,NZ_DS990123.1,-,arabinogalactan,BACPLE_RS05590-BACPLE_RS05620,Bacteroides plebeius DSM17135/310297,degradation
+PUL0664,34340552,thin-layer chromatography;clone and expression;recombinant protein expression,NZ_DS990119.1,-,arabinogalactan,BACPLE_RS02415-BACPLE_RS02485,Bacteroides plebeius DSM17135/310297,degradation
+PUL0665,34420703,UHPLC-MS;RNA-seq;RT-qPCR,NC_004663.1,-,pectin,BT_3043-BT_3049,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0666,34420703,UHPLC-MS;RNA-seq;RT-qPCR,NC_004663.1,-,pectin,BT_3654-BT_3658,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0667,34420703,UHPLC-MS;RNA-seq;RT-qPCR,NC_004663.1,-,pectin,BT_3763-BT_3766,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0668,-,-,-,-,-,-,-,-
+PUL0669,34480044,clone;high-performance anion-exchange chromatography;enzymatic product analysis,NZ_GL622542.1,-,xylan,HMPREF1016_RS10680-HMPREF1016_RS10800,Bacteroides eggerthii 1_2_48FAA/28111,degradation
+PUL0670,-,-,-,-,-,-,-,-
+PUL0671,34731049,gene deletion mutant and growth assay;enzyme activity assay;Western Blot;qPCR,NC_008255.1,-,cellulose,CHU_RS04470-CHU_RS04490,Cytophaga hutchinsonii ATCC 33406/985,degradation
+PUL0672,-,-,-,-,-,-,-,-
+PUL0673,34757822,NMR;substrate binding assay;liquid chromatography and mass spectrometry,NZ_AP012330.1,-,human milk oligosaccharide,BBPC_RS08935-BBPC_RS08970,Bifidobacterium pseudocatenulatum DSM20438/28026,degradation
+PUL0674,31062073,microarray;enzyme activity assay;high-performance anion-exchange chromatography;mass spectrometry;RNA-seq;affinity gel electrophoresis;carbohydrate binding assay;microscale thermophoresis,NZ_DS264579.1,-,beta-glucan,BACOVA_RS11920-BACOVA_RS25995,Bacteroides ovatus ATCC 8483/28116,degradation
+PUL0675,34910566,recombinant protein expression;enzyme activity assay;liquid chromatography;growth assay,NZ_MWQX02000053.1,-,levoglucosan,B4U61_RS26520-B4U61_RS26540,Klebsiella pneumoniae MEC097/573,degradation
+PUL0676,34910566,recombinant protein expression;enzyme activity assay;liquid chromatography,NZ_MYFP02000002.1,-,levoglucosan,B5M43_RS04125-B5M43_RS04145,Microbacterium MEC084/1963027,degradation
+PUL0677,34910566,recombinant protein expression;enzyme activity assay;liquid chromatography,NZ_MYFN02000025.1,-,levoglucosan,B5M41_RS25470-B5M41_RS25490,Shinella sumterensis MEC087/1967501,degradation
+PUL0678,34980384,RNA-seq;thin-layer chromatography;growth assay,JAHNZS010000006.1,-,inulin,KRR22_04155-KRR22_04175,Lactiplantibacillus plantarum QS7T/1590,degradation
+PUL0679,34980384,RNA-seq;thin-layer chromatography;growth assay,JAHNZS010000043.1,-,inulin,KRR22_13610-KRR22_13640,Lactiplantibacillus plantarum QS7T/1590,degradation
+PUL0680,34731054,gene deletion mutant and growth assay;clone and expression;qRT-PCR;high-performance anion-exchange chromatography;crystallization;recombinant protein expression,NZ_DS362248.1,-,xyloglucan,BACUNI_RS15325-BACUNI_RS15390,Bacteroides uniformis ATCC 8492/820,degradation
+PUL0681,35110564,enzyme activity assay;NMR,JABUTP010000015.1,-,pectic polysaccharide,HUJ91_01905-HUJ91_01950,Bacteroidaceae bacterium/2212467,degradation
+PUL0682,35110564,enzyme activity assay;affinity gel electrophoresis,JABUUE010000008.1,-,xylan,HUK06_02115-HUK06_02125,Bacteroidaceae bacterium/2212467,degradation
+PUL0683,35293315,enzyme activity assay;recombinant protein expression,NC_009004.1,-,nigerooligosaccharide,LLMG_RS09190-LLMG_RS09215,Lactococcus cremoris subsp. cremoris MG1363/1358,degradation
+PUL0684,35328813,proteomic analysis,NZ_CP016797.1,-,beta-glucan,AZI09_RS10350-AZI09_RS10360,Levilactobacillus brevis TMW 1.2112/1580,degradation
+PUL0685,-,-,-,-,-,-,-,-
+PUL0686,35768476,enzyme activity assay;liquid chromatography and mass spectrometry;substrate degradation assay;assimilation assay,NZ_GG694015.1,-,hyaluronan,HMPREF0444_RS02850-HMPREF0444_RS02930,Granulicatella adiacens ATCC 49175/46124,degradation
+PUL0687,27573446,growth assay;RNA-seq,CP000139.1,-,xylooligosaccharide,None,Bacteroides vulgatus ATCC 8482/821,degradation
+PUL0688,34149636,clone and expression;crystallization;recombinant protein expression;thin-layer chromatography,NC_004663.1,-,galactooligosaccharide,BT_RS15970-BT_RS15995,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0689,37598339,clone and expression;crystallization;recombinant protein expression;thin-layer chromatography,NC_004663.1,-,galactooligosaccharide,BT_RS14460-BT_RS14505,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0690,39330254,electrophoretic mobility shift assay;qRT-PCR;gene deletion mutant and growth assay,NC_004663.1,-,raffinose family oligosaccharides,BT_RS09495-BT_RS09530,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0691,36409133,recombinant protein expression;qRT-PCR,NZ_CP090614.1,-,alginate,LZI70_00740-LZI70_00795,Vibrio pelagius WXL662/28169,degradation
+PUL0692,36409133,recombinant protein expression;qRT-PCR,NZ_CP090615.1,-,alginate,LZI70_17630-LZI70_17755,Vibrio pelagius WXL662/28169,degradation
+PUL0693,36409133,recombinant protein expression;qRT-PCR,NZ_CP090616.1,-,alginate,LZI70_20365-LZI70_20445,Vibrio pelagius WXL662/28169,degradation
+PUL0694,34060910,recombinant protein expression;SDS-PAGE;HPLC,NC_012034,-,xylan,ATHE_RS00855-ATHE_RS00920,Caldicellulosiruptor bescii DSM 6725/31899,degradation
+PUL0695,34060910,recombinant protein expression;SDS-PAGE;HPLC,NC_012034,-,xylan,ATHE_RS03060-ATHE_RS03080,Caldicellulosiruptor bescii DSM 6725/31899,degradation
+PUL0696,34060910,recombinant protein expression;SDS-PAGE;HPLC,NC_012034,-,xylan,ATHE_RS04240-ATHE_RS04290,Caldicellulosiruptor bescii DSM 6725/31899,degradation
+PUL0697,34060910,recombinant protein expression;SDS-PAGE;HPLC,NC_012034,-,xylan,ATHE_RS13755-ATHE_RS13765,Caldicellulosiruptor bescii DSM 6725/31899,degradation
+PUL0698,36411326,clone and expression;high-performance anion-exchange chromatography;crystallization,NZ_JQNJ01000001.1,-,beta-mannan,FG28_RS02275-FG28_RS02380,Muricauda sp. MAR_2010_75/111500,degradation
+PUL0699,36557749,RT-qPCR;high-performance anion-exchange chromatography,NC_015977.1,-,beta-mannan,RHOM_RS11115-RHOM_RS11180,Roseburia hominis A2-183/585394,degradation
+PUL0700,36112631,Enzymatic activity assay;Fluorophore-assisted carbohydrate electrophoresis;Recombinant expression,NC_016610.1,-,glycosaminoglycan,BFO_RS09965-BFO_RS09965,Tannerella forsythia 92A2/203275,degradation
+PUL0701,25595763,qRT-PCR;enzyme activity assay,NC_003919.1,-,xyloglucan,XAC_RS21315-XAC_RS21485,Xanthomonas citri pv. citri str. 306/346,degradation
+PUL0702,34193873,enzyme activity assay;gene deletion mutant and growth assay,NC_003919.1,-,xyloglucan,XAC_RS09010-XAC_RS09040,Xanthomonas citri pv. citri str. 306/346,degradation
+PUL0703,37002465,enzyme activity assay;recombinant protein expression;thin-layer chromatography,NZ_CP098511.1,-,agarose,NBT05_RS08975-NBT05_RS09160,Aquimarina sp. ERC-38/2949996,degradation
+PUL0704,37121608,fluorophore-assisted carbohydrate electrophoresis (FACE);dinitrosalicylic acid-assay (DNS-assay);HPLC;clone and expression,NZ_JPOL01000002.1,-,xylan,P162_RS02310-P162_RS02395,Flavimarina sp. Hel_I_48/1392488,degradation
+PUL0705,37121608,fluorophore-assisted carbohydrate electrophoresis (FACE);dinitrosalicylic acid-assay (DNS-assay);HPLC;clone and expression,NZ_JPOL01000002.1,-,xylan,P162_RS17810-P162_RS04080,Flavimarina sp. Hel_I_48/1392488,degradation
+PUL0706,37265394,RNA-seq;growth assay,NC_008228.1,-,agar,PATL_RS04110-PATL_RS04320,Pseudoalteromonas atlantica T6c/288,degradation
+PUL0707,37265394,RNA-seq;growth assay,NC_008228.1,-,agar,PATL_RS09875-PATL_RS10110,Pseudoalteromonas atlantica T6c/288,degradation
+PUL0708,37265394,RNA-seq;growth assay,NC_008228.1,-,agar,PATL_RS11745-PATL_RS11950,Pseudoalteromonas atlantica T6c/288,degradation
+PUL0709,37265394,RNA-seq;growth assay,NC_008228.1,-,agar,PATL_RS13010-PATL_RS13155,Pseudoalteromonas atlantica T6c/288,degradation
+PUL0710,37337046,RNA-seq;growth assay;liquid chromatography and mass spectrometry;gene mutant;mice colonization with mutant,NC_010655.1,-,mucin,AMUC_RS02970-AMUC_RS11800,Akkermansia muciniphila ATCC BAA-835/239935,degradation
+PUL0711,37337046,RNA-seq;growth assay;liquid chromatography and mass spectrometry;gene mutant;mice colonization with mutant,NC_010655.1,-,mucin,AMUC_RS05890-AMUC_RS05910,Akkermansia muciniphila ATCC BAA-835/239935,degradation
+PUL0712,37451376,growth assay;RNA-seq;qPCR,NC_004663.1,-,pectic polysaccharide,BT_RS16380-BT_RS16435,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0713,37451376,growth assay;RNA-seq;qPCR,NC_004663.1,-,pectic polysaccharide,BT_RS18030-BT_RS18045,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0714,37500984,clone and expression;crystallization;isothermal titration calorimetry (ITC);thin-layer chromatography;Western Blot;gene mutant,NZ_CP012938.1,-,starch,Bovatus_RS18560-Bovatus_RS18595,Bacteroides ovatus strain ATCC 8483 /28116,degradation
+PUL0715,37540808,clone and expression;enzyme activity assay;ultra-performance liquid chromatography–mass spectrometry(UPLC-MS),NZ_CP014224.1,-,alginate,AXE80_RS11190-AXE80_RS11245,Wenyingzhuangia fucanilytica CZ1127/1790137,degradation
+PUL0716,37550707,growth assay;RT-PCR,JAPFGC010000002.1,-,arabinan,OOZ35_13080-OOZ35_13155,Mesoflavibacter profundi MTRN7/2708110,degradation
+PUL0717,37598339,gene mutant;mice colonization with mutant,NC_004663.1,-,raffinose family oligosaccharides,BT_RS15855-BT_RS15875,Bacteroides thetaiotaomicron VPI-5482/818,degradation
+PUL0718,37791757,LC-ESI-MS;enzyme activity assay;recombinant protein expression;enzyme kinetic analysis,NZ_CP113514.1,-,alginate,OU990_RS24725-OU990_RS24780,Bacteroides ovatus strain CP926/28116,degradation
+PUL0719,37855631,RNA-seq;growth assay,NC_003919.1,-,starch,XAC_RS13215-XAC_RS13250,Xanthomonas citri pv. citri str. 306/346,degradation
+PUL0720,24385433,HPAEC-PAD;enzyme kinetic analysis;thin-layer chromatography;recombinant protein expression;gene mutant,NC_015067.1,-,arabinan,BLLJ_RS01065-BLLJ_RS01100,Bifidobacterium longum JCM 1217/216816,degradation
+PUL0721,38167825,RNA-seq;RT-qPCR;gene deletion mutant and growth assay,NZ_CP046176.1,-,human milk oligosaccharide,GKD17_RS15795-GKD17_RS15855,Phocaeicola dorei strain DSM 17855/357276,degradation
+PUL0722,38169280,RNA-seq;mass spectrometry;SDS-PAGE;isothermal titration calorimetry (ITC);high-performance anion-exchange chromatography;enzyme kinetic analysis;thin-layer chromatography,NZ_CP074436.1,-,xylan,JOP69_RS09760-JOP69_RS09905,Polaribacter sp. Q13/2806551,degradation
+PUL0723,38179933,crystallization;high-performance anion-exchange chromatography;enzyme activity assay,NZ_DS995531.1,-,pectin,BACDOR_RS19925-BACDOR_RS19845,Phocaeicola dorei DSM 17855/357276,degradation
+PUL0724,38179933,crystallization;high-performance anion-exchange chromatography;enzyme activity assay,NC_009614.1,-,pectin,BVU_RS00880-BVU_RS00960,Phocaeicola vulgatus ATCC 8482/821,degradation
+PUL0725,38180643,NMR;clone and expression;enzyme kinetic analysis,NZGN01000053.1,-,alpha-glucan,CMH04_05580-CMH04_05620,Marinovum sp./2024839,degradation
+PUL0726,35074914,reducing-sugar assay;NMR;clone and expression;liquid chromatography and mass spectrometry;mass spectrometry,NC_003063.2,-,sulfosugar,ATU_RS15135-ATU_RS15175,Agrobacterium tumefaciens str. C58/1176649,degradation
+PUL0727,38203394,SDS-PAGE;NMR;enzyme activity assay;size-exclusion chromatography (SEC),NZ_CP014224.1,-,fucoidan,AXE80_RS07320-AXE80_RS07465,Wenyingzhuangia fucanilytica strain CZ1127/1790137,degradation
+PUL0728,38299857,HPAEC-PAD;SDS-PAGE;clone and expression,JABDHV010000033.1,-,human milk oligosaccharide,HHJ01_10845-HHJ01_10930,Akkermansia muciniphila CSUN-19/239935,degradation
+PUL0729,38357353,RT-PCR;gene mutant;enzyme activity assay,NC_020238.1,-,cellobiose,HD73_RS27950-HD73_RS27990,Bacillus thuringiensis serovar kurstaki str. HD73/1428,degradation
+PUL0730,38442258,enzyme activity assay;recombinant protein expression;NMR;HPLC;clone and expression,NC_014934.1,-,carrageenan,CELAL_RS02055-CELAL_RS02135,Cellulophaga algicola DSM 14237/59600,degradation
+PUL0731,38442258,enzyme activity assay;recombinant protein expression;NMR;HPLC;clone and expression,NZ_KI912107.1,-,carrageenan,CYTFE_RS0104030-CYTFE_RS24910,Saccharicrinis fermentans DSM 9555/982,degradation
+PUL0732,38442258,enzyme activity assay;recombinant protein expression;NMR;HPLC;clone and expression,NZ_CP009976.1,-,carrageenan,M666_RS19460-M666_RS19550,Cellulophaga baltica 18/76594,degradation
+PUL0733,38442258,enzyme activity assay;recombinant protein expression;NMR;HPLC;clone and expression,NZ_KB890760.1,-,carrageenan,B050_RS0121320-B050_RS0121395,Echinicola pacifica DSM 19836/346377,degradation
+PUL0734,38442258,enzyme activity assay;recombinant protein expression;NMR;HPLC;clone and expression,NC_015167.1,-,carrageenan,CELLY_RS08985-CELLY_RS09080,Cellulophaga lytica DSM 7489/979,degradation
+PUL0735,38542148,enzyme activity assay;clone and expression;reducing-sugar assay;thin-layer chromatography;SDS-PAGE,NZ_JDUC01000011.1,-,arabinan,OU05_RS07025-OU05_RS07105,Bifidobacterium longum subsp. suis DSM 20211/216816,degradation
+PUL0736,38563787,RNA-seq;RT-qPCR;enzyme activity assay;thin-layer chromatography;Western Blot;recombinant protein expression;DSS-induced mouse colitis model,NZ_GL882595.1,-,alginate,HMPREF9445_RS08890-HMPREF9445_RS08935,Bacteroides clarus YIT 12056/626929,degradation
+PUL0737,38569650,mass spectrometry;SDS-PAGE;growth assay,NZ_VISB01000001.1,-,arabinogalactan,JM81_RS00845-JM81_RS00920,Maribacter sp. MAR_2009_72/1250050,degradation
+PUL0738,38569650,mass spectrometry;SDS-PAGE;growth assay,NZ_VISB01000001.1,-,arabinogalactan,JM81_RS13670-JM81_RS13905,Maribacter sp. MAR_2009_72/1250050,degradation
+PUL0739,38569650,mass spectrometry;SDS-PAGE;growth assay,NZ_VISB01000001.1,-,arabinogalactan,JM81_RS16360-JM81_RS16640,Maribacter sp. MAR_2009_72/1250050,degradation
+PUL0740,31489370,RNA-seq;ion chromatography;HPLC;growth assay,NC_011593.1,-,human milk oligosaccharide,BLON_RS11370-BLON_RS11380,Bifidobacterium longum subsp. infantis ATCC 15697/216816,degradation
+PUL0741,32985563,RNA-seq;ion chromatography;HPLC;growth assay,NC_011593.1,-,human milk oligosaccharide,BLON_RS11945-BLON_RS11970,Bifidobacterium longum subsp. infantis ATCC 15697/216816,degradation
+PUL0742,31489370,gene deletion and growth assay;recombinant protein expression;crystallization;isothermal titration calorimetry (ITC);RNA-seq;ion chromatography;HPLC;growth assay,NC_011593.1,-,human milk oligosaccharide,BLON_RS01780-BLON_RS01805,Bifidobacterium longum subsp. infantis ATCC 15697/216816,degradation
+PUL0743,38789996,gene mutant;SDS-PAGE;Western Blot;recombinant protein expression;thermal shift assay (TSA);isothermal titration calorimetry (ITC);HPAEC-PAD;RT-qPCR;fluorescence measurements,NC_011898.1,-,xylan,CCEL_RS06265-CCEL_RS06325,Ruminiclostridium cellulolyticum H10/1521,degradation
+PUL0744,38876592,RNA-seq;HPLC;gene mutant;differential gene expression,NC_002973.6,-,lactose,LMOF2365_RS13945-LMOF2365_RS13965,Listeria monocytogenes serotype 4b str. F2365/1639,degradation
+PUL0745,38890895,high performance gel permeation chromatography;gas chromatography;RNA-seq;differential gene expression,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS00070-Bovatus_RS00125,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0746,38890895,high performance gel permeation chromatography;gas chromatography;RNA-seq;differential gene expression,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS01515-Bovatus_RS01545,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0747,38890895,high performance gel permeation chromatography;gas chromatography;RNA-seq;differential gene expression,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS08285-Bovatus_RS08335,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0748,38930854,Reducing End Assay;HPAEC-PAD,NZ_CP028092.1,-,glycogen,C1N53_RS10675-C1N53_RS10740,Pontibacter sp. SGAir0037/2571030,degradation
+PUL0749,39012103,affinity gel electrophoresis,OZ022674.1,-,beta-glucan,None,uncultured bacterium/77133,degradation
+PUL0750,39636128,RNA-seq;BCA assay;pNP glycoside assay;HPAEC-PAD;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,beta-glucan,NQ544_RS01005-NQ544_RS01055,Segatella copri DSM 18205/165179,degradation
+PUL0751,39160293,SDS-PAGE;enzyme activity assay,NZ_JAEFCJ010000001.1,-,lactose,JDA82_RS18815-JDA82_RS18830,Escherichia coli 8178/562,degradation
+PUL0752,39500763,thin-layer chromatography;HPAEC-PAD;recombinant protein expression;in vitro assimilation,NZ_CP084061.1,-,fructo-disaccharide,LC508_RS12670-LC508_RS12715,Blautia parvula NBRC 113351/2877527,degradation
+PUL0753,39500763,in vitro assimilation,NZ_CP022413.2,-,fructo-disaccharide,CGC63_RS02540-CGC63_RS02590,Blautia hansenii DSM 20583/1322,degradation
+PUL0754,39500763,in vitro assimilation,NZ_GG657685.1,-,fructo-disaccharide,RUMHYD_RS09740-RUMHYD_RS09780,Blautia hydrogenotrophica DSM 10507/53443,degradation
+PUL0755,39500763,in vitro assimilation,NZ_BTHI01000008.1,-,fructo-disaccharide,ACKTSV_RS05520-ACKTSV_RS05580,Blautia wexlerae JCM 35486/418240,degradation
+PUL0756,39510934,RNA-seq;qRT-PCR,NZ_JH815203,-,N-glycan,HMPREF9448_RS01765-HMPREF9448_RS01820,Barnesiella intestinihominis/742726,degradation
+PUL0757,39510934,RNA-seq;qRT-PCR,NZ_JH815204,-,N-glycan,HMPREF9448_RS05240-HMPREF9448_RS05260,Barnesiella intestinihominis/742726,degradation
+PUL0758,39510934,RNA-seq;qRT-PCR,NZ_JH815204,-,N-glycan,HMPREF9448_RS08020-HMPREF9448_RS08030,Barnesiella intestinihominis/742726,degradation
+PUL0759,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,Hemicellulose,NQ544_01410-NQ544_01420,Segatella copri DSM 18205/537011,degradation
+PUL0760,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,Hemicellulose,NQ544_02170-NQ544_02200,Segatella copri DSM 18205/537011,degradation
+PUL0761,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,Hemicellulose,NQ544_12655-NQ544_12700,Segatella copri DSM 18205/537011,degradation
+PUL0762,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,Hemicellulose,NQ544_13805-NQ544_13845,Segatella copri DSM 18205/537011,degradation
+PUL0763,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,Hemicellulose,NQ544_13890-NQ544_13915,Segatella copri DSM 18205/537011,degradation
+PUL0764,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,Hemicellulose,NQ544_00015-NQ544_00030,Segatella copri DSM 18205/537011,degradation
+PUL0765,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,inulin,NQ544_00095-NQ544_00145,Segatella copri DSM 18205/537011,degradation
+PUL0766,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,starch,NQ544_10075-NQ544_10095,Segatella copri DSM 18205/537011,degradation
+PUL0767,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,pectin,NQ544_01765-NQ544_01835,Segatella copri DSM 18205/537011,degradation
+PUL0768,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,pectin,NQ544_12960-NQ544_12990,Segatella copri DSM 18205/537011,degradation
+PUL0769,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,pectin,NQ544_10405-NQ544_10445,Segatella copri DSM 18205/537011,degradation
+PUL0770,39636128,RNA-seq;qRT-PCR;gas chromatography;mass spectrometry;thin-layer chromatography,NZ_CP102288.1,-,pectin,NQ544_03475-NQ544_03510,Segatella copri DSM 18205/537011,degradation
+PUL0771,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,CAWLDL010000001.1,-,fucoidan,None,Rhodopirellula sp. SWK7/595460,degradation
+PUL0772,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,CAWLDL010000001.1,-,fucoidan,None,Rhodopirellula sp. SWK7/595460,degradation
+PUL0773,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,CAWLDL010000001.1,-,fucoidan,None,Rhodopirellula sp. SWK7/595460,degradation
+PUL0774,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,CAWLDL010000001.1,-,fucoidan,None,Rhodopirellula sp. SWK7/595460,degradation
+PUL0775,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,CAWLDL010000001.1,-,fucoidan,None,Rhodopirellula sp. SWK7/595460,degradation
+PUL0776,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,CAWLDL010000001.1,-,fucoidan,None,Rhodopirellula sp. SWK7/595460,degradation
+PUL0777,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,ACI5KW_RS03060-ACI5KW_RS03180,Neorhodopirellula lusitana/445327,degradation
+PUL0778,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,None,Neorhodopirellula lusitana/445327,degradation
+PUL0779,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,None,Neorhodopirellula lusitana/445327,degradation
+PUL0780,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,None,Neorhodopirellula lusitana/445327,degradation
+PUL0781,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,None,Neorhodopirellula lusitana/445327,degradation
+PUL0782,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,None,Neorhodopirellula lusitana/445327,degradation
+PUL0783,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,None,Neorhodopirellula lusitana/445327,degradation
+PUL0784,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,None,Neorhodopirellula lusitana/445327,degradation
+PUL0785,39738071,RNA-seq;differential gene expression;HPAEC-PAD;SDS-PAGE;para-hydroxybenzoic acid (PAHBAH) assay;reducing-sugar assay;Carbohydrate Polyacrylamide Gel Electrophoresis (C-PAGE);enzyme activity assay,NZ_CAWLDM010000001.1,-,fucoidan,None,Neorhodopirellula lusitana/445327,degradation
+PUL0786,39892338,RNA-seq;reducing-sugar assay;growth assay;high performance gel permeation chromatography;gas chromatography;RNA-seq;differential gene expression,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS02815-Bovatus_RS02940,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0787,39892338,RNA-seq;reducing-sugar assay;growth assay,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS21500-Bovatus_RS21650,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0788,39892338,RNA-seq;reducing-sugar assay;growth assay,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS25580-Bovatus_RS21805,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0789,39892338,RNA-seq;reducing-sugar assay;growth assay,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS24435-Bovatus_RS24475,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0790,39892338,RNA-seq;reducing-sugar assay;growth assay,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS03110-Bovatus_RS03120,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0791,39892338,RNA-seq;reducing-sugar assay;growth assay,NZ_CP012938.1,-,pectic polysaccharide,Bovatus_RS03300-Bovatus_RS03325,Bacteroides ovatus strain ATCC 8483/28116,degradation
+PUL0792,37938239,enzyme activity assay;recombinant protein expression;RNA-seq,NZ_CP079235.1,-,xylan,KYE73_RS02290-KYE73_RS02365,Bifidobacterium pseudocatenulatum strain YIT11952/28026,degradation
+PUL0793,39443715,enzyme activity assay;quantification of reaction product reducing ends;RNA-seq;differential gene expression;NMR;MALDI-TOF/MS;gas chromatography;mass spectrometry;bicinchoninic acid (BCA) assay;recombinant protein expression,NZ_ABJL02000006.1,-,arabinan,BACINT_RS02330-BACINT_RS02395,Bacteroides intestinalis DSM 17393/329854,degradation
+PUL0794,39443715,enzyme activity assay;quantification of reaction product reducing ends;RNA-seq;differential gene expression;NMR;MALDI-TOF/MS;gas chromatography;mass spectrometry;bicinchoninic acid (BCA) assay;recombinant protein expression,NZ_ABJL02000008.1,-,arabinan,BACINT_RS12980-BACINT_RS13090,Bacteroides intestinalis DSM 17393/329854,degradation
+PUL0795,39913342,RNA-seq;recombinant protein expression;growth assay,NC_009441.1,-,xyloglucan,FJOH_RS04035-FJOH_RS04090,Flavobacterium johnsoniae UW101/986,degradation
+PUL0796,29774012,recombinant protein expression;RT-PCR;enzyme activity assay,NZ_LSNE01000005.1,-,carrageenan,AX660_RS08785-AX660_RS08950,Paraglaciecola hydrolytica S66/1799789,degradation

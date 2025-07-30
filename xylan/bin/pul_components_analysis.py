@@ -5,7 +5,7 @@ import argparse
 from collections import defaultdict
 from collections import Counter
 import re
-
+from plot_pul_components import plot_pul_categories
 
 
 def infer_family(annotation):
@@ -321,7 +321,7 @@ def main():
     #         print(f"{protein} -  {protein_annotations[protein]}")
 
 
-    pul_category_sequences_reduced = {pul_id: [s[0] for s in seq] for pul_id, seq in pul_category_sequences.items()}
+    pul_category_sequences_reduced = {pul_id: [s[1] if 'Sus' in s[1] else s[0] for s in seq] for pul_id, seq in pul_category_sequences.items()}
     # Consensus patterns (n-grams)
     def get_ngrams(seq, n):
         return [tuple(seq[i:i+n]) for i in range(len(seq)-n+1)]
@@ -367,6 +367,11 @@ def main():
     # print("\nConsensus category sequence:")
     # print(" → ".join(final_consensus))
     # print(" → ".join(consensus))
+
+    org_file = 'data/xylan_pul_org.csv'
+    plot_pul_categories(pul_category_sequences_reduced, 'all_categories_considered.png', pul_to_organism_file=org_file)
+    custom_order = ["CAZyme", "Transporter", "SusC", "SusD", "STP", "TF-STP", "Sulfatase", "Peptidase", "Hypothetical", "Other"] # all TFs were found to be STPs as well
+    plot_pul_categories(pul_category_sequences_reduced, 'custom_ordered.png', pul_to_organism_file=org_file, custom_order=custom_order)
 
 
 

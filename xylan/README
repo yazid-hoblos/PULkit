@@ -1,2 +1,6 @@
 ## 1. PUL Data Curation
 
+PUL415 source -> several PULs in https://www.cazy.org/PULDB/index.php?substr8=xylan from the supplementary data of 1 publication (do not seem to be extracted properly)
+=> the whole data curation is to be cautiously taken
+
+Predictions could be used to guide new models same way

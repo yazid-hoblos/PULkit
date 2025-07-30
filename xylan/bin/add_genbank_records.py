@@ -3,12 +3,19 @@ from Bio import Entrez, SeqIO
 from time import sleep
 import sys
 
+# Handle SSL certificate issues
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-Entrez.email = "yazidhoblos5@gmail.com"
+if len(sys.argv) < 2:
+    print("Usage: python add_genbank_records.py email_address input_file.csv")
+    print("Email required for NCBI Entrez API usage.")
+    print("Input is the gene_info output file of dbcan_pul_accession.py")
+    sys.exit(1)
 
-df = pd.read_csv(sys.argv[1])
+Entrez.email = sys.argv[1]
+
+df = pd.read_csv(sys.argv[2])
 
 annotations = []
 aa_sequences = []
@@ -34,7 +41,7 @@ for pid in df["Protein_ID"]:
 
         annotations.append(annotation)
 
-        # Extract amino acid sequence from the record (protein sequence)
+        # Extract amino acid sequence from the record
         aa_seq = str(record.seq)
         aa_sequences.append(aa_seq)
 
@@ -50,5 +57,6 @@ for pid in df["Protein_ID"]:
 df["Annotation"] = annotations
 df["Amino_Acid_Sequence"] = aa_sequences
 
-df.to_csv("xylan_gene_info_corrected_with_seq.csv", index=False)
-print("✅ Done. Saved enriched CSV to PUL_gene_metadata_annotated.csv")
+df.to_csv("xylan_gene_info_with_seq.csv", index=False)
+
+print("✅ Done. Saved enriched CSV to xylan_gene_info_with_seq.csv")

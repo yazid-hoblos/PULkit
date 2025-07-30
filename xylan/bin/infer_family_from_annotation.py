@@ -1,8 +1,9 @@
+'''Infers annotation through simple regex and prints the corresponding gene components per PUL'''
+
 import re
 from collections import defaultdict
 import json
-
-import re
+import sys
 
 def infer_family(annotation):
     annotation = annotation.lower()
@@ -119,14 +120,19 @@ def parse_pul_file(filename):
 
     return pul_dict
 
-# Example usage
-if __name__ == "__main__":
-    pul_file = "xylan_pul_data.csv"  # Replace with your actual file
-    pul_data = parse_pul_file(pul_file)
 
-    # Pretty print JSON
-    # print(json.dumps(pul_data, indent=2))
-    for pul_id, components in pul_data.items():
-        families = [comp["family"] for comp in components]
-        print(pul_id, "->", families)
+if len(sys.argv) < 2:
+    print("Usage: python infer_family_from_annotation.py <pul_file>")
+    print("Input is expected to have same format as add_genbank_records.py output.")
+    sys.exit(1)
+    
+pul_file = sys.argv[1]
+pul_data = parse_pul_file(pul_file)
+
+# Pretty print JSON
+# print(json.dumps(pul_data, indent=2))
+
+for pul_id, components in pul_data.items():
+    families = [comp["family"] for comp in components]
+    print(pul_id, "->", families)
 

@@ -55,7 +55,7 @@ base_url = "https://aca.unl.edu/dbCAN_PUL/dbCAN_PUL/CGC?clusterid=PUL{:04d}"
 pul_metadata_list = []
 gene_info_list = []
 
-for i in range(1, 797):  # Adjust range as needed
+for i in range(1, 797):  # PUL0001 to PUL0796 (latest in dbCAN-PUL last I checked mid-July)
     pul_id = f"PUL{i:04d}"
     url = base_url.format(i)
     response = requests.get(url)
@@ -66,7 +66,7 @@ for i in range(1, 797):  # Adjust range as needed
     general_info["PUL_ID"] = pul_id
     pul_metadata_list.append(general_info)
 
-
+    # Extract component genes information
     gene_tab_div = soup.find("div", {"data-tab": "2", "class": "ui attached tab segment"})
     if gene_tab_div:
         gene_table = gene_tab_div.find("table", class_="ui celled table")
@@ -88,9 +88,10 @@ for i in range(1, 797):  # Adjust range as needed
                 }
                 
                 gene_info_list.append(gene_data)
+                
     print(f"Processed {pul_id} - Found {length} gene entries")
     
-    # Find gene blocks
+    # Find gene blocks (alternative way to extract gene info)
     # gene_blocks = soup.find_all("div", id=lambda x: x and x.startswith("message"))
 
     # if gene_blocks:
@@ -145,25 +146,25 @@ for i in range(1, 797):  # Adjust range as needed
 
     # print(f"Processed {pul_id} - Found {len(gene_blocks)} gene blocks")
 
-# Save PUL metadata CSV
+# Save PUL metadata into CSV file (one row per PUL)
 metadata_fields = [
     "PUL_ID", "PubMed", "Characterization_Method", "Genomic_Accession",
     "Nucleotide_Position_Range", "Substrate", "Loci", "Species", "Degradation_or_Biosynthesis"
 ]
 
-with open("dbcan_pul_metadata_corrected.csv", "w", newline='', encoding='utf-8') as f:
+with open("dbcan_pul_metadata.csv", "w", newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=metadata_fields)
     writer.writeheader()
     writer.writerows(pul_metadata_list)
 
-# Save gene info CSV
+# Save gene info into CSV file (one row per gene)
 gene_fields = [
     "PUL_ID", "Gene_Name", "Locus_Tag", "Protein_ID",
     "Protein_Link", "Gene_Position", "GenBank_Contig",
     "Contig_Link", "EC_Number"
 ]
 
-with open("dbcan_pul_gene_info_corrected.csv", "w", newline='', encoding='utf-8') as f:
+with open("dbcan_pul_gene_info.csv", "w", newline='', encoding='utf-8') as f:
     writer = csv.DictWriter(f, fieldnames=gene_fields)
     writer.writeheader()
     writer.writerows(gene_info_list)

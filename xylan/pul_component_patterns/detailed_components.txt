@@ -1,0 +1,948 @@
+=== PUL0003 ===
+  NP_389697.1     | CAZyme             | GH30
+  NP_389698.1     | CAZyme             | GH43
+=== PUL0010 ===
+  WP_011887509.1  | Sugar_metabolism   | xylulokinase [Geobacillus thermodenitrificans]
+  WP_008880082.1  | Sugar_metabolism   | MULTISPECIES: xylose isomerase [Geobacillus]
+  WP_008880081.1  | CAZyme             | GH43
+  WP_008880080.1  | Sulfatase          | S1_8
+  WP_008880079.1  | Operon/Regulon     | Nif3-like dinuclear metal center hexameric protein [Geobacillus thermodenitrificans]
+  WP_008880078.1  | CAZyme             | GH10
+  WP_008880077.1  | Transporter        | 9.B.28.1.5
+  WP_011887510.1  | Oxidoreductases    | MULTISPECIES: SDR family oxidoreductase [Geobacillus]
+  WP_008880075.1  | Sugar_metabolism   | mannonate dehydratase [Geobacillus thermodenitrificans]
+  WP_008880074.1  | Sugar_metabolism   | glucuronate isomerase [Geobacillus thermodenitrificans]
+  WP_011887511.1  | TF                 | GntR
+  WP_008880072.1  | Sulfatase          | S1_27
+  WP_008880071.1  | STP                | PfkB
+  WP_008880070.1  | CAZyme             | GH39
+  WP_011887512.1  | CAZyme             | GH67
+  WP_011887513.1  | Transporter        | 3.A.1.1.9
+  WP_011887514.1  | Transporter        | 3.A.1.1.9
+  WP_011887515.1  | STP                | SBP_bac_1
+  WP_081157505.1  | CAZyme             | GH10
+  WP_011887517.1  | CAZyme             | GH52
+  WP_008880061.1  | CAZyme             | CE4
+  WP_008880060.1  | Sulfatase          | S1_4
+  WP_008880059.1  | Transporter        | 3.A.1.1.41
+  WP_008880058.1  | Transporter        | 3.A.1.1.57
+  WP_008880057.1  | STP                | SBP_bac_1
+  WP_008880056.1  | TF                 | HTH_AraC
+  WP_008880055.1  | STP                | dCache_1
+  WP_008880054.1  | Hypothetical       | hypothetical protein [Geobacillus thermodenitrificans]
+  -               | Unknown            | 
+  WP_011887518.1  | Oxidoreductases    | sn-glycerol-1-phosphate dehydrogenase [Geobacillus thermodenitrificans]
+  WP_011887519.1  | Hydrolases         | MULTISPECIES: HAD-IIA family hydrolase [Geobacillus]
+  WP_011887520.1  | CAZyme             | GH179
+  WP_011887521.1  | CAZyme             | GH51
+  WP_008880047.1  | Transporter        | 3.A.1.1.34
+  WP_011887522.1  | Transporter        | 3.A.1.1.34
+  WP_008880045.1  | STP                | SBP_bac_1
+  WP_011887523.1  | General_metabolism | L-arabinose isomerase [Geobacillus thermodenitrificans]
+  WP_011887524.1  | Sugar_metabolism   | ribulokinase [Geobacillus thermodenitrificans]
+  WP_011887525.1  | General_metabolism | MULTISPECIES: L-ribulose-5-phosphate 4-epimerase [Geobacillus]
+  WP_011887526.1  | TF                 | GntR
+  WP_011887527.1  | Transporter        | 3.A.1.2.32
+  WP_011887528.1  | Transporter        | 3.A.1.2.32
+  WP_008880038.1  | Transporter        | 3.A.1.2.32
+=== PUL0078 ===
+  AAB42041.1      | Transporter        | 3.A.1.1.25
+  AAB42042.1      | Transporter        | 3.A.1.1.41
+  AAB42043.1      | TF                 | MarR
+  AAB42044.1      | CAZyme             | CBM22
+  AAB42045.1      | Other              | ORF5 [Caldicellulosiruptor sp. Rt8B.4]
+  AAB42046.1      | Other              | ORF6; partial [Caldicellulosiruptor sp. Rt8B.4]
+=== PUL0140 ===
+  AYN23376.1      | Sugar_metabolism   | xylose isomerase [Bifidobacterium animalis subsp. animalis]
+  AYN23377.1      | CAZyme             | GH43
+  AYN23378.1      | TF                 | LacI
+  AYN23379.1      | STP                | SBP_bac_1
+  AYN23380.1      | Transporter        | 3.A.1.1.25
+  AYN23381.1      | Transporter        | 3.A.1.1.18
+  AYN23382.1      | CAZyme             | GH43
+  AYN23383.1      | CAZyme             | CE20
+  AYN23384.1      | Peptidase          | S09.UPW
+  AYN23385.1      | CAZyme             | GH43
+  AYN23386.1      | Sugar_metabolism   | xylulose kinase [Bifidobacterium animalis subsp. animalis]
+=== PUL0227 ===
+  AFM44648.1      | Hypothetical       | Hypothetical protein [Caldanaerobius polysaccharolyticus]
+  AFM44650.1      | CAZyme             | GH67
+  AFM44649.1      | CAZyme             | GH3
+  AFM44651.1      | Operon/Regulon     | XylI [Caldanaerobius polysaccharolyticus]
+  AFM44652.1      | Operon/Regulon     | XylK [Caldanaerobius polysaccharolyticus]
+  AFM44653.1      | Sugar_metabolism   | transaldolase [Caldanaerobius polysaccharolyticus]
+  AFM44655.1      | STP                | dCache_1
+  AFM44654.1      | TF                 | 0036286
+  AFM44656.1      | STP                | SBP_bac_1
+  AFM44657.1      | Transporter        | 3.A.1.1.61
+  AFM44658.1      | Transporter        | 3.A.1.1.41
+  AFM44659.1      | CAZyme             | CE4
+=== PUL0229 ===
+  ABV90480.1      | TF                 | 0036286
+  ABV90481.1      | STP                | dCache_1
+  ABV90482.2      | Transporter        | 3.A.1.1.29
+  ABV90483.1      | Transporter        | 3.A.1.1.29
+  ABV90484.1      | Transporter        | 3.A.1.1.29
+  ABV90485.1      | CAZyme             | GH67
+  ABV90486.1      | CAZyme             | GH10
+  ABV90487.1      | CAZyme             | GH43
+=== PUL0262 ===
+  ALJ61513.1      | Transporter        | SusC
+  ALJ61514.1      | Transporter        | SusD
+  ALJ61515.1      | Transporter        | SusC
+  ALJ61516.1      | Transporter        | SusD
+  ALJ61517.1      | Hypothetical       | hypothetical protein BcellWH2_04300 [Bacteroides cellulosilyticus]
+  ALJ61518.1      | CAZyme             | GH10
+  ALJ61519.1      | CAZyme             | GH10
+  ALJ61520.1      | CAZyme             | GH5
+  ALJ61521.1      | CAZyme             | CE1
+  ALJ61522.1      | CAZyme             | CE6
+  ALJ61523.1      | CAZyme             | GH8
+  ALJ61524.1      | TF                 | 0036286
+=== PUL0263 ===
+  ALJ61540.1      | CAZyme             | GH10
+  ALJ61541.1      | Hypothetical       | hypothetical protein BcellWH2_04324 [Bacteroides cellulosilyticus]
+  ALJ61542.1      | Transporter        | SusD
+  ALJ61543.1      | Transporter        | SusC
+  ALJ61544.1      | TF                 | 0035607
+=== PUL0274 ===
+  ACS45886.1      | Sugar_metabolism   | xylose isomerase [Bifidobacterium animalis subsp. lactis Bl-04]
+  ACS45887.1      | CAZyme             | GH43
+  ACS45888.1      | TF                 | LacI
+  ACS45889.1      | STP                | SBP_bac_1
+  ACS45890.1      | Transporter        | 3.A.1.1.7
+  ACS45891.1      | Transporter        | 3.A.1.1.18
+  ACS45892.1      | CAZyme             | GH43
+  ACS45893.1      | CAZyme             | CE20
+  ACS45894.1      | Peptidase          | S09.UPW
+  ACS45895.1      | CAZyme             | GH43
+  ACS45896.1      | Sugar_metabolism   | xylulose kinase [Bifidobacterium animalis subsp. lactis Bl-04]
+  ACS45897.1      | STP                | HTH_IclR
+=== PUL0289 ===
+  ABQ06882.1      | Transporter        | SusC
+  ABQ06883.1      | TF                 | HTH_AraC
+  ABQ06884.1      | CAZyme             | GH97
+  ABQ06885.1      | CAZyme             | GH3
+  ABQ06886.1      | CAZyme             | GH43
+  ABQ06887.1      | CAZyme             | GH146
+  ABQ06888.1      | CAZyme             | GH115
+  ABQ06889.1      | CAZyme             | CE6
+  ABQ06890.1      | CAZyme             | CE15
+  ABQ06891.1      | CAZyme             | GH43
+  ABQ06892.1      | Transporter        | SusD
+  ABQ06893.1      | Transporter        | SusC
+=== PUL0294 ===
+  PKD09594.1      | Hypothetical       | hypothetical protein APC1464_1419 [Bifidobacterium longum]
+  PKD09792.1      | Hypothetical       | hypothetical protein APC1464_1420 [Bifidobacterium longum]
+  PKD09793.1      | CAZyme             | GH120
+  PKD09794.1      | General_metabolism | galactoside O-acetyltransferase [Bifidobacterium longum]
+  PKD09795.1      | CAZyme             | GH43
+  PKD09796.1      | CAZyme             | GH43
+  PKD09797.1      | Transporter        | 3.A.1.1.25
+  PKD09798.1      | Transporter        | 3.A.1.1.25
+  PKD09799.1      | STP                | SBP_bac_1
+  PKD09595.1      | TF                 | LacI
+  PKD09800.1      | Oxidoreductases    | NADH-dependent butanol dehydrogenase 1 [Bifidobacterium longum]
+  PKD09801.1      | Sugar_metabolism   | xylose isomerase [Bifidobacterium longum]
+=== PUL0328 ===
+  APU67020.1      | CAZyme             | GH127
+  APU67021.1      | CAZyme             | GH43
+  APU67022.1      | Sulfatase          | S1_22
+  APU67023.1      | CAZyme             | GH43
+  APU67024.1      | CAZyme             | GH2
+  APU67025.1      | CAZyme             | GH5
+  APU67026.1      | Hypothetical       | hypothetical protein GRFL_0302 [Christiangramia flava JLT2011]
+  APU67027.1      | Transporter        | SusD
+  APU67028.1      | Transporter        | SusC
+=== PUL0329 ===
+  APU67041.1      | CAZyme             | GH43
+  APU67042.1      | CAZyme             | GH43
+  APU67043.1      | Sulfatase          | S1_4
+  APU67044.1      | CAZyme             | CE20
+  APU67045.1      | CAZyme             | GH43
+  APU67046.1      | Transporter        | SusC
+  APU67047.1      | Transporter        | SusD
+  APU67048.1      | CAZyme             | GT4
+  APU67049.1      | Hypothetical       | hypothetical protein GRFL_0325 [Christiangramia flava JLT2011]
+  APU67050.1      | Hypothetical       | hypothetical protein GRFL_0326 [Christiangramia flava JLT2011]
+  APU67051.1      | Hypothetical       | hypothetical protein GRFL_0327 [Christiangramia flava JLT2011]
+  APU67052.1      | Hypothetical       | hypothetical protein GRFL_0328 [Christiangramia flava JLT2011]
+  APU67053.1      | Hypothetical       | hypothetical protein GRFL_0329 [Christiangramia flava JLT2011]
+  APU67054.1      | TF                 | 0036955
+  APU67055.1      | General_metabolism | Uronate isomerase [Christiangramia flava JLT2011]
+  APU67056.1      | CAZyme             | GH3
+  APU67057.1      | CAZyme             | GH67
+  APU67058.1      | Transporter        | 1.A.115.1.5
+  APU67059.1      | CAZyme             | GH35
+  APU67060.1      | CAZyme             | GH10
+  APU67061.1      | CAZyme             | GH115
+  APU67062.1      | CAZyme             | CE15
+  APU67063.1      | Sugar_metabolism   | Xylose isomerase [Christiangramia flava JLT2011]
+  APU67064.1      | Sugar_metabolism   | Xylulose kinase [Christiangramia flava JLT2011]
+  APU67065.1      | Transporter        | 2.A.21.3.19
+=== PUL0335 ===
+  SIP56311.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56312.1      | TF                 | 0037176
+  SIP56313.1      | Transport/Surface  | Outer membrane efflux protein [uncultured bacterium]
+  SIP56314.1      | STP                | Glyoxalase
+  SIP56315.1      | CAZyme             | GH101
+  SIP56316.1      | General_metabolism | Oxaloacetate decarboxylase; gamma chain [uncultured bacterium]
+  SIP56317.1      | Transporter        | 3.B.1.1.7
+  SIP56318.1      | Transporter        | 3.B.1.1.2
+  SIP56319.1      | STP                | TPR_1
+  SIP56320.1      | CAZyme             | GH13
+  SIP56321.1      | Sugar_metabolism   | Fructose-bisphosphate aldolase [uncultured bacterium]
+  SIP56322.1      | Hydrolases         | Endonuclease/Exonuclease/phosphatase family protein [uncultured bacterium]
+  SIP56323.1      | Mobile_elements    | IS2 repressor TnpA-transposase TnpB [uncultured bacterium]
+  SIP56324.1      | Ribosomal          | 50S ribosomal protein L31 type B [uncultured bacterium]
+  SIP56325.1      | Peptidase          | M48.UNW
+  SIP56326.1      | General_metabolism | Aminomethyltransferase [uncultured bacterium]
+  SIP56327.1      | Peptidase          | M20.003
+  SIP56328.1      | Peptidase          | C44.UNW
+  SIP56329.1      | TF                 | 0035607
+  SIP56330.1      | STP                | Fer4
+  SIP56331.1      | CAZyme             | GH97
+  SIP56332.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56333.1      | Transporter        | 1.A.43.1.1
+  SIP56334.1      | Other              | Pentapeptide repeats (8 copies) [uncultured bacterium]
+  SIP56335.1      | CAZyme             | GH13
+  SIP56336.1      | CAZyme             | GH3
+  SIP56337.1      | CAZyme             | GH158
+  SIP56338.1      | CAZyme             | GH16
+  SIP56339.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56340.1      | Transporter        | SusD
+  SIP56341.1      | Transporter        | SusC
+=== PUL0336 ===
+  SIP56342.1      | Transporter        | 1.A.43.1.1
+  SIP56343.1      | Other              | Pentapeptide repeats (8 copies) [uncultured bacterium]
+  SIP56344.1      | CAZyme             | GH13
+  SIP56345.1      | CAZyme             | GH3
+  SIP56346.1      | CAZyme             | GH158
+  SIP56347.1      | CAZyme             | GH16
+  SIP56348.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56349.1      | Transporter        | SusD
+  SIP56350.1      | Transporter        | SusC
+  SIP56351.1      | STP                | Y_Y_Y
+  SIP56352.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56353.1      | CAZyme             | GT2
+  SIP56354.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56355.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56356.1      | Transporter        | 2.A.107.1.2
+  SIP56357.1      | Transport/Surface  | Thiamine biosynthesis lipoprotein ApbE precursor [uncultured bacterium]
+  SIP56358.1      | Transporter        | 2.A.7.34.3
+  SIP56359.1      | RNA_processing     | tRNA 2-thiocytidine biosynthesis protein TtcA [uncultured bacterium]
+  SIP56360.1      | STP                | TPR_2
+  SIP56361.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56362.1      | Operon/Regulon     | SigmaW regulon antibacterial [uncultured bacterium]
+  SIP56363.1      | Operon/Regulon     | Purine nucleoside phosphorylase DeoD-type [uncultured bacterium]
+  SIP56364.1      | Transporter        | 9.A.8.1.2
+  SIP56365.1      | TF                 | 0036286
+  SIP56366.1      | Transporter        | 2.A.1.36.3
+=== PUL0337 ===
+  SIP56367.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56368.1      | STP                | Aminotran_1_2
+  SIP56369.1      | RNA_processing     | tRNA-specific 2-thiouridylase MnmA [uncultured bacterium]
+  SIP56370.1      | TF                 | GerE
+  SIP56371.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56372.1      | Transporter        | 2.A.35.1.6
+  SIP56373.1      | Transporter        | 2.A.1.36.3
+  SIP56374.1      | TF                 | 0036286
+  SIP56375.1      | Transporter        | 9.A.8.1.2
+  SIP56376.1      | Operon/Regulon     | Purine nucleoside phosphorylase DeoD-type [uncultured bacterium]
+  SIP56377.1      | Operon/Regulon     | SigmaW regulon antibacterial [uncultured bacterium]
+  SIP56378.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56379.1      | STP                | TPR_2
+  SIP56380.1      | RNA_processing     | tRNA 2-thiocytidine biosynthesis protein TtcA [uncultured bacterium]
+  SIP56381.1      | Transporter        | 2.A.7.34.3
+  SIP56382.1      | Transport/Surface  | Thiamine biosynthesis lipoprotein ApbE precursor [uncultured bacterium]
+  SIP56383.1      | Transporter        | 2.A.107.1.2
+  SIP56384.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56385.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56386.1      | CAZyme             | GT2
+  SIP56387.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56388.1      | STP                | Y_Y_Y
+  SIP56389.1      | Transporter        | SusC
+  SIP56390.1      | Transporter        | SusD
+  SIP56391.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56392.1      | CAZyme             | GH16
+  SIP56393.1      | CAZyme             | GH158
+  SIP56394.1      | CAZyme             | GH3
+  SIP56395.1      | CAZyme             | GH13
+=== PUL0338 ===
+  SIP56396.1      | Transporter        | 2.A.1.36.3
+  SIP56397.1      | TF                 | 0036286
+  SIP56398.1      | Transporter        | 9.A.8.1.2
+  SIP56399.1      | Operon/Regulon     | Purine nucleoside phosphorylase DeoD-type [uncultured bacterium]
+  SIP56400.1      | Operon/Regulon     | SigmaW regulon antibacterial [uncultured bacterium]
+  SIP56401.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56402.1      | STP                | TPR_2
+  SIP56403.1      | RNA_processing     | tRNA 2-thiocytidine biosynthesis protein TtcA [uncultured bacterium]
+  SIP56404.1      | Transporter        | 2.A.7.34.3
+  SIP56405.1      | Transport/Surface  | Thiamine biosynthesis lipoprotein ApbE precursor [uncultured bacterium]
+  SIP56406.1      | Transporter        | 2.A.107.1.2
+  SIP56407.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56408.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56409.1      | CAZyme             | GT2
+  SIP56410.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56411.1      | STP                | Y_Y_Y
+  SIP56412.1      | Transporter        | SusC
+  SIP56413.1      | Transporter        | SusD
+  SIP56414.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56415.1      | CAZyme             | GH16
+  SIP56416.1      | CAZyme             | GH158
+  SIP56417.1      | CAZyme             | GH3
+  SIP56418.1      | CAZyme             | GH13
+  SIP56419.1      | Other              | Pentapeptide repeats (8 copies) [uncultured bacterium]
+  SIP56420.1      | Transporter        | 1.A.43.1.1
+  SIP56421.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56422.1      | CAZyme             | GH97
+  SIP56423.1      | STP                | Fer4
+  SIP56424.1      | TF                 | 0035607
+  SIP56425.1      | Peptidase          | C44.UNW
+  SIP56426.1      | Peptidase          | M20.003
+  SIP56427.1      | General_metabolism | Aminomethyltransferase [uncultured bacterium]
+  SIP56428.1      | Peptidase          | M48.UNW
+  SIP56429.1      | Ribosomal          | 50S ribosomal protein L31 type B [uncultured bacterium]
+=== PUL0339 ===
+  SIP56430.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56431.1      | Mobile_elements    | Integrase core domain protein [uncultured bacterium]
+  SIP56432.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56433.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56434.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56435.1      | Operon/Regulon     | RNA polymerase-associated protein RapA [uncultured bacterium]
+  SIP56436.1      | Mobile_elements    | Transposase; Mutator family [uncultured bacterium]
+  SIP56437.1      | CAZyme             | GH97
+  SIP56438.1      | Transporter        | 1.A.43.1.13
+  SIP56439.1      | CAZyme             | GH13
+  SIP56440.1      | CAZyme             | GH3
+  SIP56441.1      | Peptidase          | M57.UPW
+  SIP56442.1      | CAZyme             | GH16
+  SIP56443.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56444.1      | Transporter        | SusD
+  SIP56445.1      | Transporter        | SusC
+  SIP56446.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56447.1      | General_metabolism | Glutamine synthetase [uncultured bacterium]
+  SIP56448.1      | TF                 | 0038753
+  SIP56449.1      | CAZyme             | GH20
+  SIP56450.1      | STP                | Pyr_redox_2
+  SIP56451.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+  SIP56452.1      | Transporter        | 3.A.12.1.1
+  SIP56453.1      | Hypothetical       | hypothetical protein [uncultured bacterium]
+=== PUL0342 ===
+  WP_013065621.1  | CAZyme             | GH10
+  WP_013064566.1  | CAZyme             | GH95
+  WP_013064096.1  | CAZyme             | GH3
+  WP_080517213.1  | STP                | SBP_bac_1
+  WP_013064354.1  | TF                 | 0036286
+=== PUL0345 ===
+  EDV05050.1      | TF                 | 0035607
+  EDV05051.1      | Transporter        | SusC
+  EDV05052.1      | Transporter        | SusD
+  EDV05053.1      | Hypothetical       | hypothetical protein BACINT_04196 [Bacteroides intestinalis DSM 17393]
+  EDV05054.1      | CAZyme             | GH10
+  EDV05055.1      | Hypothetical       | hypothetical protein BACINT_04198 [Bacteroides intestinalis DSM 17393]
+  EDV05056.1      | CAZyme             | GH35
+  EDV05057.1      | CAZyme             | CE20
+  EDV05058.1      | CAZyme             | GH43
+  EDV05059.1      | CAZyme             | GH10
+  EDV05060.1      | CAZyme             | GH43
+  EDV05061.1      | CAZyme             | GH109
+  EDV05062.1      | CAZyme             | GH67
+  EDV05064.1      | Hypothetical       | hypothetical protein BACINT_04207 [Bacteroides intestinalis DSM 17393]
+  EDV05063.1      | Peptidase          | C11.006
+  EDV05065.1      | TF                 | 0036286
+  EDV05066.1      | Mobile_elements    | putative transposase; IS4 family [Bacteroides intestinalis DSM 17393]
+  EDV05067.1      | CAZyme             | GH8
+  EDV05068.1      | CAZyme             | CE6
+  EDV05069.1      | CAZyme             | CE1
+  EDV05070.1      | CAZyme             | GH5
+  EDV05071.1      | Hypothetical       | hypothetical protein BACINT_04214 [Bacteroides intestinalis DSM 17393]
+  EDV05072.1      | CAZyme             | GH10
+  EDV05073.1      | Hypothetical       | hypothetical protein BACINT_04216 [Bacteroides intestinalis DSM 17393]
+  EDV05074.1      | Transporter        | SusD
+  EDV05075.1      | Transporter        | SusC
+  EDV05076.1      | Transporter        | SusD
+  EDV05077.1      | Transporter        | SusC
+  EDV05078.1      | Hypothetical       | hypothetical protein BACINT_04221 [Bacteroides intestinalis DSM 17393]
+  EDV05079.1      | CAZyme             | CE20
+  EDV05080.1      | CAZyme             | GH115
+=== PUL0346 ===
+  CCG34969.1      | CAZyme             | GH43
+  CCG34970.1      | TF                 | 0036286
+  CCG34971.1      | Mobile_elements    | transposase IS4 family [uncultured bacterium]
+  CCG34972.1      | Mobile_elements    | transposase IS4 family [uncultured bacterium]
+  CCG34973.1      | Mobile_elements    | transposase [uncultured bacterium]
+  CCG34974.1      | Mobile_elements    | transposase [uncultured bacterium]
+  CCG34975.1      | Transporter        | SusD
+  CCG34976.1      | Transporter        | SusC
+  CCG34977.1      | CAZyme             | GH43
+  CCG34978.1      | CAZyme             | GH43
+  CCG34979.1      | CAZyme             | GH10
+  CCG34980.1      | Mobile_elements    | transposase [uncultured bacterium]
+  CCG34981.1      | CAZyme             | GH43
+  CCG34982.1      | Mobile_elements    | IS3 element transposase [uncultured bacterium]
+  CCG34983.1      | CAZyme             | GH16
+=== PUL0364 ===
+  AAM43336.1      | CAZyme             | GH10
+  AAM43337.1      | CAZyme             | GH2
+  AAM43338.1      | General_metabolism | hexuronic acid isomerase [Xanthomonas campestris pv. campestris str. ATCC 33913]
+  AAM43339.1      | CAZyme             | GH10
+  AAM43340.1      | Transporter        | 2.A.1.14.25
+  AAM43341.1      | Transporter        | SusC
+  AAM43342.1      | CAZyme             | GH43
+  AAM43343.1      | CAZyme             | GH43
+=== PUL0390 ===
+  WP_004082543.1  | CAZyme             | GH67
+  WP_004082544.1  | STP                | SBP_bac_5
+  WP_004082545.1  | Transporter        | 3.A.1.5.29
+  WP_004082546.1  | Transporter        | 3.A.1.5.29
+  WP_004082547.1  | Transporter        | 3.A.1.5.29
+  WP_004082548.1  | Transporter        | 3.A.1.5.29
+  WP_004082550.1  | CAZyme             | CBM22
+  WP_004082552.1  | CAZyme             | CBM22
+  WP_004082554.1  | Hypothetical       | MULTISPECIES: hypothetical protein [Thermotoga]
+  WP_004082556.1  | Sugar_metabolism   | MULTISPECIES: glucuronate isomerase [Thermotoga]
+  WP_004082558.1  | TF                 | 0040266
+  WP_004082560.1  | General_metabolism | MULTISPECIES: bifunctional 4-hydroxy-2-oxoglutarate aldolase/2-dehydro-3-deoxy-phosphogluconate aldolase [Thermotoga]
+  WP_004082562.1  | STP                | PfkB
+  WP_004082564.1  | Sugar_metabolism   | MULTISPECIES: D-mannonate dehydrogenase UxuB [Thermotoga]
+  WP_004082566.1  | Sugar_metabolism   | MULTISPECIES: mannonate dehydratase [Thermotoga]
+  WP_004082568.1  | CAZyme             | GH10
+  WP_004082579.1  | STP                | SBP_bac_5
+  WP_004082581.1  | Transporter        | 3.A.1.5.13
+  WP_004082583.1  | Transporter        | 3.A.1.5.13
+  WP_041426669.1  | Transporter        | 3.A.1.5.13
+  WP_004082591.1  | Transporter        | 3.A.1.5.13
+  WP_004082594.1  | CAZyme             | GH3
+  WP_004082599.1  | CAZyme             | CE7
+=== PUL0392 ===
+  CBK69512.1      | Hypothetical       | hypothetical protein BXY_46530 [Bacteroides xylanisolvens XB1A]
+  CBK69513.1      | Transporter        | SusD
+  CBK69514.1      | Transporter        | SusC
+  CBK69515.1      | TF                 | GerE
+  CBK69516.1      | CAZyme             | GH67
+  CBK69517.1      | CAZyme             | GH43
+  CBK69518.1      | Transporter        | SusC
+  CBK69519.1      | CAZyme             | GH13
+=== PUL0402 ===
+  BAL51422.1      | CAZyme             | GH43
+  BAL51423.1      | Transporter        | 2.A.2.3.2
+  BAL51424.1      | Sugar_metabolism   | aldose 1-epimerase [Lactococcus lactis subsp. lactis IO-1]
+  BAL51425.1      | Sugar_metabolism   | xylulose kinase [Lactococcus lactis subsp. lactis IO-1]
+  BAL51426.1      | Sugar_metabolism   | xylose isomerase [Lactococcus lactis subsp. lactis IO-1]
+  BAL51427.1      | TF                 | 0036286
+=== PUL0411 ===
+  CAA89207.1      | CAZyme             | GH10
+  CAA89208.1      | CAZyme             | GH43
+=== PUL0414 ===
+  AFK83720.1      | Transport/Surface  | putative lipoprotein [uncultured bacterium 35A20]
+  AFK83721.1      | Hypothetical       | hypothetical protein TREAZ_1790 [uncultured bacterium 35A20]
+  AFK83722.1      | Hypothetical       | hypothetical protein MucpaDRAFT_4567 [uncultured bacterium 35A20]
+  AFK83723.1      | RNA_processing     | aminoacyl-tRNA hydrolase [uncultured bacterium 35A20]
+  AFK83724.1      | Operon/Regulon     | MazG family protein [uncultured bacterium 35A20]
+  AFK83725.1      | Kinases            | 6-phosphofructokinase [uncultured bacterium 35A20]
+  AFK83726.1      | CAZyme             | GH10
+  AFK83727.1      | CAZyme             | GT2
+  AFK83746.1      | STP                | AAA
+  AFK83728.1      | DUF                | protein of unknown function DUF58 [uncultured bacterium 35A20]
+  AFK83729.1      | Other              | transglutaminase domain-containing protein [uncultured bacterium 35A20]
+  AFK83730.1      | Other              | pyrrolo-quinoline quinone repeat protein [uncultured bacterium 35A20]
+  AFK83731.1      | Other              | excinuclease ABC subunit A [uncultured bacterium 35A20]
+  AFK83732.1      | Other              | GARP complex subunit [uncultured bacterium 35A20]
+  AFK83733.1      | STP                | SBP_bac_1
+  AFK83734.1      | Transporter        | 3.A.1.1.29
+  AFK83735.1      | Transporter        | 3.A.1.1.10
+  AFK83736.1      | CAZyme             | GH1
+  AFK83737.1      | CAZyme             | GH10
+  AFK83738.1      | CAZyme             | GH10
+  AFK83739.1      | CAZyme             | GH10
+  AFK83740.1      | Other              | Hsp20/alpha crystallin family protein [uncultured bacterium 35A20]
+  AFK83747.1      | Hypothetical       | hypothetical protein MELLADRAFT_68204 [uncultured bacterium 35A20]
+  AFK83741.1      | STP                | ATPase_2
+  AFK83742.1      | CAZyme             | GH94
+  AFK83743.1      | CAZyme             | GH94
+  AFK83744.1      | Hypothetical       | hypothetical protein Mahau_2096 [uncultured bacterium 35A20]
+  AFK83745.1      | STP                | Fer4
+=== PUL0415 ===
+  EDO13793.1      | Transporter        | SusD
+  EDO13794.1      | Transporter        | SusC
+  EDO13795.1      | CAZyme             | GH20
+  EDO13796.1      | CAZyme             | GH20
+=== PUL0456 ===
+  WP_008760065.1  | STP                | TPR_1
+  WP_006281697.1  | Transporter        | 2.A.1.1.55
+  WP_006281698.1  | TF                 | 0036286
+  WP_155815414.1  | Transporter        | SusC
+  WP_162091544.1  | Transporter        | SusD
+  WP_006281618.1  | Transporter        | SusC
+  WP_094448662.1  | CAZyme             | GH43
+  WP_039869720.1  | TF                 | 0036286
+  WP_006281621.1  | CAZyme             | GH43
+  WP_039869723.1  | CAZyme             | GH10
+  WP_006281623.1  | Transporter        | 2.A.2.3.2
+  WP_039869725.1  | Hydrolases         | MULTISPECIES: SGNH/GDSL hydrolase family protein [Segatella]
+  WP_006281625.1  | CAZyme             | GH67
+=== PUL0457 ===
+  WP_017261046.1  | Hypothetical       | hypothetical protein [Furfurilactobacillus rossiae]
+  WP_017261047.1  | Sulfatase          | S1_4
+  WP_017261048.1  | CAZyme             | GH43
+  WP_017261049.1  | Transporter        | 2.A.2.3.2
+  WP_017261050.1  | Transporter        | 2.A.1.1.41
+  WP_017261051.1  | Sugar_metabolism   | xylose isomerase [Furfurilactobacillus rossiae]
+  WP_017261052.1  | Sugar_metabolism   | xylulokinase [Furfurilactobacillus rossiae]
+=== PUL0474 ===
+  WP_012023635.1  | TF                 | GerE
+  WP_012023636.1  | Transporter        | SusC
+  WP_012023637.1  | Transporter        | SusD
+  WP_012023638.1  | CAZyme             | GH30
+  WP_012023639.1  | CAZyme             | GH30
+  WP_012023640.1  | CAZyme             | GH3
+  WP_012023641.1  | Hydrolases         | endonuclease/exonuclease/phosphatase family protein [Flavobacterium johnsoniae]
+  WP_012023642.1  | CAZyme             | GH30
+  WP_012023643.1  | CAZyme             | GH3
+=== PUL0480 ===
+  WP_012025838.1  | CAZyme             | GH3
+  WP_012025839.1  | TF                 | 0035607
+  WP_012025840.1  | Transporter        | SusC
+  WP_012025841.1  | Transporter        | SusD
+  WP_012025842.1  | Other              | IPT/TIG domain-containing protein [Flavobacterium johnsoniae]
+  WP_012025843.1  | CAZyme             | GH10
+  WP_012025844.1  | CAZyme             | GH16
+  WP_012025845.1  | CAZyme             | GH8
+  WP_012025846.1  | CAZyme             | GH43
+=== PUL0508 ===
+  BAD02385.1      | TF                 | LacI
+  BAD02386.1      | STP                | SBP_bac_1
+  BAD02387.1      | Transporter        | 3.A.1.1.21
+  BAD02388.1      | Transporter        | 3.A.1.1.44
+  BAD02389.1      | CAZyme             | GH3
+=== PUL0520 ===
+  AAQ62863.1      | Transporter        | 2.A.2.3.2
+  AAQ62864.1      | CAZyme             | GH43
+=== PUL0533 ===
+  ALJ58214.1      | TF                 | 0036286
+  ALJ58215.1      | CAZyme             | GH115
+  ALJ58216.1      | Transporter        | SusC
+  ALJ58217.1      | Transporter        | SusD
+  ALJ58218.1      | Transporter        | SusC
+  ALJ58219.1      | Transporter        | SusD
+  ALJ58220.1      | Hypothetical       | hypothetical protein BcellWH2_00958 [Bacteroides cellulosilyticus]
+  ALJ58221.1      | CAZyme             | GH10
+  ALJ58222.1      | CAZyme             | GH30
+=== PUL0542 ===
+  ABI49930.1      | STP                | dCache_1
+  ABI49931.1      | TF                 | HTH_AraC
+  ABI49932.1      | STP                | SBP_bac_1
+  ABI49933.1      | Transporter        | 3.A.1.1.57
+  ABI49934.1      | Transporter        | 3.A.1.1.41
+  ABI49935.1      | Sulfatase          | S1_4
+  ABI49936.1      | CAZyme             | CE4
+  ABI49956.1      | CAZyme             | GH52
+  ABI49937.2      | CAZyme             | GH10
+  ABI49960.1      | Mobile_elements    | transposase [Geobacillus stearothermophilus]
+  ABI49938.1      | Transporter        | 3.A.1.1.9
+  ABI49939.1      | Transporter        | 3.A.1.1.9
+  ABI49940.1      | CAZyme             | GH67
+  ABI49941.1      | CAZyme             | GH39
+  ABI49942.1      | STP                | PfkB
+  ABI49943.1      | Sulfatase          | S1_27
+  ABI49944.1      | TF                 | GntR
+  ABI49945.1      | General_metabolism | uronate isomerase [Geobacillus stearothermophilus]
+  ABI49946.1      | Sugar_metabolism   | d-mannonate hydrolase [Geobacillus stearothermophilus]
+  ABI49947.1      | Sugar_metabolism   | d-mannonate oxidoreductase [Geobacillus stearothermophilus]
+  ABI49948.1      | Transporter        | 9.B.28.1.5
+  ABI49949.1      | Hypothetical       | hypothetical protein [Geobacillus stearothermophilus]
+  ABI49958.1      | Mobile_elements    | transposase [Geobacillus stearothermophilus]
+  ABI49950.1      | Other              | type ii secretory pathway protein [Geobacillus stearothermophilus]
+  ABI49951.1      | CAZyme             | GH10
+  ABI49952.1      | Other              | potential regulatory protein [Geobacillus stearothermophilus]
+  ABI49953.1      | Sulfatase          | S1_8
+  ABI49959.1      | CAZyme             | GH43
+  ABI49954.1      | Kinases            | xylose kinase [Geobacillus stearothermophilus]
+  ABI49955.1      | Sugar_metabolism   | xylose isomerase [Geobacillus stearothermophilus]
+=== PUL0553 ===
+  CBK67940.1      | CAZyme             | GH43
+  CBK67941.1      | CAZyme             | GH3
+  CBK67942.1      | Hypothetical       | hypothetical protein BXY_29190 [Bacteroides xylanisolvens XB1A]
+  CBK67943.1      | CAZyme             | GH43
+  CBK67944.1      | CAZyme             | GH31
+  CBK67945.1      | CAZyme             | GH97
+  CBK67946.1      | CAZyme             | GH43
+  CBK67947.1      | CAZyme             | GH43
+  CBK67948.1      | Transporter        | SusC
+  CBK67949.1      | Transporter        | SusD
+  CBK67950.1      | Transporter        | SusC
+  CBK67951.1      | Transporter        | SusD
+  CBK67952.1      | DUF                | Domain of unknown function (DUF1735) [Bacteroides xylanisolvens XB1A]
+  CBK67953.1      | CAZyme             | GH10
+  CBK67954.1      | Hypothetical       | hypothetical protein BXY_29310 [Bacteroides xylanisolvens XB1A]
+  CBK67955.1      | CAZyme             | GH5
+  CBK67956.1      | CAZyme             | CE6
+  CBK67957.1      | CAZyme             | GH43
+  CBK67958.1      | TF                 | 0036286
+  CBK67959.1      | CAZyme             | GH95
+  CBK67960.1      | CAZyme             | GH115
+=== PUL0592 ===
+  ACS99993.1      | TF                 | 0036286
+  ACS99994.1      | STP                | dCache_1
+  ACS99995.1      | Transporter        | 3.A.1.1.29
+  ACS99996.1      | Transporter        | 3.A.1.1.29
+  ACS99997.1      | Transporter        | 3.A.1.1.29
+  ACS99998.1      | CAZyme             | GH67
+  ACS99999.1      | CAZyme             | GH10
+  ACT00001.1      | CAZyme             | GH43
+=== PUL0594 ===
+  ACT02228.1      | STP                | dCache_1
+  ACT02229.1      | STP                | SBP_bac_1
+  ACT02230.1      | TF                 | 0043095
+  ACT02231.1      | CAZyme             | GH51
+=== PUL0598 ===
+  ADL50360.1      | CAZyme             | GH95
+  ADL50361.1      | Sugar_metabolism   | xylose isomerase [Clostridium cellulovorans 743B]
+  ADL50362.1      | Sugar_metabolism   | transaldolase [Clostridium cellulovorans 743B]
+  ADL50363.1      | Sugar_metabolism   | xylulokinase [Clostridium cellulovorans 743B]
+=== PUL0599 ===
+  ADL52302.1      | TF                 | 0035607
+  ADL52303.1      | STP                | dCache_1
+  ADL52304.1      | STP                | SBP_bac_1
+  ADL52305.1      | CAZyme             | GH43
+  ADL52306.1      | Transport/Surface  | ABC-type sugar transport system periplasmic component-like protein [Clostridium cellulovorans 743B]
+  ADL52307.1      | Transporter        | 3.A.1.2.15
+  ADL52308.1      | Transporter        | 3.A.1.2.20
+=== PUL0602 ===
+  AEH48175.1      | Sugar_metabolism   | xylulokinase [Parageobacillus thermoglucosidasius C56-YS93]
+  AEH48176.1      | Sugar_metabolism   | Xylose isomerase [Parageobacillus thermoglucosidasius C56-YS93]
+  AEH48177.1      | Sulfatase          | S1_8
+  AEH48178.1      | Other              | NGG1p interacting factor 3 protein; NIF3 [Parageobacillus thermoglucosidasius C56-YS93]
+  AEH48179.1      | CAZyme             | GH10
+  AEH48180.1      | Transporter        | 9.B.28.1.5
+  AEH48181.1      | Oxidoreductases    | 3-oxoacyl-(acyl-carrier-protein) reductase [Parageobacillus thermoglucosidasius C56-YS93]
+  AEH48182.1      | Sugar_metabolism   | Mannonate dehydratase [Parageobacillus thermoglucosidasius C56-YS93]
+  AEH48183.1      | General_metabolism | Uronate isomerase [Parageobacillus thermoglucosidasius C56-YS93]
+  AEH48184.1      | TF                 | GntR
+  AEH48185.1      | Sulfatase          | S1_27
+  AEH48186.1      | STP                | PfkB
+  AEH48187.1      | CAZyme             | GH39
+  AEH48188.1      | CAZyme             | GH67
+  AEH48189.1      | Transporter        | 3.A.1.1.9
+  AEH48190.1      | Transporter        | 3.A.1.1.9
+  AEH48191.1      | STP                | SBP_bac_1
+  AEH48192.1      | CAZyme             | GH10
+  AEH48193.1      | CAZyme             | GH52
+  AEH48194.1      | CAZyme             | CE4
+  AEH48195.1      | Sulfatase          | S1_4
+  AEH48196.1      | Transporter        | 3.A.1.1.41
+  AEH48197.1      | Transporter        | 3.A.1.1.57
+  AEH48198.1      | STP                | SBP_bac_1
+  AEH48199.1      | TF                 | HTH_AraC
+  AEH48200.1      | STP                | dCache_1
+=== PUL0610 ===
+  ACY47959.1      | TF                 | LacI
+  ACY47960.1      | CAZyme             | GH43
+  ACY47961.1      | CAZyme             | CBM4
+  ACY47962.1      | Transporter        | SusC
+  ACY47963.1      | Sulfatase          | S1_46
+  ACY47964.1      | Hypothetical       | hypothetical protein Rmar_1072 [Rhodothermus marinus DSM 4252]
+  ACY47965.1      | Hypothetical       | hypothetical protein Rmar_1073 [Rhodothermus marinus DSM 4252]
+  ACY47966.1      | CAZyme             | GH10
+  ACY47967.1      | TF                 | GerE
+  ACY47968.1      | STP                | FecR
+  ACY47969.1      | Transporter        | SusC
+  ACY47970.1      | Transporter        | SusD
+  ACY47971.1      | CAZyme             | GH67
+  ACY47972.1      | CAZyme             | GH3
+  ACY47973.1      | CAZyme             | GH3
+=== PUL0617 ===
+  NPD82008.1      | CAZyme             | GH67
+  NPD82009.1      | Hydrolases         | SGNH/GDSL hydrolase family protein [Palleniella intestinalis]
+  NPD82010.1      | Transporter        | 2.A.2.3.2
+  NPD82011.1      | CAZyme             | GH10
+  NPD82012.1      | CAZyme             | GH43
+  NPD82013.1      | CAZyme             | GH43
+  NPD82014.1      | Hypothetical       | hypothetical protein HPS57_08505 [Palleniella intestinalis]
+  NPD82015.1      | CAZyme             | GH5
+  NPD82016.1      | CAZyme             | GH10
+  NPD82017.1      | DUF                | DUF1735 domain-containing protein [Palleniella intestinalis]
+  NPD82018.1      | Transporter        | SusD
+  NPD82019.1      | Transporter        | SusC
+  NPD82020.1      | Transporter        | SusD
+  NPD82021.1      | Transporter        | SusC
+=== PUL0619 ===
+  NPE14436.1      | Transporter        | SusC
+  NPE14437.1      | Transporter        | SusD
+  NPE14438.1      | Hypothetical       | hypothetical protein HPS55_08880 [Xylanibacter rodentium]
+  NPE14439.1      | Hypothetical       | hypothetical protein HPS55_08885 [Xylanibacter rodentium]
+  NPE14440.1      | CAZyme             | GH35
+=== PUL0620 ===
+  NPE14635.1      | CAZyme             | GH128
+  NPE14636.1      | Hypothetical       | hypothetical protein HPS55_09950 [Xylanibacter rodentium]
+  NPE14637.1      | Hypothetical       | hypothetical protein HPS55_09955 [Xylanibacter rodentium]
+  NPE14638.1      | CAZyme             | GH51
+  NPE14639.1      | Hypothetical       | hypothetical protein HPS55_09965 [Xylanibacter rodentium]
+  NPE14640.1      | Transporter        | SusC
+  NPE14641.1      | Transporter        | SusD
+  NPE14642.1      | Cell_adhesion      | fasciclin [Xylanibacter rodentium]
+  NPE14643.1      | Cell_adhesion      | beta-Ig-H3/fasciclin [Xylanibacter rodentium]
+  NPE14644.1      | Transporter        | SusC
+=== PUL0622 ===
+  NPE14934.1      | Peptidase          | S09.UPW
+  NPE14935.1      | Transporter        | SusD
+  NPE14936.1      | Transporter        | SusC
+  NPE14937.1      | Hypothetical       | hypothetical protein HPS55_11510 [Xylanibacter rodentium]
+  NPE14938.1      | Hypothetical       | hypothetical protein HPS55_11515 [Xylanibacter rodentium]
+  NPE14939.1      | Transporter        | SusD
+  NPE14940.1      | Transporter        | SusC
+  NPE14941.1      | Hypothetical       | hypothetical protein HPS55_11530 [Xylanibacter rodentium]
+  NPE14942.1      | Hypothetical       | hypothetical protein HPS55_11535 [Xylanibacter rodentium]
+  NPE14943.1      | Hypothetical       | hypothetical protein HPS55_11540 [Xylanibacter rodentium]
+  NPE14944.1      | CAZyme             | PL11
+  NPE14945.1      | CAZyme             | GH3
+  -               | Unknown            | 
+  NPE14946.1      | CAZyme             | GH43
+  NPE14947.1      | CAZyme             | PL11
+  NPE14948.1      | CAZyme             | GH2
+=== PUL0624 ===
+  NPD91058.1      | CAZyme             | GH43
+  NPD91059.1      | Transport/Surface  | T9SS type A sorting domain-containing protein [Xylanibacter muris]
+  NPD91060.1      | CAZyme             | GH51
+  NPD91061.1      | Hypothetical       | hypothetical protein HPS56_01570 [Xylanibacter muris]
+  NPD91062.1      | Transporter        | SusC
+  NPD91063.1      | Transporter        | SusD
+  NPD91064.1      | Cell_adhesion      | fasciclin [Xylanibacter muris]
+  NPD91065.1      | Cell_adhesion      | beta-Ig-H3/fasciclin [Xylanibacter muris]
+  NPD91066.1      | Transporter        | SusC
+  NPD91067.1      | Transporter        | SusD
+  NPD91068.1      | CAZyme             | GH128
+=== PUL0625 ===
+  NPD92966.1      | CAZyme             | GH43
+  NPD92967.1      | CAZyme             | GH115
+  NPD92968.1      | CAZyme             | GH43
+  NPD92969.1      | CAZyme             | GH97
+  NPD92970.1      | CAZyme             | GH43
+  NPD92971.1      | CAZyme             | CE1
+  NPD92972.1      | CAZyme             | GH95
+  NPD92973.1      | CAZyme             | GH115
+  -               | Unknown            | 
+  NPD92974.1      | Hypothetical       | hypothetical protein HPS56_11610 [Xylanibacter muris]
+  NPD92975.1      | TF                 | 0035607
+  NPD92976.1      | CAZyme             | CE1
+  NPD92977.1      | CAZyme             | GH30
+  NPD92978.1      | Transporter        | SusD
+  NPD92979.1      | Transporter        | SusC
+  NPD92980.1      | Hypothetical       | hypothetical protein HPS56_11640 [Xylanibacter muris]
+  NPD92981.1      | Cell_adhesion      | fasciclin domain-containing protein [Xylanibacter muris]
+  NPD92982.1      | Transporter        | SusD
+  NPD92983.1      | Transporter        | SusC
+=== PUL0630 ===
+  CCO21033.1      | Transporter        | SusC
+  CCO21034.1      | Transporter        | SusD
+  CCO21035.1      | Transport/Surface  | putative sugar-binding protein [termite gut metagenome]
+  CCO21036.1      | CAZyme             | GH10
+  CCO21037.1      | CAZyme             | GH115
+  CCO21038.1      | CAZyme             | CE20
+  CCO21039.1      | Transporter        | 2.A.2.3.2
+  CCO21040.1      | CAZyme             | GH10
+  CCO21041.1      | CAZyme             | GH43
+=== PUL0648 ===
+  WP_026177106.1  | CAZyme             | GH10
+  WP_006843625.1  | DUF                | DUF5627 domain-containing protein [Dysgonomonas mossii]
+  WP_006843626.1  | Transporter        | SusD
+  WP_006843627.1  | Transporter        | SusC
+  WP_006843628.1  | Transporter        | SusD
+  WP_006843629.1  | Transporter        | SusC
+  WP_006843630.1  | CAZyme             | GH43
+  WP_006843631.1  | CAZyme             | GH43
+  WP_018075007.1  | CAZyme             | GH10
+  WP_006843634.1  | TF                 | HTH_AraC
+  WP_006843635.1  | Sugar_metabolism   | transketolase family protein [Dysgonomonas mossii]
+  WP_006843636.1  | CAZyme             | GH146
+  WP_006843637.1  | STP                | NUDIX
+  WP_006843638.1  | CAZyme             | CE1
+  WP_006843639.1  | CAZyme             | GH8
+  WP_006843640.1  | CAZyme             | CE6
+  WP_006843641.1  | CAZyme             | GH43
+  WP_006843642.1  | CAZyme             | GH43
+  WP_006843643.1  | CAZyme             | GH97
+  WP_006843644.1  | CAZyme             | GH31
+  WP_026177140.1  | TF                 | HTH_AraC
+  WP_018075106.1  | Hypothetical       | hypothetical protein [Dysgonomonas mossii]
+  WP_006843647.1  | CAZyme             | GH51
+  WP_006843648.1  | CAZyme             | GH43
+  WP_006843649.1  | CAZyme             | CE1
+  WP_006843651.1  | CAZyme             | GH43
+  WP_006843652.1  | CAZyme             | GH115
+  WP_006843653.1  | CAZyme             | CE20
+  WP_006843654.1  | Transporter        | 2.A.2.3.2
+  WP_006843655.1  | CAZyme             | GH10
+  WP_006843656.1  | CAZyme             | GH43
+  WP_006843657.1  | CAZyme             | GH67
+  WP_006843658.1  | Sugar_metabolism   | mannonate dehydratase [Dysgonomonas mossii]
+  WP_006843659.1  | Oxidoreductases    | SDR family oxidoreductase [Dysgonomonas mossii]
+  WP_006843660.1  | TF                 | 0036286
+  WP_006843661.1  | Transporter        | SusC
+  WP_006843662.1  | Transporter        | SusD
+=== PUL0669 ===
+  WP_004294234.1  | CAZyme             | GH35
+  WP_004294235.1  | CAZyme             | CE20
+  WP_004289614.1  | CAZyme             | GH43
+  WP_004294236.1  | CAZyme             | GH43
+  WP_017141108.1  | CAZyme             | GH67
+  WP_004294238.1  | TF                 | 0036286
+  WP_004294239.1  | CAZyme             | GH115
+  WP_232286955.1  | CAZyme             | GH95
+  WP_232286957.1  | CAZyme             | CE6
+  WP_004294240.1  | CAZyme             | CE15
+  WP_004294241.1  | CAZyme             | GH97
+  WP_004294242.1  | TF                 | 0036286
+  WP_004289604.1  | CAZyme             | GH31
+  WP_050793236.1  | CAZyme             | GH43
+  WP_029429358.1  | CAZyme             | CE1
+  WP_004289601.1  | Other              | MULTISPECIES: HU family DNA-binding protein [Bacteroidaceae]
+  WP_017141103.1  | Hypothetical       | hypothetical protein [Bacteroides eggerthii]
+  WP_004289599.1  | Other              | MULTISPECIES: BT4734/BF3469 family protein [Bacteroidaceae]
+  WP_004289598.1  | CAZyme             | GH5
+  WP_004294246.1  | CAZyme             | GH10
+  WP_004289596.1  | DUF                | MULTISPECIES: DUF5627 domain-containing protein [Bacteroidaceae]
+  WP_004289595.1  | Transporter        | SusD
+  WP_029429356.1  | Transporter        | SusC
+  WP_004294248.1  | Transporter        | SusD
+  WP_004289592.1  | Transporter        | SusC
+  WP_004289591.1  | CAZyme             | GH43
+=== PUL0682 ===
+  MCF0243542.1    | CAZyme             | GH97
+  MCF0243543.1    | CAZyme             | CBM89
+  MCF0243544.1    | CAZyme             | GH43
+=== PUL0694 ===
+  WP_041726955.1  | CAZyme             | CBM35
+  WP_013431286.1  | Transporter        | 3.A.1.1.57
+  WP_041727298.1  | Transporter        | 3.A.1.1.39
+  WP_015906802.1  | Other              | YIP1 family protein [Caldicellulosiruptor bescii]
+  WP_015906803.1  | DUF                | DUF5696 domain-containing protein [Caldicellulosiruptor bescii]
+  WP_015906804.1  | Transporter        | 3.A.1.1.11
+  WP_015906805.1  | Transporter        | 3.A.1.1.20
+  WP_013431280.1  | STP                | SBP_bac_1
+  WP_015906806.1  | CAZyme             | GH43
+  WP_015906807.1  | CAZyme             | CBM22
+  WP_015906808.1  | CAZyme             | GH39
+  WP_015906809.1  | CAZyme             | GH10
+  WP_015906810.1  | CAZyme             | CE1
+  WP_015906811.1  | CAZyme             | GH39
+=== PUL0695 ===
+  WP_015907191.1  | STP                | SBP_bac_1
+  WP_015907192.1  | Transporter        | 3.A.1.1.4
+  WP_015907193.1  | Transporter        | 3.A.1.1.18
+  WP_015907194.1  | TF                 | 0043935
+  WP_015907195.1  | CAZyme             | CBM22
+=== PUL0696 ===
+  WP_015907390.1  | STP                | SBP_bac_1
+  WP_015907391.1  | General_metabolism | uroporphyrinogen decarboxylase family protein [Caldicellulosiruptor bescii]
+  WP_015907392.1  | Transporter        | 3.A.1.1.10
+  WP_015907393.1  | Transporter        | 3.A.1.1.29
+  WP_013430735.1  | Transporter        | 3.A.1.1.29
+  WP_015907394.1  | STP                | HATPase_c
+  WP_015907395.1  | TF                 | 0035607
+  WP_015907396.1  | CAZyme             | GH67
+  WP_015907397.1  | Oxidoreductases    | mannitol dehydrogenase family protein [Caldicellulosiruptor bescii]
+  WP_015907398.1  | Sugar_metabolism   | mannonate dehydratase [Caldicellulosiruptor bescii]
+  WP_041727352.1  | CAZyme             | GH2
+=== PUL0697 ===
+  WP_015909018.1  | CAZyme             | CE20
+  WP_015909019.1  | CAZyme             | CE4
+  WP_015909020.1  | CAZyme             | GH10
+=== PUL0704 ===
+  WP_031425579.1  | Transporter        | SusD
+  WP_031425580.1  | Transporter        | SusC
+  WP_031425581.1  | Sugar_metabolism   | xylulokinase [Flavimarina sp. Hel_I_48]
+  WP_031425582.1  | TF                 | 0036955
+  WP_117434191.1  | CAZyme             | GH67
+  WP_035916775.1  | CAZyme             | GH10
+  WP_031425585.1  | CAZyme             | GH115
+  WP_031425586.1  | CAZyme             | GH10
+  WP_206340674.1  | Transport/Surface  | glycan-binding surface protein [Flavimarina sp. Hel_I_48]
+  WP_031425588.1  | Transporter        | SusD
+  WP_031425589.1  | Transporter        | SusC
+  WP_081868360.1  | CAZyme             | CE15
+  WP_031425591.1  | Transporter        | SusD
+  WP_051907744.1  | Transporter        | SusC
+  WP_031425593.1  | CAZyme             | GH43
+  WP_031425594.1  | CAZyme             | CE20
+  WP_031425595.1  | Transporter        | SusC
+  WP_051907745.1  | Other              | choice-of-anchor Q domain-containing protein [Flavimarina sp. Hel_I_48]
+=== PUL0705 ===
+  WP_081868372.1  | CAZyme             | GH43
+  WP_031425947.1  | CAZyme             | GH97
+  WP_051907767.1  | CAZyme             | GH43
+  WP_081868373.1  | CAZyme             | CE6
+  WP_035916826.1  | CAZyme             | GH8
+  WP_051907768.1  | CAZyme             | GH95
+  WP_164076206.1  | TF                 | HTH_AraC
+  WP_035916828.1  | CAZyme             | GH10
+  WP_051907770.1  | CAZyme             | GH10
+  WP_031425955.1  | DUF                | DUF5627 domain-containing protein [Flavimarina sp. Hel_I_48]
+  WP_031425956.1  | Transporter        | SusD
+  WP_031425957.1  | Transporter        | SusC
+  WP_031425958.1  | Transporter        | SusD
+  WP_035916831.1  | Transporter        | SusC
+=== PUL0722 ===
+  WP_203394764.1  | CAZyme             | GH43
+  WP_203394765.1  | CAZyme             | GH43
+  WP_203394766.1  | CAZyme             | GH10
+  WP_203394767.1  | Sulfatase          | S1_22
+  WP_252191098.1  | Operon/Regulon     | ThuA domain-containing protein [Polaribacter sp. Q13]
+  WP_249988932.1  | CAZyme             | GH179
+  WP_252191099.1  | Transporter        | 9.B.107.1.4
+  WP_203394769.1  | Hypothetical       | hypothetical protein [Polaribacter sp. Q13]
+  WP_203394770.1  | TF                 | DUF24
+  WP_203394771.1  | CAZyme             | GH10
+  WP_203394772.1  | Sulfatase          | S1_4
+  WP_203394773.1  | Hypothetical       | hypothetical protein [Polaribacter sp. Q13]
+  WP_203394774.1  | Hypothetical       | MULTISPECIES: hypothetical protein [unclassified Polaribacter]
+  WP_203394775.1  | Phosphatase        | MULTISPECIES: alkaline phosphatase [unclassified Polaribacter]
+  WP_252191100.1  | Operon/Regulon     | ThuA domain-containing protein [Polaribacter sp. Q13]
+  WP_203394777.1  | Sulfatase          | S1_62
+  WP_203394778.1  | CAZyme             | GH26
+  WP_203394779.1  | CAZyme             | GH43
+  WP_203394780.1  | CAZyme             | GH10
+  WP_203394781.1  | CAZyme             | GH10
+  WP_203394782.1  | CAZyme             | CBM4
+  WP_203394783.1  | Transporter        | SusD
+  WP_252191101.1  | Transporter        | SusC
+  WP_203394785.1  | CAZyme             | GH3
+  WP_203394786.1  | TF                 | 0035607
+  WP_203394787.1  | CAZyme             | CBM0
+  WP_203394788.1  | Sugar_metabolism   | fructose-6-phosphate aldolase [Polaribacter sp. Q13]
+  WP_203394789.1  | Sugar_metabolism   | transketolase family protein [Polaribacter sp. Q13]
+  WP_215602577.1  | Sugar_metabolism   | xylose isomerase [Polaribacter sp. Q13]
+  WP_203394322.1  | Sugar_metabolism   | xylulokinase [Polaribacter sp. Q13]
+=== PUL0743 ===
+  WP_015924755.1  | Transporter        | 9.B.33.1.7
+  WP_015924756.1  | TF                 | 0036286
+  WP_015924757.1  | STP                | SBP_bac_1
+  WP_015924758.1  | Transporter        | 3.A.1.1.9
+  WP_015924759.1  | Transporter        | 3.A.1.1.9
+  WP_015924760.1  | CAZyme             | GH51
+  WP_015924761.1  | DUF                | DUF6171 family protein [Ruminiclostridium cellulolyticum]
+  WP_015924762.1  | CAZyme             | GH43
+  WP_015924763.1  | CAZyme             | GH8
+  WP_015924764.1  | CAZyme             | GH39
+  WP_015924765.1  | CAZyme             | CE1
+  WP_015924766.1  | CAZyme             | GH182
+  WP_041706618.1  | CAZyme             | CE20
+=== PUL0792 ===
+  WP_226555405.1  | Peptidase          | peptide deformylase [Bifidobacterium pseudocatenulatum]
+  WP_226849175.1  | Oxidoreductases    | bifunctional diaminohydroxyphosphoribosylaminopyrimidine deaminase/5-amino-6-(5-phosphoribosylamino)uracil reductase RibD [Bifidobacterium pseudocatenulatum]
+  WP_004219837.1  | STP                | SBP_bac_1
+  WP_221608518.1  | Transporter        | 3.A.1.1.21
+  WP_004219834.1  | Transporter        | 3.A.1.1.46
+  WP_226849177.1  | CAZyme             | GH120
+  WP_226849180.1  | CAZyme             | GH43
+  WP_226849182.1  | CAZyme             | GH0
+  WP_226849184.1  | CAZyme             | GH8
+  WP_226555413.1  | CAZyme             | GH10
+  WP_226555415.1  | Mobile_elements    | integrase catalytic domain-containing protein [Bifidobacterium pseudocatenulatum]
+  WP_226849186.1  | CAZyme             | CE20
+  -               | Unknown            | 
+  WP_261980546.1  | Hypothetical       | MULTISPECIES: hypothetical protein [Bifidobacterium]
+  WP_226555418.1  | Hydrolases         | MULTISPECIES: nucleoside hydrolase [Bifidobacterium]
+  -               | Unknown            | 
+  WP_226555419.1  | TF                 | 0043669

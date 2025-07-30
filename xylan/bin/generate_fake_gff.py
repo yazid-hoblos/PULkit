@@ -1,12 +1,19 @@
+'''Generates fake GFF file for dbCAN annotation purposes'''
+
 from Bio import SeqIO
 import sys 
+
+if len(sys.argv) != 3:
+    print("Usage: python generate_fake_gff.py <input_fasta> <output_gff>")
+    print('Input is the output of extract_pul_proteins.py')
+    sys.exit(1)
+
+file = sys.argv[1]
+output = sys.argv[2] 
 
 gff_lines = ["##gff-version 3"]
 start = 1
 gap = 1000  # fake gene spacing
-
-file = sys.argv[1] if len(sys.argv) > 1 else "xylan_pul_proteins.faa"
-output = sys.argv[2] if len(sys.argv) > 2 else "synthetic.gff"
 
 for record in SeqIO.parse(file, "fasta"):
     contig = record.id.split("|")[0]

@@ -1,7 +1,15 @@
-import csv
+'''Fix method column issue in metadata file; should be fixed if you re-run dbcan_pul_accession.py'''
 
-input_file = "data/xylan_gene_info_corrected_with_seq.csv"
-output_file = "fixed_metadata2.csv"
+import csv
+import sys
+
+if len(sys.argv) != 3:
+    print("Usage: python extract.py <input_file> <output_fasta>")
+    print("Input is the metadata output file of dbcan_pul_accession.py")
+    sys.exit(1)
+
+input_file = sys.argv[1]
+output_file = sys.argv[2]
 
 with open(input_file, newline='', encoding='utf-8') as infile, \
      open(output_file, 'w', newline='', encoding='utf-8') as outfile:

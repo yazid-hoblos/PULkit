@@ -1,0 +1,62 @@
+PUL0010: Sugar_metabolism → Sugar_metabolism → CAZyme → Sulfatase → Operon/Regulon → CAZyme → Transporter → Oxidoreductases → Sugar_metabolism → Sugar_metabolism → TF → Sulfatase → STP → CAZyme → CAZyme → Transporter → Transporter → STP → CAZyme → CAZyme → CAZyme → Sulfatase → Transporter → Transporter → STP → TF → STP → Hypothetical → Unknown → Oxidoreductases → Hydrolases → CAZyme → CAZyme → Transporter → Transporter → STP → General_metabolism → Sugar_metabolism → General_metabolism → TF → Transporter → Transporter → Transporter
+PUL0648: CAZyme → DUF → SusD → SusC → SusD → SusC → CAZyme → CAZyme → CAZyme → TF → Sugar_metabolism → CAZyme → STP → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → TF → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Transporter → CAZyme → CAZyme → CAZyme → Sugar_metabolism → Oxidoreductases → TF → SusC → SusD
+PUL0338: Transporter → TF → Transporter → Operon/Regulon → Operon/Regulon → Hypothetical → STP → RNA_processing → Transporter → Transport/Surface → Transporter → Hypothetical → Hypothetical → CAZyme → Hypothetical → STP → SusC → SusD → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → Other → Transporter → Hypothetical → CAZyme → STP → TF → Peptidase → Peptidase → General_metabolism → Peptidase → Ribosomal
+PUL0335: Hypothetical → TF → Transport/Surface → STP → CAZyme → General_metabolism → Transporter → Transporter → STP → CAZyme → Sugar_metabolism → Hydrolases → Mobile_elements → Ribosomal → Peptidase → General_metabolism → Peptidase → Peptidase → TF → STP → CAZyme → Hypothetical → Transporter → Other → CAZyme → CAZyme → CAZyme → CAZyme → Hypothetical → SusD → SusC
+PUL0345: TF → SusC → SusD → Hypothetical → CAZyme → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Hypothetical → Peptidase → TF → Mobile_elements → CAZyme → CAZyme → CAZyme → CAZyme → Hypothetical → CAZyme → Hypothetical → SusD → SusC → SusD → SusC → Hypothetical → CAZyme → CAZyme
+PUL0542: STP → TF → STP → Transporter → Transporter → Sulfatase → CAZyme → CAZyme → CAZyme → Mobile_elements → Transporter → Transporter → CAZyme → CAZyme → STP → Sulfatase → TF → General_metabolism → Sugar_metabolism → Sugar_metabolism → Transporter → Hypothetical → Mobile_elements → Other → CAZyme → Other → Sulfatase → CAZyme → Kinases → Sugar_metabolism
+PUL0722: CAZyme → CAZyme → CAZyme → Sulfatase → Operon/Regulon → CAZyme → Transporter → Hypothetical → TF → CAZyme → Sulfatase → Hypothetical → Hypothetical → Phosphatase → Operon/Regulon → Sulfatase → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → SusD → SusC → CAZyme → TF → CAZyme → Sugar_metabolism → Sugar_metabolism → Sugar_metabolism → Sugar_metabolism
+PUL0337: Hypothetical → STP → RNA_processing → TF → Hypothetical → Transporter → Transporter → TF → Transporter → Operon/Regulon → Operon/Regulon → Hypothetical → STP → RNA_processing → Transporter → Transport/Surface → Transporter → Hypothetical → Hypothetical → CAZyme → Hypothetical → STP → SusC → SusD → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0414: Transport/Surface → Hypothetical → Hypothetical → RNA_processing → Operon/Regulon → Kinases → CAZyme → CAZyme → STP → DUF → Other → Other → Other → Other → STP → Transporter → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → Other → Hypothetical → STP → CAZyme → CAZyme → Hypothetical → STP
+PUL0602: Sugar_metabolism → Sugar_metabolism → Sulfatase → Other → CAZyme → Transporter → Oxidoreductases → Sugar_metabolism → General_metabolism → TF → Sulfatase → STP → CAZyme → CAZyme → Transporter → Transporter → STP → CAZyme → CAZyme → CAZyme → Sulfatase → Transporter → Transporter → STP → TF → STP
+PUL0669: CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → TF → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → TF → CAZyme → CAZyme → CAZyme → Other → Hypothetical → Other → CAZyme → CAZyme → DUF → SusD → SusC → SusD → SusC → CAZyme
+PUL0329: CAZyme → CAZyme → Sulfatase → CAZyme → CAZyme → SusC → SusD → CAZyme → Hypothetical → Hypothetical → Hypothetical → Hypothetical → Hypothetical → TF → General_metabolism → CAZyme → CAZyme → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → Sugar_metabolism → Sugar_metabolism → Transporter
+PUL0336: Transporter → Other → CAZyme → CAZyme → CAZyme → CAZyme → Hypothetical → SusD → SusC → STP → Hypothetical → CAZyme → Hypothetical → Hypothetical → Transporter → Transport/Surface → Transporter → RNA_processing → STP → Hypothetical → Operon/Regulon → Operon/Regulon → Transporter → TF → Transporter
+PUL0339: Hypothetical → Mobile_elements → Hypothetical → Hypothetical → Hypothetical → Operon/Regulon → Mobile_elements → CAZyme → Transporter → CAZyme → CAZyme → Peptidase → CAZyme → Hypothetical → SusD → SusC → Hypothetical → General_metabolism → TF → CAZyme → STP → Hypothetical → Transporter → Hypothetical
+PUL0390: CAZyme → STP → Transporter → Transporter → Transporter → Transporter → CAZyme → CAZyme → Hypothetical → Sugar_metabolism → TF → General_metabolism → STP → Sugar_metabolism → Sugar_metabolism → CAZyme → STP → Transporter → Transporter → Transporter → Transporter → CAZyme → CAZyme
+PUL0553: CAZyme → CAZyme → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → SusC → SusD → SusC → SusD → DUF → CAZyme → Hypothetical → CAZyme → CAZyme → CAZyme → TF → CAZyme → CAZyme
+PUL0625: CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Unknown → Hypothetical → TF → CAZyme → CAZyme → SusD → SusC → Hypothetical → Cell_adhesion → SusD → SusC
+PUL0704: SusD → SusC → Sugar_metabolism → TF → CAZyme → CAZyme → CAZyme → CAZyme → Transport/Surface → SusD → SusC → CAZyme → SusD → SusC → CAZyme → CAZyme → SusC → Other
+PUL0792: Peptidase → Oxidoreductases → STP → Transporter → Transporter → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → Mobile_elements → CAZyme → Unknown → Hypothetical → Hydrolases → Unknown → TF
+PUL0622: Peptidase → SusD → SusC → Hypothetical → Hypothetical → SusD → SusC → Hypothetical → Hypothetical → Hypothetical → CAZyme → CAZyme → Unknown → CAZyme → CAZyme → CAZyme
+PUL0346: CAZyme → TF → Mobile_elements → Mobile_elements → Mobile_elements → Mobile_elements → SusD → SusC → CAZyme → CAZyme → CAZyme → Mobile_elements → CAZyme → Mobile_elements → CAZyme
+PUL0610: TF → CAZyme → CAZyme → SusC → Sulfatase → Hypothetical → Hypothetical → CAZyme → TF → STP → SusC → SusD → CAZyme → CAZyme → CAZyme
+PUL0617: CAZyme → Hydrolases → Transporter → CAZyme → CAZyme → CAZyme → Hypothetical → CAZyme → CAZyme → DUF → SusD → SusC → SusD → SusC
+PUL0694: CAZyme → Transporter → Transporter → Other → DUF → Transporter → Transporter → STP → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0705: CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → TF → CAZyme → CAZyme → DUF → SusD → SusC → SusD → SusC
+PUL0456: STP → Transporter → TF → SusC → SusD → SusC → CAZyme → TF → CAZyme → CAZyme → Transporter → Hydrolases → CAZyme
+PUL0743: Transporter → TF → STP → Transporter → Transporter → CAZyme → DUF → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0227: Hypothetical → CAZyme → CAZyme → Operon/Regulon → Operon/Regulon → Sugar_metabolism → STP → TF → STP → Transporter → Transporter → CAZyme
+PUL0262: SusC → SusD → SusC → SusD → Hypothetical → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → TF
+PUL0274: Sugar_metabolism → CAZyme → TF → STP → Transporter → Transporter → CAZyme → CAZyme → Peptidase → CAZyme → Sugar_metabolism → STP
+PUL0289: SusC → TF → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → CAZyme → SusD → SusC
+PUL0294: Hypothetical → Hypothetical → CAZyme → General_metabolism → CAZyme → CAZyme → Transporter → Transporter → STP → TF → Oxidoreductases → Sugar_metabolism
+PUL0140: Sugar_metabolism → CAZyme → TF → STP → Transporter → Transporter → CAZyme → CAZyme → Peptidase → CAZyme → Sugar_metabolism
+PUL0624: CAZyme → Transport/Surface → CAZyme → Hypothetical → SusC → SusD → Cell_adhesion → Cell_adhesion → SusC → SusD → CAZyme
+PUL0696: STP → General_metabolism → Transporter → Transporter → Transporter → STP → TF → CAZyme → Oxidoreductases → Sugar_metabolism → CAZyme
+PUL0620: CAZyme → Hypothetical → Hypothetical → CAZyme → Hypothetical → SusC → SusD → Cell_adhesion → Cell_adhesion → SusC
+PUL0328: CAZyme → CAZyme → Sulfatase → CAZyme → CAZyme → CAZyme → Hypothetical → SusD → SusC
+PUL0474: TF → SusC → SusD → CAZyme → CAZyme → CAZyme → Hydrolases → CAZyme → CAZyme
+PUL0480: CAZyme → TF → SusC → SusD → Other → CAZyme → CAZyme → CAZyme → CAZyme
+PUL0533: TF → CAZyme → SusC → SusD → SusC → SusD → Hypothetical → CAZyme → CAZyme
+PUL0630: SusC → SusD → Transport/Surface → CAZyme → CAZyme → CAZyme → Transporter → CAZyme → CAZyme
+PUL0229: TF → STP → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme
+PUL0364: CAZyme → CAZyme → General_metabolism → CAZyme → Transporter → SusC → CAZyme → CAZyme
+PUL0392: Hypothetical → SusD → SusC → TF → CAZyme → CAZyme → SusC → CAZyme
+PUL0592: TF → STP → Transporter → Transporter → Transporter → CAZyme → CAZyme → CAZyme
+PUL0457: Hypothetical → Sulfatase → CAZyme → Transporter → Transporter → Sugar_metabolism → Sugar_metabolism
+PUL0599: TF → STP → STP → CAZyme → Transport/Surface → Transporter → Transporter
+PUL0078: Transporter → Transporter → TF → CAZyme → Other → Other
+PUL0402: CAZyme → Transporter → Sugar_metabolism → Sugar_metabolism → Sugar_metabolism → TF
+PUL0263: CAZyme → Hypothetical → SusD → SusC → TF
+PUL0342: CAZyme → CAZyme → CAZyme → STP → TF
+PUL0508: TF → STP → Transporter → Transporter → CAZyme
+PUL0619: SusC → SusD → Hypothetical → Hypothetical → CAZyme
+PUL0695: STP → Transporter → Transporter → TF → CAZyme
+PUL0415: SusD → SusC → CAZyme → CAZyme
+PUL0594: STP → STP → TF → CAZyme
+PUL0598: CAZyme → Sugar_metabolism → Sugar_metabolism → Sugar_metabolism
+PUL0682: CAZyme → CAZyme → CAZyme
+PUL0697: CAZyme → CAZyme → CAZyme
+PUL0003: CAZyme → CAZyme
+PUL0411: CAZyme → CAZyme
+PUL0520: Transporter → CAZyme

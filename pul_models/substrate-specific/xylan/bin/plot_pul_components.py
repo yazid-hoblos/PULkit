@@ -69,7 +69,7 @@ def plot_pul_categories(pul_category_sequences, output_file, pul_to_organism_fil
 
         if pul_to_organism and pul_id in pul_to_organism:
             ax.text(x=len(seq) + 0.3, y=i, va='center', ha='left',
-                    fontsize=8, color='gray',
+                    fontsize=10, color='gray',
                     s=r"$\mathit{" + pul_to_organism[pul_id].replace(' ', r'\ ') + "}$")
 
     # Ticks and labels
@@ -82,7 +82,7 @@ def plot_pul_categories(pul_category_sequences, output_file, pul_to_organism_fil
 
     # Legend
     handles = [mpatches.Patch(color=color_map[cat], label=cat) for cat in used_categories]
-    plt.legend(handles=handles, title="Category", bbox_to_anchor=(1.05, 1), loc='upper left')
+    plt.legend(handles=handles, title="Category", bbox_to_anchor=(1, 1), loc='upper left')
 
     plt.tight_layout()
     plt.savefig(f"pul_component_patterns/{output_file}", dpi=500)

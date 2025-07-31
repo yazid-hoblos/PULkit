@@ -371,7 +371,7 @@ def main():
     org_file = 'data/xylan_pul_org.csv'
     plot_pul_categories(pul_category_sequences_reduced, 'all_categories_considered.png', pul_to_organism_file=org_file)
     custom_order = ["CAZyme", "Transporter", "SusC", "SusD", "STP", "TF-STP", "Sulfatase", "Peptidase", "Hypothetical", "Other"] # all TFs were found to be STPs as well
-    plot_pul_categories(pul_category_sequences_reduced, 'custom_ordered.png', pul_to_organism_file=org_file, custom_order=custom_order)
+    plot_pul_categories(pul_category_sequences_reduced, 'custom_ordered_plot.png', pul_to_organism_file=org_file, custom_order=custom_order)
 
 
 

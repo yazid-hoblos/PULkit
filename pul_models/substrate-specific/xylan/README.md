@@ -53,6 +53,6 @@ The same approach could be applied to predicted PULs based on the generic SusCD 
 
 ### Comments
 
-To understand dbCAN-PUL data curation approach, consider the following PULs all extracted from the supplementary material (regions highlighted in yellow in Table S5) of this [reference](doi.org/10.1371/journal.pbio.1001221): `PUL0167, PUL0178, PUL0306, PUL0326, PUL0415, PUL0416, PUL0417, PUL0418, PUL0419, PUL0420, PUL0421, PUL0422, PUL0424, PUL0425, PUL0426, PUL0427, PUL0674`.
+To understand dbCAN-PUL data curation approach, consider the following PULs all extracted from the supplementary material (regions highlighted in yellow in Table S5) of this [reference](https://doi.org/10.1371/journal.pbio.1001221): `PUL0167, PUL0178, PUL0306, PUL0326, PUL0415, PUL0416, PUL0417, PUL0418, PUL0419, PUL0420, PUL0421, PUL0422, PUL0424, PUL0425, PUL0426, PUL0427, PUL0674`.
 
 Similarly, this reference is used for some of the PULs in [CAZy-PULDB](https://www.cazy.org/PULDB/index.php?substr8=xylan), however they are not extracted as they are in CAZy. 

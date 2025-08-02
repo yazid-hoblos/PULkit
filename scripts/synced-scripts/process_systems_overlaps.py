@@ -6,23 +6,20 @@ from scipy.cluster.hierarchy import linkage, fcluster
 from scipy.spatial.distance import squareform
 from collections import defaultdict
 
-# Ensure file is provided
+
 if len(sys.argv) < 2:
-    print("Usage: python script.py <input_file.tsv>")
+    print("Usage: python script.py <input_systems_file.tsv>")
     sys.exit(1)
 
 input_file = sys.argv[1]
 
 # Read only columns 1 and 5 (0-based index: columns 1 and 5)
 df = pd.read_csv(input_file, sep="\t", usecols=["system number", "model_GF"])
-# df.rename(columns={"system number":  "model_GF"}, inplace=True)
-print(df)
 # Parse gene families into sets
 systems = {
     row["system number"]: set(map(str.strip, str(row["model_GF"]).split(',')))
     for _, row in df.iterrows()
 }
-print(systems)
 # Create similarity matrix (Modified Jaccard Index)
 system_ids = list(systems.keys())
 similarity_matrix = pd.DataFrame(index=system_ids, columns=system_ids, dtype=float)
@@ -38,8 +35,7 @@ similarity_matrix.index = similarity_matrix.index.astype(str)
 similarity_matrix.columns = similarity_matrix.columns.astype(str)
 
 # Plot heatmap
-plt.figure(figsize=(10, 8))
-g = sns.clustermap(
+sns.clustermap(
     similarity_matrix.astype(float),
     annot=False,
     fmt=".2f",
@@ -47,14 +43,13 @@ g = sns.clustermap(
     figsize=(10, 10),
     metric="euclidean",
     method="average",
-    cbar_kws={"label": "Similarity"},
+    cbar_kws={"label": "Similarity"},  
     xticklabels=True,
-    yticklabels=True,
-)
+    yticklabels=True)
 
-plt.title("System Gene Family Similarity (Jaccard Index)")
-plt.xlabel("System")
-plt.ylabel("System")
+plt.title("Overlap Jaccard")
+plt.xlabel("Systems")
+plt.ylabel("Systems")
 plt.tight_layout()
 plt.show()
 
@@ -72,6 +67,7 @@ for i, sys1 in enumerate(similarity_matrix.index):
 # Display results
 for pair in high_similarity_pairs:
     print(f"System {pair[0]} - System {pair[1]}: Similarity = {pair[2]:.2f}")
+
 
 # Hierarchical clustering
 distance_matrix = 1 - similarity_matrix
@@ -101,7 +97,7 @@ for cluster_id, system_ids in clustered_systems.items():
     }
 
 # Display supersystems
-print("Supersystems:")
+print("\n === Supersystems === \n")
 for cluster_id, data in supersystems.items():
     if len(data['members']) < 2:
         continue

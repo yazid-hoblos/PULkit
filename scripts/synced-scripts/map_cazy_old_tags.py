@@ -1,9 +1,7 @@
 import csv
 import sys 
-# Load mappings into a dictionary
-mapping = {}
 
-# take file1 and file2 as arguments
+
 if len(sys.argv) != 3:
     print("Usage: python merge.py <mappings_file> <cazy_data_file>")
     sys.exit(1)
@@ -11,16 +9,14 @@ if len(sys.argv) != 3:
 file1 = sys.argv[1]
 file2 = sys.argv[2]
 
-# file1 = "test_mappings"
-#"mappings.tsv"
+# Load mappings into a dictionary
+mapping = {}
 with open(file1) as f:
     for line in f:
         contig, start, end, strand, locus_tag, old_tag = line.strip().split("\t")
         mapping[old_tag] = (contig, start, end, strand, locus_tag)
 
 # Process PUL file
-# file2 = "cazy_data"
-#"pul_proteins.csv"
 with open(file2) as f:
     reader = csv.reader(f)
     for row in reader:

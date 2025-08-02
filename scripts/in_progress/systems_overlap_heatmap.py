@@ -4,7 +4,7 @@ Generate similarity heatmaps for PUL systems based on subset relationships
 between model and context gene families from two system files.
 
 Usage:
-    python post-processing.py --systems1 FILE1 --systems2 FILE2 [-o OUTPUT]
+    python script.py --systems1 FILE1 --systems2 FILE2 [-o OUTPUT]
 """
 
 import pandas as pd
@@ -79,7 +79,7 @@ def generate_similarity_heatmaps(file1, file2, output_dir="similarity_plots"):
 
     plt.tight_layout()
     output_path = os.path.join(output_dir, "subset_similarity_heatmaps.png")
-    plt.show()
+    plt.savefig(output_path, dpi=300)
     print(f"Saved subset-based heatmaps to: {output_path}")
     plt.close()
 

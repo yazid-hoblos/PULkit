@@ -1,16 +1,22 @@
 #!/bin/bash
 
-# Adjust this path to the root directory containing your .h5 files
-PANGENOME_DIR="Prev_pan"
-OUTPUT_DIR="ppanggolin_prot_output"
+set -euo pipefail
+
+# Check input arguments
+if [[ $# -ne 2 ]]; then
+    echo "Usage: $0 <pangenomes_dir> <output_dir>"
+    exit 1
+fi
+
+PANGENOME_DIR="$1"
+OUTPUT_DIR="$2"
 
 mkdir -p "$OUTPUT_DIR"
 
-# Find all .h5 files under PANGENOME_DIR and run ppanggolin for each
+# Find all .h5 files under the input directory and run `ppanggolin fasta` on each
 find "$PANGENOME_DIR" -name "*.h5" | while read -r H5FILE; do
     echo "Processing $H5FILE"
-    
-    # Get basename without path and extension for naming output subfolder
+
     PARENT_DIR=$(basename "$(dirname "$H5FILE")")
     OUT_SUBDIR="${OUTPUT_DIR}/${PARENT_DIR}"
 
@@ -18,4 +24,3 @@ find "$PANGENOME_DIR" -name "*.h5" | while read -r H5FILE; do
 
     ppanggolin fasta -p "$H5FILE" --output "$OUT_SUBDIR" --prot_families all -f
 done
-

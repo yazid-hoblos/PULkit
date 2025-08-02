@@ -2,7 +2,17 @@
 
 set -euo pipefail
 
-for species_dir in Prev_pan/*; do
+# Check arguments
+if [[ $# -ne 2 ]]; then
+    echo "Usage: $0 <input_pangenomes_dir> <output_root_dir>"
+    exit 1
+fi
+
+input_dir="$1"
+output_root="$2"
+
+# Loop over subdirectories in input_dir
+for species_dir in "$input_dir"/*; do
     species=$(basename "$species_dir")
     md5_file="$species_dir/genomes_md5sum.tsv"
 
@@ -12,14 +22,14 @@ for species_dir in Prev_pan/*; do
         continue
     fi
 
-    # Create temporary input file with genome accessions (skip header)
+    # Create temporary file with genome accessions (skip header)
     accessions_file=$(mktemp)
     tail -n +2 "$md5_file" | cut -f1 > "$accessions_file"
 
     echo "Downloading genomes for $species..."
 
-    # Define download and output directory
-    output_dir="genomes_by_species/$species"
+    # Set output directory per species
+    output_dir="$output_root/$species"
     mkdir -p "$output_dir"
 
     # Download and unzip
@@ -33,4 +43,3 @@ for species_dir in Prev_pan/*; do
 
     echo "Done with $species."
 done
-

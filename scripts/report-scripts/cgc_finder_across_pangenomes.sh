@@ -1,13 +1,16 @@
 #!/bin/bash
 
-#SBATCH -J dbcan
-#SBATCH -c 20
-#SBATCH --mem=25GB
-#SBATCH -t 24:00:00
+set -euo pipefail
 
-BASE_DIR="genomes_by_species"
-DBCAN_DB="dbcan-source"
-OUTBASE="easy-dbcan-results"
+# Check input arguments
+if [[ $# -ne 3 ]]; then
+    echo "Usage: $0 <genomes_base_dir> <dbcan_db_dir> <output_dir>"
+    exit 1
+fi
+
+BASE_DIR="$1"
+DBCAN_DB="$2"
+OUTBASE="$3"
 
 mkdir -p "$OUTBASE"
 
@@ -36,4 +39,3 @@ for species_dir in "$BASE_DIR"/*; do
         fi
     done
 done
-

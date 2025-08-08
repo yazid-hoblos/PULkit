@@ -3,9 +3,9 @@
 This repository offers a wide range of scripts developed within the scope of a project aimed at **PUL** (Polysaccharide Utilization Loci) systems detection at the pangenome level. It encompasses three main broad themes: 
 
 <ol type="1" style="list-style: none;">
-  <li>(1) PUL models formulation</li>
-  <li>(2) Halper scripts for PUL systems detection and validation</li>
-  <li>(3) Comparartive analysis of predictions across approaches<li>
+  <li> PUL models formulation</li>
+  <li> Halper scripts for PUL systems detection and validation</li>
+  <li> Comparartive analysis of predictions across approaches<li>
 </ol>
 
 ## 1. PUL Models Formulation **`/pul_models/`** 
@@ -123,24 +123,31 @@ More details in associated report: [README](pul_models/substrate-specific/README
 ## Typical Workflow:
 
 1. **PUL Models Formulation** (`/pul_models/`)
+   
    ↓ Explore signature patterns and generate models
 
 2. **Annotation** (`/annotation/`)
+   
    ↓ Annotate signature gene families in pangenomes
 
 3. **PUL Detection**
+   
    ↓ Run PANORAMA to detect PULs in pangenomes
 
 4. **Pangenome-level Insights** (`/panorama_utils/`)
+   
    ↓ Examine PANORAMA predictions
 
 5. **Utilities** (`/utils/`)
+   
    ↓ Support scripts for data processing and format conversion
 
 6. **Extract Other Predictions and Empirical PULs** (`/extract_pul_data/`)
+   
    ↓ Validation of predictions with empirical PULs and other approaches predictions
 
 7. **Comparative Analysis** (`/comparative_analysis/`)
+   
    ↓ Compare across species and approaches
 
 

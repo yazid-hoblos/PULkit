@@ -1,8 +1,4 @@
-# 1. PUL Predictions Comparative Analysis
-
-All scripts used for comparative analysis of PUL predictions across PANORAMA, dbCAN, and CAZy could be found in [bin/](scripts/bin). Empirically-validated PULs from two _B. thetaiotaomicron_ strains are also considered.
-
-# 2. Identifying PUL Signatures In Experimentally-Validated PULs
+# Identifying PUL Signatures In Experimentally-Validated PULs
 
 The latest dbCAN-PUL collection (v5) and its associated substrate mapping file from dbCAN2 were used to attempt to identify PUL signatures that could help formulate PUL prediction models.  
 

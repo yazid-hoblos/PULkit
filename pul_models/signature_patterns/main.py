@@ -1,8 +1,9 @@
-from utils import *
-from PUL_rules import *
-from rf_classifier import *
+from utils import (parse_dbcan_pul_data, extract_pul_features, group_puls_by_substrate,
+                   identify_pul_signatures, compare_predictions, compare_confusion_matrices)
+from PUL_rules import (create_pul_rule_sets, predict_pul_type_with_rules)
+from rf_classifier import (prepare_ml_classifier, predict_pul_type_with_rf, evaluate_classification)
 
-puls = parse_dbcan_pul_data('../data/dbCAN-PUL_v5.csv', '../data/dbCAN-PUL.substrate.mapping.csv') #../pul_components.csv
+puls = parse_dbcan_pul_data('data/dbCAN-PUL_v5.csv', 'data/dbCAN-PUL.substrate.mapping.csv') 
 pul_features = extract_pul_features(puls)
 
 print(f"\nTotal PULs processed: {len(pul_features)}")

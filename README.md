@@ -4,13 +4,13 @@ This repository offers a wide range of scripts developed within the scope of a p
 
 <ol type="1" style="list-style: none;">
   <li> PUL models formulation</li>
-  <li> Halper scripts for PUL systems detection and validation</li>
+  <li> Helper scripts for PUL systems detection and validation</li>
   <li> Comparartive analysis of predictions across approaches</li>
 </ol>
 
 ## 1. PUL Models Formulation **`/pul_models/`** 
 
-PUL prediction models remains currently limited to two main approaches in the literature:
+PUL prediction models remain currently limited to two main approaches in the literature:
 
 1. The _SusCD_ model introduced by _Terrapon et al._ [[1]](#ref1) in 2015, formally defining PULs as operon-like structures centered around a SusC-SusD adjacent pair (TonB-dependent transporter). It primarily concerns _Bacteroidetes_ species as it was defined and validated on them.
 
@@ -47,10 +47,10 @@ More details on the scripts are covered step-by-step in the README of **substrat
 
 More details in associated report: [README](pul_models/substrate-specific/README.md).
 
-## 2. Utils for PUL Systems Detection & Vlaidation
+## 2. Utils for PUL Systems Detection & Validation
 
 
-### 📁 `/annotation/` Pangenome signature genes annotation 
+### 📁 `/annotation/` Pangenome signature gene families annotation 
 
 - `write_metadata_to_pangenomes.sh` - Add metadata to pangenome files
 - `set_hmm_thresholds.sh` - Configure HMM profile thresholds

@@ -2,19 +2,19 @@
 
 ## 1. PUL Data Extraction
 
-All 796 experimentally-validated PULs available in the latest update of [dbCAN-PUL](https://aca.unl.edu/dbCAN_PUL/dbCAN_PUL/) were automatically extracted from the webpage. This is achieved with the [dbcan_pul_accession.py](bin/dbcan_pul_accession.py) script, which generates a metadata file (one PUL per line), and a gene_info file with the protein components of each PUL (one gene per line). While dbCAN provides an excel file with all PULs, it lacks information about the component genes (instead it has a column for those predicted by dbCAN in these PUL regions).
+All 796 experimentally-validated PULs available in the latest update of [dbCAN-PUL](https://aca.unl.edu/dbCAN_PUL/dbCAN_PUL/) were automatically extracted from the webpage. This is achieved with the [dbcan_pul_accession.py](/pul_models/bin/dbcan_pul_accession.py) script, which generates a metadata file (one PUL per line), and a gene_info file with the protein components of each PUL (one gene per line). While dbCAN provides an excel file with all PULs, it lacks information about the component genes (instead it has a column for those predicted by dbCAN in these PUL regions).
 
-Next, the protein identifiers of these components are used to extract their annotations and sequences from **GenBank**. This is achieved with the [add_genbank_records.py](bin/add_genbank_records.py) script, which returns an updated CSV with the two added columns for annotations and protein sequences. 
+Next, the protein identifiers of these components are used to extract their annotations and sequences from **GenBank**. This is achieved with the [add_genbank_records.py](/pul_models/bin/add_genbank_records.py) script, which returns an updated CSV with the two added columns for annotations and protein sequences. 
 
-Substrate-specific PULs could be accessed by filtering the [metadata file](data/dbcan_pul_metadata_corrected_fixed.csv) using the substrate column (e.g. `grep -w xylan dbcan_pul_metadata.csv`).
+Substrate-specific PULs could be accessed by filtering the [metadata file](/pul_models/data/dbcan_pul_metadata_corrected_fixed.csv) using the substrate column (e.g. `grep -w xylan dbcan_pul_metadata.csv`).
 
 ## 2. PUL Components Annotation
 
-The `annotation` column could then be used to group gene components with similar categories based on pre-defined regex patterns as in [infer_family_from_annotation.py](bin/infer_family_from_annotation.py). Alternatively, all the extracted protein sequences could be aligned against the HMM profiles of signature PUL families (CAZymes, TFs, STPs, Transporters, Sulfatases, Proteases) offered by dbCAN. 
+The `annotation` column could then be used to group gene components with similar categories based on pre-defined regex patterns as in [infer_family_from_annotation.py](/pul_models/bin/infer_family_from_annotation.py). Alternatively, all the extracted protein sequences could be aligned against the HMM profiles of signature PUL families (CAZymes, TFs, STPs, Transporters, Sulfatases, Proteases) offered by dbCAN. 
 
 ### 2.1 dbCAN Annotations with CGC-Finder
 
-Creating a `FASTA` file with all PUL component proteins, as achieved by [extract_pul_proteins.py](bin/extract_pul_proteins.py), allows running dbCAN for CAZymes annotation based on DIAMOND against CAZy sequences as well as CAZyme families and sub-families HMM profiles. To obtain the annotations of all signature families, `easy_CGC` must be ran (or the `-c` argument must be added in older dbCAN versions) and a `GFF` file must be passed since this mode is designed to proceed with CGCs prediction after all signature families detection. To this end, a fake `GFF` could be generated from the component proteins `FASTA` file. Then, all annotations could be obtained by running:
+Creating a `FASTA` file with all PUL component proteins, as achieved by [extract_pul_proteins.py](/pul_models/bin/extract_pul_proteins.py), allows running dbCAN for CAZymes annotation based on DIAMOND against CAZy sequences as well as CAZyme families and sub-families HMM profiles. To obtain the annotations of all signature families, `easy_CGC` must be ran (or the `-c` argument must be added in older dbCAN versions) and a `GFF` file must be passed since this mode is designed to proceed with CGCs prediction after all signature families detection. To this end, a fake `GFF` could be generated from the component proteins `FASTA` file. Then, all annotations could be obtained by running:
 
 `run_dbcan easy_CGC --db_dir <> --input_raw_data <FASTA> --input_gff <GFF> --mode protein --gff_type prodigal  --output_dir <>`
 
@@ -38,14 +38,14 @@ An example of the predicted SusCD-like proteins in all xylan PUL components is p
 
 ## 3. Components Analysis
 
-Examining the categories of component proteins across the PULs of interest could guide the formulation of new models for their detection. To this end, the [pul_components_analysis.py](bin/pul_components_analysis.py) script will take as input the output directory of dbCAN `easy_CGC`, the PUL component proteins file returned by [add_genbank_records.py](bin/add_genbank_records.py), and optionally the susCD annotations tblout file obtained with `hmmscan`, to combine all these annotations and return well-categorized PUL components representations. It generates an output directory with:
+Examining the categories of component proteins across the PULs of interest could guide the formulation of new models for their detection. To this end, the [pul_components_analysis.py](/pul_models/bin/pul_components_analysis.py) script will take as input the output directory of dbCAN `easy_CGC`, the PUL component proteins file returned by [add_genbank_records.py](/pul_models/bin/add_genbank_records.py), and optionally the susCD annotations tblout file obtained with `hmmscan`, to combine all these annotations and return well-categorized PUL components representations. It generates an output directory with:
 1. _detailed_components.txt_: protein identifiers, signature group, specific signature family (or genbank annotation) for each PUL, e.g. for xylan PULs [detailed_components](pul_component_patterns/detailed_components.txt).
 2. _category_sequences.txt_: simplified sequences of signature groups (CAZyme, TF, STP, Transpoter, SusCD, Sulfatase, Peptidase, and Other) per PUL, e.g. for xylan PULs [category_sequences](pul_component_patterns/category_sequences.txt). 
 3. _custom_ordered_plot.png_: bar plot representation of PUL components, sorted by size, with categories aggregated, and organism per PUL highlighted to right, e.g. for xylan PULs [components_plot](pul_component_patterns/custom_ordered_plot.png).
 
 ![](pul_component_patterns/custom_ordered_plot.png)
 
-The components plot is generated by [plot_pul_components.py](bin/plot_pul_components.py) with the option to sort PULs by size and provide a custom order or subset of categories to use. 
+The components plot is generated by [plot_pul_components.py](/pul_models/bin/plot_pul_components.py) with the option to sort PULs by size and provide a custom order or subset of categories to use. 
 
 ## 4. Future Directions
 

@@ -5,7 +5,7 @@ This repository offers a wide range of scripts developed within the scope of a p
 <ol type="1" style="list-style: none;">
   <li> PUL models formulation</li>
   <li> Halper scripts for PUL systems detection and validation</li>
-  <li> Comparartive analysis of predictions across approaches<li>
+  <li> Comparartive analysis of predictions across approaches</li>
 </ol>
 
 ## 1. PUL Models Formulation **`/pul_models/`** 

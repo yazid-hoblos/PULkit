@@ -142,7 +142,7 @@ More details in associated report: [README](pul_models/substrate-specific/README
    
    ↓ Support scripts for data processing and format conversion
 
-6. **Extract Other Predictions and Empirical PULs** (`/extract_pul_data/`)
+6. **Predicted and Empirical PULs Extraction** (`/extract_pul_data/`)
    
    ↓ Validation of predictions with empirical PULs and other approaches predictions
 

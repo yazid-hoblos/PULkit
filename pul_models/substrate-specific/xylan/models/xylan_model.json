@@ -1,0 +1,47 @@
+{
+    "name": "SusCD_model",
+    "func_units": [
+      {
+        "name": "PUL",
+        "presence": "mandatory",
+        "same_strand": false,
+        "parameters": {
+          "min_mandatory": 4,
+          "min_total": 4,
+          "transitivity": 0
+        },
+        "families": [
+          {
+            "name": "SusC",
+            "presence": "mandatory",
+            "exchangeable":["TonB_dep_Rec", "Plug", "STN", "CarbopepD_reg_2"]
+          },
+          {
+            "name": "SusD",
+            "presence": "mandatory",
+            "exchangeable":["SusD_RagB", "SusD-like", "SusD-like_2", "SusD-like_3"]
+          },
+          {
+            "name": "GH43",
+            "presence": "mandatory"
+          },
+          {
+            "name": "GH10",
+            "presence": "mandatory"
+          },
+          {
+            "name": "TF",
+            "presence": "accessory"},
+          {
+            "name": "STP",
+            "presence": "accessory"}
+        ]
+      }
+    ],
+    "parameters": {
+      "min_mandatory": 1,
+      "min_total": 1,
+      "transitivity": 0
+    }
+}
+

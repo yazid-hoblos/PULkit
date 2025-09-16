@@ -1,0 +1,9 @@
+name	accession	path	length	protein_name	secondary_name	score_threshold	eval_threshold	ieval_threshold	hmm_cov_threshold	target_cov_threshold	description
+TonB_dep_Rec	PF00593.27	/mnt/c/users/user/desktop/LABGeM/PULkit/pul_models/substrate-specific/xylan/check/hmm/PF00593.27.hmm	470	TonB_dep_Rec							TonB dependent receptor
+STN	PF07660.17	/mnt/c/users/user/desktop/LABGeM/PULkit/pul_models/substrate-specific/xylan/check/hmm/PF07660.17.hmm	52	STN							Secretin and TonB N terminus short domain
+Plug	PF07715.18	/mnt/c/users/user/desktop/LABGeM/PULkit/pul_models/substrate-specific/xylan/check/hmm/PF07715.18.hmm	108	Plug							TonB-dependent Receptor Plug Domain
+CarbopepD_reg_2	PF13715.9	/mnt/c/users/user/desktop/LABGeM/PULkit/pul_models/substrate-specific/xylan/check/hmm/PF13715.9.hmm	88	CarbopepD_reg_2							CarboxypepD_reg-like domain
+SusD_RagB	PF07980.14	/mnt/c/users/user/desktop/LABGeM/PULkit/pul_models/substrate-specific/xylan/check/hmm/PF07980.14.hmm	299	SusD_RagB							SusD family
+SusD-like	PF12741.10	/mnt/c/users/user/desktop/LABGeM/PULkit/pul_models/substrate-specific/xylan/check/hmm/PF12741.10.hmm	496	SusD-like							Susd and RagB outer membrane lipoprotein
+SusD-like_2	PF12771.10	/mnt/c/users/user/desktop/LABGeM/PULkit/pul_models/substrate-specific/xylan/check/hmm/PF12771.10.hmm	415	SusD-like_2							Starch-binding associating with outer membrane
+SusD-like_3	PF14322.9	/mnt/c/users/user/desktop/LABGeM/PULkit/pul_models/substrate-specific/xylan/check/hmm/PF14322.9.hmm	190	SusD-like_3							Starch-binding associating with outer membrane
